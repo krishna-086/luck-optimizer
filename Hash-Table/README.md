@@ -4,12 +4,16 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 8 | 8 | 0 | 6 | 2 | 0 |
+| 12 | 12 | 0 | 8 | 4 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
 | 3 | [Longest Substring Without Repeating Characters](../Hash-Table/0003-longest-substring-without-repeating-characters/README.md) | Medium | Solved | 6 | cpp | 2026-02-16 |
 | 13 | [Roman to Integer](../Hash-Table/0013-roman-to-integer/README.md) | Easy | Solved | 1 | cpp | 2024-12-15 |
+| 138 | [Copy List with Random Pointer](../Hash-Table/0138-copy-list-with-random-pointer/README.md) | Medium | Solved | 2 | cpp | 2026-03-01 |
+| 141 | [Linked List Cycle](../Hash-Table/0141-linked-list-cycle/README.md) | Easy | Solved | 7 | cpp | 2026-02-20 |
+| 142 | [Linked List Cycle II](../Hash-Table/0142-linked-list-cycle-ii/README.md) | Medium | Solved | 3 | cpp | 2026-02-20 |
+| 160 | [Intersection of Two Linked Lists](../Hash-Table/0160-intersection-of-two-linked-lists/README.md) | Easy | Solved | 2 | cpp | 2026-02-27 |
 | 202 | [Happy Number](../Hash-Table/0202-happy-number/README.md) | Easy | Solved | 1 | cpp | 2024-12-16 |
 | 205 | [Isomorphic Strings](../Hash-Table/0205-isomorphic-strings/README.md) | Easy | Solved | 2 | cpp | 2026-02-16 |
 | 242 | [Valid Anagram](../Hash-Table/0242-valid-anagram/README.md) | Easy | Solved | 2 | cpp | 2026-02-16 |

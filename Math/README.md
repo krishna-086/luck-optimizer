@@ -27,6 +27,7 @@ Filed under their main topic, but they use this one too.
 
 | # | Problem | Filed under | Difficulty | Status |
 | --- | --- | --- | --- | --- |
+| 2 | [Add Two Numbers](../Linked-List/0002-add-two-numbers/README.md) | Linked List | Medium | Solved |
 | 13 | [Roman to Integer](../Hash-Table/0013-roman-to-integer/README.md) | Hash Table | Easy | Solved |
 | 48 | [Rotate Image](../Array/0048-rotate-image/README.md) | Array | Medium | Solved |
 | 66 | [Plus One](../Array/0066-plus-one/README.md) | Array | Easy | Solved |

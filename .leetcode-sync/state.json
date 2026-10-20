@@ -1784,6 +1784,299 @@
         {"id":1923876765,"status":"Wrong Answer","lang":"cpp","timestamp":1771470781,"runtime":null,"memory":null},
         {"id":1923883252,"status":"Accepted","lang":"cpp","timestamp":1771471538,"runtime":"0 ms","memory":"20 MB"}
       ]
+    },
+    "remove-nth-node-from-end-of-list": {
+      "id": "19",
+      "title": "Remove Nth Node From End of List",
+      "slug": "remove-nth-node-from-end-of-list",
+      "difficulty": "Medium",
+      "tags": ["Linked List","Two Pointers"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0019-remove-nth-node-from-end-of-list",
+      "first_attempt_at": 1771578460,
+      "last_attempt_at": 1771971633,
+      "solved_at": 1771578460,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1930148909,"status":"Accepted","lang":"cpp","timestamp":1771971633,"runtime":"0 ms","memory":"14.8 MB"}
+      },
+      "submissions": [
+        {"id":1925213837,"status":"Accepted","lang":"cpp","timestamp":1771578460,"runtime":null,"memory":null},
+        {"id":1930148909,"status":"Accepted","lang":"cpp","timestamp":1771971633,"runtime":"0 ms","memory":"14.8 MB"}
+      ]
+    },
+    "middle-of-the-linked-list": {
+      "id": "876",
+      "title": "Middle of the Linked List",
+      "slug": "middle-of-the-linked-list",
+      "difficulty": "Easy",
+      "tags": ["Linked List","Two Pointers"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0876-middle-of-the-linked-list",
+      "first_attempt_at": 1771578734,
+      "last_attempt_at": 1771578734,
+      "solved_at": 1771578734,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1925217505,"status":"Accepted","lang":"cpp","timestamp":1771578734,"runtime":"0 ms","memory":"9.9 MB"}
+      },
+      "submissions": [
+        {"id":1925217505,"status":"Accepted","lang":"cpp","timestamp":1771578734,"runtime":"0 ms","memory":"9.9 MB"}
+      ]
+    },
+    "add-two-numbers": {
+      "id": "2",
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "difficulty": "Medium",
+      "tags": ["Linked List","Math","Recursion"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0002-add-two-numbers",
+      "first_attempt_at": 1771580813,
+      "last_attempt_at": 1771580813,
+      "solved_at": 1771580813,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1925245934,"status":"Accepted","lang":"cpp","timestamp":1771580813,"runtime":"3 ms","memory":"77.3 MB"}
+      },
+      "submissions": [
+        {"id":1925245934,"status":"Accepted","lang":"cpp","timestamp":1771580813,"runtime":"3 ms","memory":"77.3 MB"}
+      ]
+    },
+    "linked-list-cycle": {
+      "id": "141",
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "difficulty": "Easy",
+      "tags": ["Hash Table","Linked List","Two Pointers","Floyd's Cycle Finding Algorithm"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0141-linked-list-cycle",
+      "first_attempt_at": 1771583327,
+      "last_attempt_at": 1780646367,
+      "solved_at": 1771583478,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2023052922,"status":"Accepted","lang":"cpp","timestamp":1780646367,"runtime":"8 ms","memory":"11.7 MB"}
+      },
+      "submissions": [
+        {"id":1925278317,"status":"Wrong Answer","lang":"cpp","timestamp":1771583327,"runtime":null,"memory":null},
+        {"id":1925280251,"status":"Accepted","lang":"cpp","timestamp":1771583478,"runtime":null,"memory":null},
+        {"id":1925290250,"status":"Accepted","lang":"cpp","timestamp":1771584304,"runtime":null,"memory":null},
+        {"id":2023051919,"status":"Runtime Error","lang":"cpp","timestamp":1780646285,"runtime":null,"memory":null},
+        {"id":2023052476,"status":"Accepted","lang":"cpp","timestamp":1780646332,"runtime":null,"memory":null},
+        {"id":2023052761,"status":"Wrong Answer","lang":"cpp","timestamp":1780646354,"runtime":null,"memory":null},
+        {"id":2023052922,"status":"Accepted","lang":"cpp","timestamp":1780646367,"runtime":"8 ms","memory":"11.7 MB"}
+      ]
+    },
+    "linked-list-cycle-ii": {
+      "id": "142",
+      "title": "Linked List Cycle II",
+      "slug": "linked-list-cycle-ii",
+      "difficulty": "Medium",
+      "tags": ["Hash Table","Linked List","Two Pointers","Floyd's Cycle Finding Algorithm"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0142-linked-list-cycle-ii",
+      "first_attempt_at": 1771585174,
+      "last_attempt_at": 1780657955,
+      "solved_at": 1771585174,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2023211357,"status":"Accepted","lang":"cpp","timestamp":1780657955,"runtime":"10 ms","memory":"11.3 MB"}
+      },
+      "submissions": [
+        {"id":1925300124,"status":"Accepted","lang":"cpp","timestamp":1771585174,"runtime":null,"memory":null},
+        {"id":1928988633,"status":"Accepted","lang":"cpp","timestamp":1771881225,"runtime":null,"memory":null},
+        {"id":2023211357,"status":"Accepted","lang":"cpp","timestamp":1780657955,"runtime":"10 ms","memory":"11.3 MB"}
+      ]
+    },
+    "remove-duplicates-from-sorted-list": {
+      "id": "83",
+      "title": "Remove Duplicates from Sorted List",
+      "slug": "remove-duplicates-from-sorted-list",
+      "difficulty": "Easy",
+      "tags": ["Linked List"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0083-remove-duplicates-from-sorted-list",
+      "first_attempt_at": 1771711172,
+      "last_attempt_at": 1771712199,
+      "solved_at": 1771711172,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1926758250,"status":"Accepted","lang":"cpp","timestamp":1771712199,"runtime":"0 ms","memory":"16.2 MB"}
+      },
+      "submissions": [
+        {"id":1926751770,"status":"Accepted","lang":"cpp","timestamp":1771711172,"runtime":null,"memory":null},
+        {"id":1926757737,"status":"Runtime Error","lang":"cpp","timestamp":1771712118,"runtime":null,"memory":null},
+        {"id":1926758250,"status":"Accepted","lang":"cpp","timestamp":1771712199,"runtime":"0 ms","memory":"16.2 MB"}
+      ]
+    },
+    "reverse-linked-list": {
+      "id": "206",
+      "title": "Reverse Linked List",
+      "slug": "reverse-linked-list",
+      "difficulty": "Easy",
+      "tags": ["Linked List","Recursion"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0206-reverse-linked-list",
+      "first_attempt_at": 1771797838,
+      "last_attempt_at": 1780900407,
+      "solved_at": 1771797838,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2026032888,"status":"Accepted","lang":"cpp","timestamp":1780900407,"runtime":"0 ms","memory":"13.5 MB"}
+      },
+      "submissions": [
+        {"id":1927857477,"status":"Accepted","lang":"cpp","timestamp":1771797838,"runtime":null,"memory":null},
+        {"id":2026032888,"status":"Accepted","lang":"cpp","timestamp":1780900407,"runtime":"0 ms","memory":"13.5 MB"}
+      ]
+    },
+    "reverse-linked-list-ii": {
+      "id": "92",
+      "title": "Reverse Linked List II",
+      "slug": "reverse-linked-list-ii",
+      "difficulty": "Medium",
+      "tags": ["Linked List"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0092-reverse-linked-list-ii",
+      "first_attempt_at": 1771800183,
+      "last_attempt_at": 1780903818,
+      "solved_at": 1771861357,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2026090641,"status":"Accepted","lang":"cpp","timestamp":1780903818,"runtime":"0 ms","memory":"11.3 MB"}
+      },
+      "submissions": [
+        {"id":1927872351,"status":"Runtime Error","lang":"cpp","timestamp":1771800183,"runtime":null,"memory":null},
+        {"id":1928667981,"status":"Accepted","lang":"cpp","timestamp":1771861357,"runtime":null,"memory":null},
+        {"id":2026090641,"status":"Accepted","lang":"cpp","timestamp":1780903818,"runtime":"0 ms","memory":"11.3 MB"}
+      ]
+    },
+    "palindrome-linked-list": {
+      "id": "234",
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "difficulty": "Easy",
+      "tags": ["Linked List","Two Pointers","Stack","Recursion"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0234-palindrome-linked-list",
+      "first_attempt_at": 1771883676,
+      "last_attempt_at": 1771883676,
+      "solved_at": 1771883676,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1929006396,"status":"Accepted","lang":"cpp","timestamp":1771883676,"runtime":"3 ms","memory":"121.8 MB"}
+      },
+      "submissions": [
+        {"id":1929006396,"status":"Accepted","lang":"cpp","timestamp":1771883676,"runtime":"3 ms","memory":"121.8 MB"}
+      ]
+    },
+    "odd-even-linked-list": {
+      "id": "328",
+      "title": "Odd Even Linked List",
+      "slug": "odd-even-linked-list",
+      "difficulty": "Medium",
+      "tags": ["Linked List"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0328-odd-even-linked-list",
+      "first_attempt_at": 1771884723,
+      "last_attempt_at": 1771884999,
+      "solved_at": 1771884858,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1929015096,"status":"Accepted","lang":"cpp","timestamp":1771884999,"runtime":"0 ms","memory":"15.6 MB"}
+      },
+      "submissions": [
+        {"id":1929013328,"status":"Runtime Error","lang":"cpp","timestamp":1771884723,"runtime":null,"memory":null},
+        {"id":1929014200,"status":"Accepted","lang":"cpp","timestamp":1771884858,"runtime":null,"memory":null},
+        {"id":1929015096,"status":"Accepted","lang":"cpp","timestamp":1771884999,"runtime":"0 ms","memory":"15.6 MB"}
+      ]
+    },
+    "delete-the-middle-node-of-a-linked-list": {
+      "id": "2095",
+      "title": "Delete the Middle Node of a Linked List",
+      "slug": "delete-the-middle-node-of-a-linked-list",
+      "difficulty": "Medium",
+      "tags": ["Linked List","Two Pointers"],
+      "topic": "Linked List",
+      "dir": "Linked-List/2095-delete-the-middle-node-of-a-linked-list",
+      "first_attempt_at": 1771972892,
+      "last_attempt_at": 1771975665,
+      "solved_at": 1771972892,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1930172345,"status":"Accepted","lang":"cpp","timestamp":1771975665,"runtime":"0 ms","memory":"311.8 MB"}
+      },
+      "submissions": [
+        {"id":1930156550,"status":"Accepted","lang":"cpp","timestamp":1771972892,"runtime":null,"memory":null},
+        {"id":1930172345,"status":"Accepted","lang":"cpp","timestamp":1771975665,"runtime":"0 ms","memory":"311.8 MB"}
+      ]
+    },
+    "sort-list": {
+      "id": "148",
+      "title": "Sort List",
+      "slug": "sort-list",
+      "difficulty": "Medium",
+      "tags": ["Linked List","Two Pointers","Divide and Conquer","Sorting","Merge Sort"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0148-sort-list",
+      "first_attempt_at": 1772053115,
+      "last_attempt_at": 1772464558,
+      "solved_at": 1772053115,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1935786994,"status":"Accepted","lang":"cpp","timestamp":1772464558,"runtime":"83 ms","memory":"86.5 MB"}
+      },
+      "submissions": [
+        {"id":1931186529,"status":"Accepted","lang":"cpp","timestamp":1772053115,"runtime":null,"memory":null},
+        {"id":1931188369,"status":"Accepted","lang":"cpp","timestamp":1772053374,"runtime":null,"memory":null},
+        {"id":1935786994,"status":"Accepted","lang":"cpp","timestamp":1772464558,"runtime":"83 ms","memory":"86.5 MB"}
+      ]
+    },
+    "intersection-of-two-linked-lists": {
+      "id": "160",
+      "title": "Intersection of Two Linked Lists",
+      "slug": "intersection-of-two-linked-lists",
+      "difficulty": "Easy",
+      "tags": ["Hash Table","Linked List","Two Pointers"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0160-intersection-of-two-linked-lists",
+      "first_attempt_at": 1772148211,
+      "last_attempt_at": 1772530845,
+      "solved_at": 1772148211,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1936564933,"status":"Accepted","lang":"cpp","timestamp":1772530845,"runtime":"54 ms","memory":"24 MB"}
+      },
+      "submissions": [
+        {"id":1932270923,"status":"Accepted","lang":"cpp","timestamp":1772148211,"runtime":null,"memory":null},
+        {"id":1936564933,"status":"Accepted","lang":"cpp","timestamp":1772530845,"runtime":"54 ms","memory":"24 MB"}
+      ]
+    },
+    "rotate-list": {
+      "id": "61",
+      "title": "Rotate List",
+      "slug": "rotate-list",
+      "difficulty": "Medium",
+      "tags": ["Linked List","Two Pointers"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0061-rotate-list",
+      "first_attempt_at": 1772223514,
+      "last_attempt_at": 1772534275,
+      "solved_at": 1772223514,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1936612592,"status":"Accepted","lang":"cpp","timestamp":1772534275,"runtime":"0 ms","memory":"16.5 MB"}
+      },
+      "submissions": [
+        {"id":1933092504,"status":"Accepted","lang":"cpp","timestamp":1772223514,"runtime":null,"memory":null},
+        {"id":1936611792,"status":"Runtime Error","lang":"cpp","timestamp":1772534213,"runtime":null,"memory":null},
+        {"id":1936612592,"status":"Accepted","lang":"cpp","timestamp":1772534275,"runtime":"0 ms","memory":"16.5 MB"}
+      ]
+    },
+    "copy-list-with-random-pointer": {
+      "id": "138",
+      "title": "Copy List with Random Pointer",
+      "slug": "copy-list-with-random-pointer",
+      "difficulty": "Medium",
+      "tags": ["Hash Table","Linked List"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0138-copy-list-with-random-pointer",
+      "first_attempt_at": 1772319499,
+      "last_attempt_at": 1772546386,
+      "solved_at": 1772319499,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1936770700,"status":"Accepted","lang":"cpp","timestamp":1772546386,"runtime":"3 ms","memory":"15 MB"}
+      },
+      "submissions": [
+        {"id":1934129803,"status":"Accepted","lang":"cpp","timestamp":1772319499,"runtime":null,"memory":null},
+        {"id":1936770700,"status":"Accepted","lang":"cpp","timestamp":1772546386,"runtime":"3 ms","memory":"15 MB"}
+      ]
     }
   }
 }
