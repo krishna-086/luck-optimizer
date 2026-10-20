@@ -1,0 +1,327 @@
+{
+  "version": 1,
+  "synced_through": 0,
+  "problems": {
+    "reverse-integer": {
+      "id": "7",
+      "title": "Reverse Integer",
+      "slug": "reverse-integer",
+      "difficulty": "Medium",
+      "tags": ["Math"],
+      "topic": "Math",
+      "dir": "Math/0007-reverse-integer",
+      "first_attempt_at": 1717154531,
+      "last_attempt_at": 1770846792,
+      "solved_at": 1717155296,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1916324755,"status":"Accepted","lang":"cpp","timestamp":1770846792,"runtime":"0 ms","memory":"8.6 MB"}
+      },
+      "submissions": [
+        {"id":1273229719,"status":"Runtime Error","lang":"cpp","timestamp":1717154531,"runtime":null,"memory":null},
+        {"id":1273231383,"status":"Runtime Error","lang":"cpp","timestamp":1717154677,"runtime":null,"memory":null},
+        {"id":1273232423,"status":"Runtime Error","lang":"cpp","timestamp":1717154774,"runtime":null,"memory":null},
+        {"id":1273235903,"status":"Runtime Error","lang":"cpp","timestamp":1717155094,"runtime":null,"memory":null},
+        {"id":1273238065,"status":"Accepted","lang":"cpp","timestamp":1717155296,"runtime":null,"memory":null},
+        {"id":1273240086,"status":"Accepted","lang":"cpp","timestamp":1717155489,"runtime":null,"memory":null},
+        {"id":1273240405,"status":"Accepted","lang":"cpp","timestamp":1717155519,"runtime":null,"memory":null},
+        {"id":1273268882,"status":"Accepted","lang":"cpp","timestamp":1717158138,"runtime":null,"memory":null},
+        {"id":1849534127,"status":"Wrong Answer","lang":"cpp","timestamp":1765131996,"runtime":null,"memory":null},
+        {"id":1849535681,"status":"Accepted","lang":"cpp","timestamp":1765132113,"runtime":null,"memory":null},
+        {"id":1916324755,"status":"Accepted","lang":"cpp","timestamp":1770846792,"runtime":"0 ms","memory":"8.6 MB"}
+      ]
+    },
+    "palindrome-number": {
+      "id": "9",
+      "title": "Palindrome Number",
+      "slug": "palindrome-number",
+      "difficulty": "Easy",
+      "tags": ["Math"],
+      "topic": "Math",
+      "dir": "Math/0009-palindrome-number",
+      "first_attempt_at": 1717158901,
+      "last_attempt_at": 1730229369,
+      "solved_at": 1717158929,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1437559115,"status":"Accepted","lang":"cpp","timestamp":1730229369,"runtime":"2 ms","memory":"8.5 MB"}
+      },
+      "submissions": [
+        {"id":1273277381,"status":"Runtime Error","lang":"cpp","timestamp":1717158901,"runtime":null,"memory":null},
+        {"id":1273277709,"status":"Accepted","lang":"cpp","timestamp":1717158929,"runtime":null,"memory":null},
+        {"id":1273277826,"status":"Accepted","lang":"cpp","timestamp":1717158939,"runtime":null,"memory":null},
+        {"id":1437559115,"status":"Accepted","lang":"cpp","timestamp":1730229369,"runtime":"2 ms","memory":"8.5 MB"}
+      ]
+    },
+    "valid-palindrome": {
+      "id": "125",
+      "title": "Valid Palindrome",
+      "slug": "valid-palindrome",
+      "difficulty": "Easy",
+      "tags": ["Two Pointers","String"],
+      "topic": "Two Pointers",
+      "dir": "Two-Pointers/0125-valid-palindrome",
+      "first_attempt_at": 1717499244,
+      "last_attempt_at": 1765307200,
+      "solved_at": 1717499430,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1851412959,"status":"Accepted","lang":"cpp","timestamp":1765307200,"runtime":"0 ms","memory":"9.8 MB"}
+      },
+      "submissions": [
+        {"id":1277344595,"status":"Wrong Answer","lang":"cpp","timestamp":1717499244,"runtime":null,"memory":null},
+        {"id":1277346846,"status":"Accepted","lang":"cpp","timestamp":1717499430,"runtime":null,"memory":null},
+        {"id":1277406105,"status":"Wrong Answer","lang":"cpp","timestamp":1717504226,"runtime":null,"memory":null},
+        {"id":1277406779,"status":"Accepted","lang":"cpp","timestamp":1717504282,"runtime":null,"memory":null},
+        {"id":1277681045,"status":"Compile Error","lang":"cpp","timestamp":1717522674,"runtime":null,"memory":null},
+        {"id":1277681773,"status":"Compile Error","lang":"cpp","timestamp":1717522715,"runtime":null,"memory":null},
+        {"id":1277682388,"status":"Accepted","lang":"cpp","timestamp":1717522749,"runtime":null,"memory":null},
+        {"id":1278415112,"status":"Accepted","lang":"cpp","timestamp":1717588382,"runtime":null,"memory":null},
+        {"id":1851412959,"status":"Accepted","lang":"cpp","timestamp":1765307200,"runtime":"0 ms","memory":"9.8 MB"}
+      ]
+    },
+    "fibonacci-number": {
+      "id": "509",
+      "title": "Fibonacci Number",
+      "slug": "fibonacci-number",
+      "difficulty": "Easy",
+      "tags": ["Math","Dynamic Programming","Recursion","Memoization"],
+      "topic": "Math",
+      "dir": "Math/0509-fibonacci-number",
+      "first_attempt_at": 1717588520,
+      "last_attempt_at": 1717588520,
+      "solved_at": 1717588520,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1278416801,"status":"Accepted","lang":"cpp","timestamp":1717588520,"runtime":"14 ms","memory":"7 MB"}
+      },
+      "submissions": [
+        {"id":1278416801,"status":"Accepted","lang":"cpp","timestamp":1717588520,"runtime":"14 ms","memory":"7 MB"}
+      ]
+    },
+    "check-if-array-is-sorted-and-rotated": {
+      "id": "1752",
+      "title": "Check if Array Is Sorted and Rotated",
+      "slug": "check-if-array-is-sorted-and-rotated",
+      "difficulty": "Easy",
+      "tags": ["Array"],
+      "topic": "Array",
+      "dir": "Array/1752-check-if-array-is-sorted-and-rotated",
+      "first_attempt_at": 1718360335,
+      "last_attempt_at": 1733502716,
+      "solved_at": 1718360335,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1471984086,"status":"Accepted","lang":"cpp","timestamp":1733502716,"runtime":"0 ms","memory":"11.1 MB"}
+      },
+      "submissions": [
+        {"id":1287993480,"status":"Accepted","lang":"cpp","timestamp":1718360335,"runtime":null,"memory":null},
+        {"id":1471877464,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1733493441,"runtime":null,"memory":null},
+        {"id":1471880541,"status":"Wrong Answer","lang":"cpp","timestamp":1733493719,"runtime":null,"memory":null},
+        {"id":1471882649,"status":"Wrong Answer","lang":"cpp","timestamp":1733493909,"runtime":null,"memory":null},
+        {"id":1471883604,"status":"Wrong Answer","lang":"cpp","timestamp":1733493991,"runtime":null,"memory":null},
+        {"id":1471984086,"status":"Accepted","lang":"cpp","timestamp":1733502716,"runtime":"0 ms","memory":"11.1 MB"}
+      ]
+    },
+    "remove-duplicates-from-sorted-array": {
+      "id": "26",
+      "title": "Remove Duplicates from Sorted Array",
+      "slug": "remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "tags": ["Array","Two Pointers"],
+      "topic": "Array",
+      "dir": "Array/0026-remove-duplicates-from-sorted-array",
+      "first_attempt_at": 1718365506,
+      "last_attempt_at": 1733505700,
+      "solved_at": 1718365506,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1472022525,"status":"Accepted","lang":"cpp","timestamp":1733505700,"runtime":"0 ms","memory":"22.5 MB"}
+      },
+      "submissions": [
+        {"id":1288062012,"status":"Accepted","lang":"cpp","timestamp":1718365506,"runtime":null,"memory":null},
+        {"id":1472013630,"status":"Accepted","lang":"cpp","timestamp":1733505016,"runtime":null,"memory":null},
+        {"id":1472022525,"status":"Accepted","lang":"cpp","timestamp":1733505700,"runtime":"0 ms","memory":"22.5 MB"}
+      ]
+    },
+    "rotate-array": {
+      "id": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "difficulty": "Medium",
+      "tags": ["Array","Math","Two Pointers"],
+      "topic": "Array",
+      "dir": "Array/0189-rotate-array",
+      "first_attempt_at": 1718367288,
+      "last_attempt_at": 1733554457,
+      "solved_at": 1718367288,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1472395816,"status":"Accepted","lang":"cpp","timestamp":1733554457,"runtime":"2 ms","memory":"29.9 MB"}
+      },
+      "submissions": [
+        {"id":1288084366,"status":"Accepted","lang":"cpp","timestamp":1718367288,"runtime":null,"memory":null},
+        {"id":1288108122,"status":"Wrong Answer","lang":"cpp","timestamp":1718369208,"runtime":null,"memory":null},
+        {"id":1288108518,"status":"Accepted","lang":"cpp","timestamp":1718369239,"runtime":null,"memory":null},
+        {"id":1472394500,"status":"Runtime Error","lang":"cpp","timestamp":1733554328,"runtime":null,"memory":null},
+        {"id":1472395816,"status":"Accepted","lang":"cpp","timestamp":1733554457,"runtime":"2 ms","memory":"29.9 MB"}
+      ]
+    },
+    "move-zeroes": {
+      "id": "283",
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
+      "difficulty": "Easy",
+      "tags": ["Array","Two Pointers"],
+      "topic": "Array",
+      "dir": "Array/0283-move-zeroes",
+      "first_attempt_at": 1718435056,
+      "last_attempt_at": 1769452115,
+      "solved_at": 1718435056,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1897963435,"status":"Accepted","lang":"cpp","timestamp":1769452115,"runtime":"0 ms","memory":"24 MB"}
+      },
+      "submissions": [
+        {"id":1288799245,"status":"Accepted","lang":"cpp","timestamp":1718435056,"runtime":null,"memory":null},
+        {"id":1288807996,"status":"Accepted","lang":"cpp","timestamp":1718435712,"runtime":null,"memory":null},
+        {"id":1472416452,"status":"Accepted","lang":"cpp","timestamp":1733556571,"runtime":null,"memory":null},
+        {"id":1897963435,"status":"Accepted","lang":"cpp","timestamp":1769452115,"runtime":"0 ms","memory":"24 MB"}
+      ]
+    },
+    "plus-one": {
+      "id": "66",
+      "title": "Plus One",
+      "slug": "plus-one",
+      "difficulty": "Easy",
+      "tags": ["Array","Math"],
+      "topic": "Array",
+      "dir": "Array/0066-plus-one",
+      "first_attempt_at": 1730217814,
+      "last_attempt_at": 1730218285,
+      "solved_at": 1730218285,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1437388242,"status":"Accepted","lang":"cpp","timestamp":1730218285,"runtime":"0 ms","memory":"10.6 MB"}
+      },
+      "submissions": [
+        {"id":1437381276,"status":"Wrong Answer","lang":"cpp","timestamp":1730217814,"runtime":null,"memory":null},
+        {"id":1437388242,"status":"Accepted","lang":"cpp","timestamp":1730218285,"runtime":"0 ms","memory":"10.6 MB"}
+      ]
+    },
+    "sqrtx": {
+      "id": "69",
+      "title": "Sqrt(x)",
+      "slug": "sqrtx",
+      "difficulty": "Easy",
+      "tags": ["Math","Binary Search","Newton's Method"],
+      "topic": "Math",
+      "dir": "Math/0069-sqrtx",
+      "first_attempt_at": 1730219607,
+      "last_attempt_at": 1730219747,
+      "solved_at": 1730219747,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1437410707,"status":"Accepted","lang":"cpp","timestamp":1730219747,"runtime":"19 ms","memory":"8.4 MB"}
+      },
+      "submissions": [
+        {"id":1437408558,"status":"Wrong Answer","lang":"cpp","timestamp":1730219607,"runtime":null,"memory":null},
+        {"id":1437409162,"status":"Runtime Error","lang":"cpp","timestamp":1730219644,"runtime":null,"memory":null},
+        {"id":1437410182,"status":"Runtime Error","lang":"cpp","timestamp":1730219713,"runtime":null,"memory":null},
+        {"id":1437410707,"status":"Accepted","lang":"cpp","timestamp":1730219747,"runtime":"19 ms","memory":"8.4 MB"}
+      ]
+    },
+    "best-time-to-buy-and-sell-stock": {
+      "id": "121",
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "tags": ["Array","Dynamic Programming"],
+      "topic": "Array",
+      "dir": "Array/0121-best-time-to-buy-and-sell-stock",
+      "first_attempt_at": 1730220656,
+      "last_attempt_at": 1769542214,
+      "solved_at": 1769542214,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1899059442,"status":"Accepted","lang":"cpp","timestamp":1769542214,"runtime":"0 ms","memory":"97.4 MB"}
+      },
+      "submissions": [
+        {"id":1437424973,"status":"Runtime Error","lang":"cpp","timestamp":1730220656,"runtime":null,"memory":null},
+        {"id":1437427164,"status":"Compile Error","lang":"cpp","timestamp":1730220794,"runtime":null,"memory":null},
+        {"id":1437427335,"status":"Compile Error","lang":"cpp","timestamp":1730220805,"runtime":null,"memory":null},
+        {"id":1437427433,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1730220812,"runtime":null,"memory":null},
+        {"id":1899058516,"status":"Compile Error","lang":"cpp","timestamp":1769542142,"runtime":null,"memory":null},
+        {"id":1899059442,"status":"Accepted","lang":"cpp","timestamp":1769542214,"runtime":"0 ms","memory":"97.4 MB"}
+      ]
+    },
+    "max-consecutive-ones": {
+      "id": "485",
+      "title": "Max Consecutive Ones",
+      "slug": "max-consecutive-ones",
+      "difficulty": "Easy",
+      "tags": ["Array"],
+      "topic": "Array",
+      "dir": "Array/0485-max-consecutive-ones",
+      "first_attempt_at": 1730221941,
+      "last_attempt_at": 1733671035,
+      "solved_at": 1730221941,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1473573874,"status":"Accepted","lang":"cpp","timestamp":1733671035,"runtime":"8 ms","memory":"50.2 MB"}
+      },
+      "submissions": [
+        {"id":1437445749,"status":"Accepted","lang":"cpp","timestamp":1730221941,"runtime":null,"memory":null},
+        {"id":1473573874,"status":"Accepted","lang":"cpp","timestamp":1733671035,"runtime":"8 ms","memory":"50.2 MB"}
+      ]
+    },
+    "missing-number": {
+      "id": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Math","Binary Search","Bit Manipulation","Sorting"],
+      "topic": "Array",
+      "dir": "Array/0268-missing-number",
+      "first_attempt_at": 1733669686,
+      "last_attempt_at": 1733669996,
+      "solved_at": 1733669686,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1473562879,"status":"Accepted","lang":"cpp","timestamp":1733669996,"runtime":"0 ms","memory":"21.8 MB"}
+      },
+      "submissions": [
+        {"id":1473559684,"status":"Accepted","lang":"cpp","timestamp":1733669686,"runtime":null,"memory":null},
+        {"id":1473562879,"status":"Accepted","lang":"cpp","timestamp":1733669996,"runtime":"0 ms","memory":"21.8 MB"}
+      ]
+    },
+    "single-number": {
+      "id": "136",
+      "title": "Single Number",
+      "slug": "single-number",
+      "difficulty": "Easy",
+      "tags": ["Array","Bit Manipulation"],
+      "topic": "Array",
+      "dir": "Array/0136-single-number",
+      "first_attempt_at": 1733750014,
+      "last_attempt_at": 1733750014,
+      "solved_at": 1733750014,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1474341441,"status":"Accepted","lang":"cpp","timestamp":1733750014,"runtime":"0 ms","memory":"20.7 MB"}
+      },
+      "submissions": [
+        {"id":1474341441,"status":"Accepted","lang":"cpp","timestamp":1733750014,"runtime":"0 ms","memory":"20.7 MB"}
+      ]
+    },
+    "sort-colors": {
+      "id": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "difficulty": "Medium",
+      "tags": ["Array","Two Pointers","Sorting","Quicksort","Bubble Sort"],
+      "topic": "Array",
+      "dir": "Array/0075-sort-colors",
+      "first_attempt_at": 1733838346,
+      "last_attempt_at": 1780559224,
+      "solved_at": 1733838346,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2022042143,"status":"Accepted","lang":"cpp","timestamp":1780559224,"runtime":"0 ms","memory":"11.4 MB"}
+      },
+      "submissions": [
+        {"id":1475277661,"status":"Accepted","lang":"cpp","timestamp":1733838346,"runtime":null,"memory":null},
+        {"id":1475428186,"status":"Wrong Answer","lang":"cpp","timestamp":1733849519,"runtime":null,"memory":null},
+        {"id":1475429406,"status":"Accepted","lang":"cpp","timestamp":1733849598,"runtime":null,"memory":null},
+        {"id":1898025194,"status":"Accepted","lang":"cpp","timestamp":1769456533,"runtime":null,"memory":null},
+        {"id":1898064804,"status":"Accepted","lang":"cpp","timestamp":1769460297,"runtime":null,"memory":null},
+        {"id":2022042143,"status":"Accepted","lang":"cpp","timestamp":1780559224,"runtime":"0 ms","memory":"11.4 MB"}
+      ]
+    }
+  }
+}
