@@ -37,3 +37,4 @@ Filed under their main topic, but they use this one too.
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Array | Easy | Solved |
 | 560 | [Subarray Sum Equals K](../Array/0560-subarray-sum-equals-k/README.md) | Array | Medium | Solved |
 | 3839 | [Number of Prefix Connected Groups](../Array/3839-number-of-prefix-connected-groups/README.md) | Array | Medium | Solved |
+| 3866 | [First Unique Even Element](../Array/3866-first-unique-even-element/README.md) | Array | Easy | Solved |

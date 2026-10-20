@@ -2077,6 +2077,308 @@
         {"id":1934129803,"status":"Accepted","lang":"cpp","timestamp":1772319499,"runtime":null,"memory":null},
         {"id":1936770700,"status":"Accepted","lang":"cpp","timestamp":1772546386,"runtime":"3 ms","memory":"15 MB"}
       ]
+    },
+    "convert-binary-number-in-a-linked-list-to-integer": {
+      "id": "1290",
+      "title": "Convert Binary Number in a Linked List to Integer",
+      "slug": "convert-binary-number-in-a-linked-list-to-integer",
+      "difficulty": "Easy",
+      "tags": ["Linked List","Math"],
+      "topic": "Linked List",
+      "dir": "Linked-List/1290-convert-binary-number-in-a-linked-list-to-integer",
+      "first_attempt_at": 1772401694,
+      "last_attempt_at": 1772548311,
+      "solved_at": 1772401694,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1936797889,"status":"Accepted","lang":"cpp","timestamp":1772548311,"runtime":"0 ms","memory":"10.4 MB"}
+      },
+      "submissions": [
+        {"id":1935126445,"status":"Accepted","lang":"cpp","timestamp":1772401694,"runtime":null,"memory":null},
+        {"id":1936797889,"status":"Accepted","lang":"cpp","timestamp":1772548311,"runtime":"0 ms","memory":"10.4 MB"}
+      ]
+    },
+    "binary-tree-preorder-traversal": {
+      "id": "144",
+      "title": "Binary Tree Preorder Traversal",
+      "slug": "binary-tree-preorder-traversal",
+      "difficulty": "Easy",
+      "tags": ["Stack","Tree","Depth-First Search","Binary Tree"],
+      "topic": "Stack",
+      "dir": "Stack/0144-binary-tree-preorder-traversal",
+      "first_attempt_at": 1772660415,
+      "last_attempt_at": 1781387276,
+      "solved_at": 1772660415,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2032187437,"status":"Accepted","lang":"cpp","timestamp":1781387276,"runtime":"0 ms","memory":"11.1 MB"}
+      },
+      "submissions": [
+        {"id":1938135827,"status":"Accepted","lang":"cpp","timestamp":1772660415,"runtime":null,"memory":null},
+        {"id":2029588687,"status":"Accepted","lang":"cpp","timestamp":1781171778,"runtime":null,"memory":null},
+        {"id":2032187437,"status":"Accepted","lang":"cpp","timestamp":1781387276,"runtime":"0 ms","memory":"11.1 MB"}
+      ]
+    },
+    "binary-tree-level-order-traversal": {
+      "id": "102",
+      "title": "Binary Tree Level Order Traversal",
+      "slug": "binary-tree-level-order-traversal",
+      "difficulty": "Medium",
+      "tags": ["Tree","Breadth-First Search","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/0102-binary-tree-level-order-traversal",
+      "first_attempt_at": 1772709687,
+      "last_attempt_at": 1792247543,
+      "solved_at": 1772709687,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2174632297,"status":"Accepted","lang":"cpp","timestamp":1792247543,"runtime":"2 ms","memory":"17 MB"}
+      },
+      "submissions": [
+        {"id":1938696104,"status":"Accepted","lang":"cpp","timestamp":1772709687,"runtime":null,"memory":null},
+        {"id":2029770252,"status":"Accepted","lang":"cpp","timestamp":1781184064,"runtime":null,"memory":null},
+        {"id":2174632297,"status":"Accepted","lang":"cpp","timestamp":1792247543,"runtime":"2 ms","memory":"17 MB"}
+      ]
+    },
+    "binary-tree-inorder-traversal": {
+      "id": "94",
+      "title": "Binary Tree Inorder Traversal",
+      "slug": "binary-tree-inorder-traversal",
+      "difficulty": "Easy",
+      "tags": ["Stack","Tree","Depth-First Search","Binary Tree"],
+      "topic": "Stack",
+      "dir": "Stack/0094-binary-tree-inorder-traversal",
+      "first_attempt_at": 1772713887,
+      "last_attempt_at": 1781171151,
+      "solved_at": 1772713887,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2029578027,"status":"Accepted","lang":"cpp","timestamp":1781171151,"runtime":"0 ms","memory":"10.8 MB"}
+      },
+      "submissions": [
+        {"id":1938745874,"status":"Accepted","lang":"cpp","timestamp":1772713887,"runtime":null,"memory":null},
+        {"id":2029530855,"status":"Accepted","lang":"cpp","timestamp":1781168378,"runtime":null,"memory":null},
+        {"id":2029578027,"status":"Accepted","lang":"cpp","timestamp":1781171151,"runtime":"0 ms","memory":"10.8 MB"}
+      ]
+    },
+    "maximum-depth-of-binary-tree": {
+      "id": "104",
+      "title": "Maximum Depth of Binary Tree",
+      "slug": "maximum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "tags": ["Tree","Depth-First Search","Breadth-First Search","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/0104-maximum-depth-of-binary-tree",
+      "first_attempt_at": 1772827872,
+      "last_attempt_at": 1781172765,
+      "solved_at": 1772827872,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2029605509,"status":"Accepted","lang":"cpp","timestamp":1781172765,"runtime":"0 ms","memory":"19 MB"}
+      },
+      "submissions": [
+        {"id":1940227343,"status":"Accepted","lang":"cpp","timestamp":1772827872,"runtime":null,"memory":null},
+        {"id":1955172777,"status":"Accepted","lang":"cpp","timestamp":1774136951,"runtime":null,"memory":null},
+        {"id":2029605509,"status":"Accepted","lang":"cpp","timestamp":1781172765,"runtime":"0 ms","memory":"19 MB"}
+      ]
+    },
+    "balanced-binary-tree": {
+      "id": "110",
+      "title": "Balanced Binary Tree",
+      "slug": "balanced-binary-tree",
+      "difficulty": "Easy",
+      "tags": ["Tree","Depth-First Search","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/0110-balanced-binary-tree",
+      "first_attempt_at": 1772830033,
+      "last_attempt_at": 1774481579,
+      "solved_at": 1772830033,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1959373508,"status":"Accepted","lang":"cpp","timestamp":1774481579,"runtime":"0 ms","memory":"23.1 MB"}
+      },
+      "submissions": [
+        {"id":1940244804,"status":"Accepted","lang":"cpp","timestamp":1772830033,"runtime":null,"memory":null},
+        {"id":1943329334,"status":"Accepted","lang":"cpp","timestamp":1773092923,"runtime":null,"memory":null},
+        {"id":1944410258,"status":"Accepted","lang":"cpp","timestamp":1773183344,"runtime":null,"memory":null},
+        {"id":1945481394,"status":"Accepted","lang":"cpp","timestamp":1773268717,"runtime":null,"memory":null},
+        {"id":1946525100,"status":"Accepted","lang":"cpp","timestamp":1773362256,"runtime":null,"memory":null},
+        {"id":1957206002,"status":"Compile Error","lang":"cpp","timestamp":1774308940,"runtime":null,"memory":null},
+        {"id":1957206109,"status":"Accepted","lang":"cpp","timestamp":1774308958,"runtime":null,"memory":null},
+        {"id":1959373508,"status":"Accepted","lang":"cpp","timestamp":1774481579,"runtime":"0 ms","memory":"23.1 MB"}
+      ]
+    },
+    "recyclable-and-low-fat-products": {
+      "id": "1757",
+      "title": "Recyclable and Low Fat Products",
+      "slug": "recyclable-and-low-fat-products",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1757-recyclable-and-low-fat-products",
+      "first_attempt_at": 1772831220,
+      "last_attempt_at": 1772831220,
+      "solved_at": 1772831220,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":1940253272,"status":"Accepted","lang":"mysql","timestamp":1772831220,"runtime":"516 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":1940253272,"status":"Accepted","lang":"mysql","timestamp":1772831220,"runtime":"516 ms","memory":"0B"}
+      ]
+    },
+    "find-customer-referee": {
+      "id": "584",
+      "title": "Find Customer Referee",
+      "slug": "find-customer-referee",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0584-find-customer-referee",
+      "first_attempt_at": 1772831677,
+      "last_attempt_at": 1772831677,
+      "solved_at": 1772831677,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":1940256360,"status":"Accepted","lang":"mysql","timestamp":1772831677,"runtime":"439 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":1940256360,"status":"Accepted","lang":"mysql","timestamp":1772831677,"runtime":"439 ms","memory":"0B"}
+      ]
+    },
+    "replace-employee-id-with-the-unique-identifier": {
+      "id": "1378",
+      "title": "Replace Employee ID With The Unique Identifier",
+      "slug": "replace-employee-id-with-the-unique-identifier",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1378-replace-employee-id-with-the-unique-identifier",
+      "first_attempt_at": 1772832036,
+      "last_attempt_at": 1773946062,
+      "solved_at": 1772832036,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":1953349789,"status":"Accepted","lang":"mysql","timestamp":1773946062,"runtime":"1642 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":1940258684,"status":"Accepted","lang":"mysql","timestamp":1772832036,"runtime":null,"memory":null},
+        {"id":1953349350,"status":"Wrong Answer","lang":"mysql","timestamp":1773946027,"runtime":null,"memory":null},
+        {"id":1953349789,"status":"Accepted","lang":"mysql","timestamp":1773946062,"runtime":"1642 ms","memory":"0B"}
+      ]
+    },
+    "binary-tree-postorder-traversal": {
+      "id": "145",
+      "title": "Binary Tree Postorder Traversal",
+      "slug": "binary-tree-postorder-traversal",
+      "difficulty": "Easy",
+      "tags": ["Stack","Tree","Depth-First Search","Binary Tree"],
+      "topic": "Stack",
+      "dir": "Stack/0145-binary-tree-postorder-traversal",
+      "first_attempt_at": 1772926886,
+      "last_attempt_at": 1781172229,
+      "solved_at": 1772926886,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2029596191,"status":"Accepted","lang":"cpp","timestamp":1781172229,"runtime":"0 ms","memory":"11.1 MB"}
+      },
+      "submissions": [
+        {"id":1941246366,"status":"Accepted","lang":"cpp","timestamp":1772926886,"runtime":null,"memory":null},
+        {"id":1942291938,"status":"Accepted","lang":"cpp","timestamp":1773004371,"runtime":null,"memory":null},
+        {"id":1951607977,"status":"Accepted","lang":"cpp","timestamp":1773793848,"runtime":null,"memory":null},
+        {"id":2029596191,"status":"Accepted","lang":"cpp","timestamp":1781172229,"runtime":"0 ms","memory":"11.1 MB"}
+      ]
+    },
+    "first-unique-even-element": {
+      "id": "3866",
+      "title": "First Unique Even Element",
+      "slug": "first-unique-even-element",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Counting"],
+      "topic": "Array",
+      "dir": "Array/3866-first-unique-even-element",
+      "first_attempt_at": 1773500314,
+      "last_attempt_at": 1773500468,
+      "solved_at": 1773500468,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1948059044,"status":"Accepted","lang":"cpp","timestamp":1773500468,"runtime":"1 ms","memory":"28.6 MB"}
+      },
+      "submissions": [
+        {"id":1948053331,"status":"Wrong Answer","lang":"cpp","timestamp":1773500314,"runtime":null,"memory":null},
+        {"id":1948059044,"status":"Accepted","lang":"cpp","timestamp":1773500468,"runtime":"1 ms","memory":"28.6 MB"}
+      ]
+    },
+    "sum-of-gcd-of-formed-pairs": {
+      "id": "3867",
+      "title": "Sum of GCD of Formed Pairs",
+      "slug": "sum-of-gcd-of-formed-pairs",
+      "difficulty": "Medium",
+      "tags": ["Array","Math","Two Pointers","Sorting","Simulation","Number Theory"],
+      "topic": "Array",
+      "dir": "Array/3867-sum-of-gcd-of-formed-pairs",
+      "first_attempt_at": 1773501803,
+      "last_attempt_at": 1774907972,
+      "solved_at": 1773501946,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1964292193,"status":"Accepted","lang":"cpp","timestamp":1774907972,"runtime":"83 ms","memory":"162.9 MB"}
+      },
+      "submissions": [
+        {"id":1948102341,"status":"Wrong Answer","lang":"cpp","timestamp":1773501803,"runtime":null,"memory":null},
+        {"id":1948106395,"status":"Accepted","lang":"cpp","timestamp":1773501946,"runtime":null,"memory":null},
+        {"id":1954343298,"status":"Compile Error","lang":"cpp","timestamp":1774051113,"runtime":null,"memory":null},
+        {"id":1954343444,"status":"Accepted","lang":"cpp","timestamp":1774051145,"runtime":null,"memory":null},
+        {"id":1964292193,"status":"Accepted","lang":"cpp","timestamp":1774907972,"runtime":"83 ms","memory":"162.9 MB"}
+      ]
+    },
+    "count-fancy-numbers-in-a-range": {
+      "id": "3869",
+      "title": "Count Fancy Numbers in a Range",
+      "slug": "count-fancy-numbers-in-a-range",
+      "difficulty": "Hard",
+      "tags": ["Math","Dynamic Programming"],
+      "topic": "Math",
+      "dir": "Math/3869-count-fancy-numbers-in-a-range",
+      "first_attempt_at": 1773503906,
+      "last_attempt_at": 1773505706,
+      "solved_at": null,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1948187715,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1773505706,"runtime":null,"memory":null}
+      },
+      "submissions": [
+        {"id":1948157279,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1773503906,"runtime":null,"memory":null},
+        {"id":1948187171,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1773505673,"runtime":null,"memory":null},
+        {"id":1948187715,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1773505706,"runtime":null,"memory":null}
+      ]
+    },
+    "count-commas-in-range": {
+      "id": "3870",
+      "title": "Count Commas in Range",
+      "slug": "count-commas-in-range",
+      "difficulty": "Easy",
+      "tags": ["Math"],
+      "topic": "Math",
+      "dir": "Math/3870-count-commas-in-range",
+      "first_attempt_at": 1773542384,
+      "last_attempt_at": 1773542406,
+      "solved_at": 1773542406,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1948539993,"status":"Accepted","lang":"cpp","timestamp":1773542406,"runtime":"0 ms","memory":"8.6 MB"}
+      },
+      "submissions": [
+        {"id":1948538911,"status":"Wrong Answer","lang":"cpp","timestamp":1773542384,"runtime":null,"memory":null},
+        {"id":1948539993,"status":"Accepted","lang":"cpp","timestamp":1773542406,"runtime":"0 ms","memory":"8.6 MB"}
+      ]
+    },
+    "count-commas-in-range-ii": {
+      "id": "3871",
+      "title": "Count Commas in Range II",
+      "slug": "count-commas-in-range-ii",
+      "difficulty": "Medium",
+      "tags": ["Math"],
+      "topic": "Math",
+      "dir": "Math/3871-count-commas-in-range-ii",
+      "first_attempt_at": 1773543469,
+      "last_attempt_at": 1773544143,
+      "solved_at": 1773544143,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1948608942,"status":"Accepted","lang":"cpp","timestamp":1773544143,"runtime":"0 ms","memory":"9.1 MB"}
+      },
+      "submissions": [
+        {"id":1948585451,"status":"Wrong Answer","lang":"cpp","timestamp":1773543469,"runtime":null,"memory":null},
+        {"id":1948591611,"status":"Wrong Answer","lang":"cpp","timestamp":1773543633,"runtime":null,"memory":null},
+        {"id":1948608569,"status":"Runtime Error","lang":"cpp","timestamp":1773544131,"runtime":null,"memory":null},
+        {"id":1948608942,"status":"Accepted","lang":"cpp","timestamp":1773544143,"runtime":"0 ms","memory":"9.1 MB"}
+      ]
     }
   }
 }

@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 12 | 12 | 0 | 10 | 2 | 0 |
+| 15 | 14 | 1 | 11 | 3 | 1 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -20,6 +20,9 @@
 | 258 | [Add Digits](../Math/0258-add-digits/README.md) | Easy | Solved | 1 | cpp | 2024-12-14 |
 | 509 | [Fibonacci Number](../Math/0509-fibonacci-number/README.md) | Easy | Solved | 1 | cpp | 2024-06-05 |
 | 2769 | [Find the Maximum Achievable Number](../Math/2769-find-the-maximum-achievable-number/README.md) | Easy | Solved | 1 | cpp | 2024-12-11 |
+| 3869 | [Count Fancy Numbers in a Range](../Math/3869-count-fancy-numbers-in-a-range/README.md) | Hard | Attempted | 3 | cpp | - |
+| 3870 | [Count Commas in Range](../Math/3870-count-commas-in-range/README.md) | Easy | Solved | 2 | cpp | 2026-03-15 |
+| 3871 | [Count Commas in Range II](../Math/3871-count-commas-in-range-ii/README.md) | Medium | Solved | 4 | cpp | 2026-03-15 |
 
 ## Also tagged Math
 
@@ -34,4 +37,6 @@ Filed under their main topic, but they use this one too.
 | 189 | [Rotate Array](../Array/0189-rotate-array/README.md) | Array | Medium | Solved |
 | 202 | [Happy Number](../Hash-Table/0202-happy-number/README.md) | Hash Table | Easy | Solved |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Array | Easy | Solved |
+| 1290 | [Convert Binary Number in a Linked List to Integer](../Linked-List/1290-convert-binary-number-in-a-linked-list-to-integer/README.md) | Linked List | Easy | Solved |
 | 3264 | [Final Array State After K Multiplication Operations I](../Array/3264-final-array-state-after-k-multiplication-operations-i/README.md) | Array | Easy | Solved |
+| 3867 | [Sum of GCD of Formed Pairs](../Array/3867-sum-of-gcd-of-formed-pairs/README.md) | Array | Medium | Solved |

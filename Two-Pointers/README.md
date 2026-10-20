@@ -43,3 +43,4 @@ Filed under their main topic, but they use this one too.
 | 876 | [Middle of the Linked List](../Linked-List/0876-middle-of-the-linked-list/README.md) | Linked List | Easy | Solved |
 | 2095 | [Delete the Middle Node of a Linked List](../Linked-List/2095-delete-the-middle-node-of-a-linked-list/README.md) | Linked List | Medium | Solved |
 | 2149 | [Rearrange Array Elements by Sign](../Array/2149-rearrange-array-elements-by-sign/README.md) | Array | Medium | Solved |
+| 3867 | [Sum of GCD of Formed Pairs](../Array/3867-sum-of-gcd-of-formed-pairs/README.md) | Array | Medium | Solved |

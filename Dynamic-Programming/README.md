@@ -24,3 +24,4 @@ Filed under their main topic, but they use this one too.
 | 152 | [Maximum Product Subarray](../Array/0152-maximum-product-subarray/README.md) | Array | Medium | Solved |
 | 509 | [Fibonacci Number](../Math/0509-fibonacci-number/README.md) | Math | Easy | Solved |
 | 3840 | [House Robber V](../Array/3840-house-robber-v/README.md) | Array | Medium | Solved |
+| 3869 | [Count Fancy Numbers in a Range](../Math/3869-count-fancy-numbers-in-a-range/README.md) | Math | Hard | Attempted |

@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 14 | 14 | 0 | 6 | 8 | 0 |
+| 15 | 15 | 0 | 7 | 8 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -21,6 +21,7 @@
 | 237 | [Delete Node in a Linked List](../Linked-List/0237-delete-node-in-a-linked-list/README.md) | Medium | Solved | 1 | cpp | 2026-02-19 |
 | 328 | [Odd Even Linked List](../Linked-List/0328-odd-even-linked-list/README.md) | Medium | Solved | 3 | cpp | 2026-02-24 |
 | 876 | [Middle of the Linked List](../Linked-List/0876-middle-of-the-linked-list/README.md) | Easy | Solved | 1 | cpp | 2026-02-20 |
+| 1290 | [Convert Binary Number in a Linked List to Integer](../Linked-List/1290-convert-binary-number-in-a-linked-list-to-integer/README.md) | Easy | Solved | 2 | cpp | 2026-03-02 |
 | 2095 | [Delete the Middle Node of a Linked List](../Linked-List/2095-delete-the-middle-node-of-a-linked-list/README.md) | Medium | Solved | 2 | cpp | 2026-02-25 |
 
 ## Also tagged Linked List

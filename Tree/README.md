@@ -4,9 +4,22 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 2 | 2 | 0 | 1 | 1 | 0 |
+| 5 | 5 | 0 | 3 | 2 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
+| 102 | [Binary Tree Level Order Traversal](../Tree/0102-binary-tree-level-order-traversal/README.md) | Medium | Solved | 3 | cpp | 2026-03-05 |
+| 104 | [Maximum Depth of Binary Tree](../Tree/0104-maximum-depth-of-binary-tree/README.md) | Easy | Solved | 3 | cpp | 2026-03-07 |
+| 110 | [Balanced Binary Tree](../Tree/0110-balanced-binary-tree/README.md) | Easy | Solved | 8 | cpp | 2026-03-07 |
 | 112 | [Path Sum](../Tree/0112-path-sum/README.md) | Easy | Solved | 6 | cpp | 2025-12-29 |
 | 2415 | [Reverse Odd Levels of Binary Tree](../Tree/2415-reverse-odd-levels-of-binary-tree/README.md) | Medium | Solved | 1 | cpp | 2024-12-20 |
+
+## Also tagged Tree
+
+Filed under their main topic, but they use this one too.
+
+| # | Problem | Filed under | Difficulty | Status |
+| --- | --- | --- | --- | --- |
+| 94 | [Binary Tree Inorder Traversal](../Stack/0094-binary-tree-inorder-traversal/README.md) | Stack | Easy | Solved |
+| 144 | [Binary Tree Preorder Traversal](../Stack/0144-binary-tree-preorder-traversal/README.md) | Stack | Easy | Solved |
+| 145 | [Binary Tree Postorder Traversal](../Stack/0145-binary-tree-postorder-traversal/README.md) | Stack | Easy | Solved |

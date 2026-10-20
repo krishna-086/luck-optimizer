@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 52 | 52 | 0 | 27 | 24 | 1 |
+| 54 | 54 | 0 | 28 | 25 | 1 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -60,3 +60,5 @@
 | 3838 | [Weighted Word Mapping](../Array/3838-weighted-word-mapping/README.md) | Easy | Solved | 1 | cpp | 2026-02-14 |
 | 3839 | [Number of Prefix Connected Groups](../Array/3839-number-of-prefix-connected-groups/README.md) | Medium | Solved | 1 | cpp | 2026-02-14 |
 | 3840 | [House Robber V](../Array/3840-house-robber-v/README.md) | Medium | Solved | 6 | cpp | 2026-02-14 |
+| 3866 | [First Unique Even Element](../Array/3866-first-unique-even-element/README.md) | Easy | Solved | 2 | cpp | 2026-03-14 |
+| 3867 | [Sum of GCD of Formed Pairs](../Array/3867-sum-of-gcd-of-formed-pairs/README.md) | Medium | Solved | 5 | cpp | 2026-03-14 |
