@@ -1206,6 +1206,290 @@
       "submissions": [
         {"id":1906062994,"status":"Accepted","lang":"cpp","timestamp":1770078660,"runtime":"1 ms","memory":"9.9 MB"}
       ]
+    },
+    "merge-intervals": {
+      "id": "56",
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
+      "difficulty": "Medium",
+      "tags": ["Array","Sorting","Quicksort"],
+      "topic": "Array",
+      "dir": "Array/0056-merge-intervals",
+      "first_attempt_at": 1770131200,
+      "last_attempt_at": 1770131200,
+      "solved_at": 1770131200,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1906843573,"status":"Accepted","lang":"cpp","timestamp":1770131200,"runtime":"7 ms","memory":"24 MB"}
+      },
+      "submissions": [
+        {"id":1906843573,"status":"Accepted","lang":"cpp","timestamp":1770131200,"runtime":"7 ms","memory":"24 MB"}
+      ]
+    },
+    "maximum-product-subarray": {
+      "id": "152",
+      "title": "Maximum Product Subarray",
+      "slug": "maximum-product-subarray",
+      "difficulty": "Medium",
+      "tags": ["Array","Dynamic Programming"],
+      "topic": "Array",
+      "dir": "Array/0152-maximum-product-subarray",
+      "first_attempt_at": 1770132562,
+      "last_attempt_at": 1781468499,
+      "solved_at": 1770132562,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2033212639,"status":"Accepted","lang":"cpp","timestamp":1781468499,"runtime":"0 ms","memory":"17.9 MB"}
+      },
+      "submissions": [
+        {"id":1906870585,"status":"Accepted","lang":"cpp","timestamp":1770132562,"runtime":null,"memory":null},
+        {"id":2021158559,"status":"Wrong Answer","lang":"cpp","timestamp":1780484125,"runtime":null,"memory":null},
+        {"id":2021166301,"status":"Wrong Answer","lang":"cpp","timestamp":1780484704,"runtime":null,"memory":null},
+        {"id":2021192503,"status":"Accepted","lang":"cpp","timestamp":1780486680,"runtime":null,"memory":null},
+        {"id":2033212639,"status":"Accepted","lang":"cpp","timestamp":1781468499,"runtime":"0 ms","memory":"17.9 MB"}
+      ]
+    },
+    "reverse-pairs": {
+      "id": "493",
+      "title": "Reverse Pairs",
+      "slug": "reverse-pairs",
+      "difficulty": "Hard",
+      "tags": ["Array","Binary Search","Divide and Conquer","Binary Indexed Tree","Segment Tree","Merge Sort","Ordered Set","Treap"],
+      "topic": "Array",
+      "dir": "Array/0493-reverse-pairs",
+      "first_attempt_at": 1770230428,
+      "last_attempt_at": 1770290946,
+      "solved_at": 1770230428,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1909039833,"status":"Accepted","lang":"cpp","timestamp":1770290946,"runtime":"553 ms","memory":"240.2 MB"}
+      },
+      "submissions": [
+        {"id":1908337379,"status":"Accepted","lang":"cpp","timestamp":1770230428,"runtime":null,"memory":null},
+        {"id":1909037691,"status":"Runtime Error","lang":"cpp","timestamp":1770290771,"runtime":null,"memory":null},
+        {"id":1909039833,"status":"Accepted","lang":"cpp","timestamp":1770290946,"runtime":"553 ms","memory":"240.2 MB"}
+      ]
+    },
+    "reverse-words-in-a-string-iii": {
+      "id": "557",
+      "title": "Reverse Words in a String III",
+      "slug": "reverse-words-in-a-string-iii",
+      "difficulty": "Easy",
+      "tags": ["Two Pointers","String"],
+      "topic": "Two Pointers",
+      "dir": "Two-Pointers/0557-reverse-words-in-a-string-iii",
+      "first_attempt_at": 1770279795,
+      "last_attempt_at": 1770279795,
+      "solved_at": 1770279795,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1908880372,"status":"Accepted","lang":"cpp","timestamp":1770279795,"runtime":"0 ms","memory":"12.3 MB"}
+      },
+      "submissions": [
+        {"id":1908880372,"status":"Accepted","lang":"cpp","timestamp":1770279795,"runtime":"0 ms","memory":"12.3 MB"}
+      ]
+    },
+    "pascals-triangle-ii": {
+      "id": "119",
+      "title": "Pascal's Triangle II",
+      "slug": "pascals-triangle-ii",
+      "difficulty": "Easy",
+      "tags": ["Array","Dynamic Programming"],
+      "topic": "Array",
+      "dir": "Array/0119-pascals-triangle-ii",
+      "first_attempt_at": 1770400159,
+      "last_attempt_at": 1770400217,
+      "solved_at": 1770400217,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1910553194,"status":"Accepted","lang":"cpp","timestamp":1770400217,"runtime":"0 ms","memory":"8.9 MB"}
+      },
+      "submissions": [
+        {"id":1910552036,"status":"Runtime Error","lang":"cpp","timestamp":1770400159,"runtime":null,"memory":null},
+        {"id":1910553194,"status":"Accepted","lang":"cpp","timestamp":1770400217,"runtime":"0 ms","memory":"8.9 MB"}
+      ]
+    },
+    "summary-ranges": {
+      "id": "228",
+      "title": "Summary Ranges",
+      "slug": "summary-ranges",
+      "difficulty": "Easy",
+      "tags": ["Array"],
+      "topic": "Array",
+      "dir": "Array/0228-summary-ranges",
+      "first_attempt_at": 1770409113,
+      "last_attempt_at": 1770409238,
+      "solved_at": 1770409238,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1910681477,"status":"Accepted","lang":"cpp","timestamp":1770409238,"runtime":"0 ms","memory":"8.9 MB"}
+      },
+      "submissions": [
+        {"id":1910680329,"status":"Runtime Error","lang":"cpp","timestamp":1770409113,"runtime":null,"memory":null},
+        {"id":1910681477,"status":"Accepted","lang":"cpp","timestamp":1770409238,"runtime":"0 ms","memory":"8.9 MB"}
+      ]
+    },
+    "find-first-and-last-position-of-element-in-sorted-array": {
+      "id": "34",
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "slug": "find-first-and-last-position-of-element-in-sorted-array",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0034-find-first-and-last-position-of-element-in-sorted-array",
+      "first_attempt_at": 1770484675,
+      "last_attempt_at": 1770484675,
+      "solved_at": 1770484675,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1911512781,"status":"Accepted","lang":"cpp","timestamp":1770484675,"runtime":"0 ms","memory":"17.4 MB"}
+      },
+      "submissions": [
+        {"id":1911512781,"status":"Accepted","lang":"cpp","timestamp":1770484675,"runtime":"0 ms","memory":"17.4 MB"}
+      ]
+    },
+    "contains-duplicate-ii": {
+      "id": "219",
+      "title": "Contains Duplicate II",
+      "slug": "contains-duplicate-ii",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Sliding Window"],
+      "topic": "Array",
+      "dir": "Array/0219-contains-duplicate-ii",
+      "first_attempt_at": 1770488247,
+      "last_attempt_at": 1770488247,
+      "solved_at": 1770488247,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1911579810,"status":"Accepted","lang":"cpp","timestamp":1770488247,"runtime":"154 ms","memory":"102.4 MB"}
+      },
+      "submissions": [
+        {"id":1911579810,"status":"Accepted","lang":"cpp","timestamp":1770488247,"runtime":"154 ms","memory":"102.4 MB"}
+      ]
+    },
+    "search-in-rotated-sorted-array": {
+      "id": "33",
+      "title": "Search in Rotated Sorted Array",
+      "slug": "search-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0033-search-in-rotated-sorted-array",
+      "first_attempt_at": 1770576079,
+      "last_attempt_at": 1770644435,
+      "solved_at": 1770576079,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1913516797,"status":"Accepted","lang":"cpp","timestamp":1770644435,"runtime":"0 ms","memory":"15.1 MB"}
+      },
+      "submissions": [
+        {"id":1912767126,"status":"Accepted","lang":"cpp","timestamp":1770576079,"runtime":null,"memory":null},
+        {"id":1913497463,"status":"Wrong Answer","lang":"cpp","timestamp":1770643259,"runtime":null,"memory":null},
+        {"id":1913516797,"status":"Accepted","lang":"cpp","timestamp":1770644435,"runtime":"0 ms","memory":"15.1 MB"}
+      ]
+    },
+    "search-a-2d-matrix-ii": {
+      "id": "240",
+      "title": "Search a 2D Matrix II",
+      "slug": "search-a-2d-matrix-ii",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search","Divide and Conquer","Matrix"],
+      "topic": "Array",
+      "dir": "Array/0240-search-a-2d-matrix-ii",
+      "first_attempt_at": 1770645935,
+      "last_attempt_at": 1770646599,
+      "solved_at": 1770645935,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1913554068,"status":"Accepted","lang":"cpp","timestamp":1770646599,"runtime":"48 ms","memory":"18.8 MB"}
+      },
+      "submissions": [
+        {"id":1913542449,"status":"Accepted","lang":"cpp","timestamp":1770645935,"runtime":null,"memory":null},
+        {"id":1913554068,"status":"Accepted","lang":"cpp","timestamp":1770646599,"runtime":"48 ms","memory":"18.8 MB"}
+      ]
+    },
+    "excel-sheet-column-number": {
+      "id": "171",
+      "title": "Excel Sheet Column Number",
+      "slug": "excel-sheet-column-number",
+      "difficulty": "Easy",
+      "tags": ["Math","String"],
+      "topic": "Math",
+      "dir": "Math/0171-excel-sheet-column-number",
+      "first_attempt_at": 1770677694,
+      "last_attempt_at": 1770677872,
+      "solved_at": 1770677872,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1914021007,"status":"Accepted","lang":"cpp","timestamp":1770677872,"runtime":"3 ms","memory":"8.9 MB"}
+      },
+      "submissions": [
+        {"id":1914019967,"status":"Runtime Error","lang":"cpp","timestamp":1770677694,"runtime":null,"memory":null},
+        {"id":1914021007,"status":"Accepted","lang":"cpp","timestamp":1770677872,"runtime":"3 ms","memory":"8.9 MB"}
+      ]
+    },
+    "excel-sheet-column-title": {
+      "id": "168",
+      "title": "Excel Sheet Column Title",
+      "slug": "excel-sheet-column-title",
+      "difficulty": "Easy",
+      "tags": ["Math","String"],
+      "topic": "Math",
+      "dir": "Math/0168-excel-sheet-column-title",
+      "first_attempt_at": 1770679700,
+      "last_attempt_at": 1770679700,
+      "solved_at": 1770679700,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1914031433,"status":"Accepted","lang":"cpp","timestamp":1770679700,"runtime":"0 ms","memory":"7.8 MB"}
+      },
+      "submissions": [
+        {"id":1914031433,"status":"Accepted","lang":"cpp","timestamp":1770679700,"runtime":"0 ms","memory":"7.8 MB"}
+      ]
+    },
+    "find-the-difference": {
+      "id": "389",
+      "title": "Find the Difference",
+      "slug": "find-the-difference",
+      "difficulty": "Easy",
+      "tags": ["Hash Table","String","Bit Manipulation","Sorting"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0389-find-the-difference",
+      "first_attempt_at": 1770746478,
+      "last_attempt_at": 1770746579,
+      "solved_at": 1770746579,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1914998973,"status":"Accepted","lang":"cpp","timestamp":1770746579,"runtime":"0 ms","memory":"9.2 MB"}
+      },
+      "submissions": [
+        {"id":1914996777,"status":"Wrong Answer","lang":"cpp","timestamp":1770746478,"runtime":null,"memory":null},
+        {"id":1914998973,"status":"Accepted","lang":"cpp","timestamp":1770746579,"runtime":"0 ms","memory":"9.2 MB"}
+      ]
+    },
+    "longest-continuous-increasing-subsequence": {
+      "id": "674",
+      "title": "Longest Continuous Increasing Subsequence",
+      "slug": "longest-continuous-increasing-subsequence",
+      "difficulty": "Easy",
+      "tags": ["Array"],
+      "topic": "Array",
+      "dir": "Array/0674-longest-continuous-increasing-subsequence",
+      "first_attempt_at": 1770748176,
+      "last_attempt_at": 1770748330,
+      "solved_at": 1770748330,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1915035842,"status":"Accepted","lang":"cpp","timestamp":1770748330,"runtime":"0 ms","memory":"14.8 MB"}
+      },
+      "submissions": [
+        {"id":1915033054,"status":"Wrong Answer","lang":"cpp","timestamp":1770748176,"runtime":null,"memory":null},
+        {"id":1915035842,"status":"Accepted","lang":"cpp","timestamp":1770748330,"runtime":"0 ms","memory":"14.8 MB"}
+      ]
+    },
+    "consecutive-characters": {
+      "id": "1446",
+      "title": "Consecutive Characters",
+      "slug": "consecutive-characters",
+      "difficulty": "Easy",
+      "tags": ["String"],
+      "topic": "String",
+      "dir": "String/1446-consecutive-characters",
+      "first_attempt_at": 1770748843,
+      "last_attempt_at": 1770748843,
+      "solved_at": 1770748843,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1915044779,"status":"Accepted","lang":"cpp","timestamp":1770748843,"runtime":"1 ms","memory":"9.7 MB"}
+      },
+      "submissions": [
+        {"id":1915044779,"status":"Accepted","lang":"cpp","timestamp":1770748843,"runtime":"1 ms","memory":"9.7 MB"}
+      ]
     }
   }
 }

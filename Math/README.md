@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 10 | 10 | 0 | 8 | 2 | 0 |
+| 12 | 12 | 0 | 10 | 2 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -14,6 +14,8 @@
 | 67 | [Add Binary](../Math/0067-add-binary/README.md) | Easy | Solved | 1 | cpp | 2025-12-23 |
 | 69 | [Sqrt(x)](../Math/0069-sqrtx/README.md) | Easy | Solved | 4 | cpp | 2024-10-29 |
 | 70 | [Climbing Stairs](../Math/0070-climbing-stairs/README.md) | Easy | Solved | 10 | cpp | 2026-02-02 |
+| 168 | [Excel Sheet Column Title](../Math/0168-excel-sheet-column-title/README.md) | Easy | Solved | 1 | cpp | 2026-02-10 |
+| 171 | [Excel Sheet Column Number](../Math/0171-excel-sheet-column-number/README.md) | Easy | Solved | 2 | cpp | 2026-02-10 |
 | 231 | [Power of Two](../Math/0231-power-of-two/README.md) | Easy | Solved | 3 | cpp | 2024-12-12 |
 | 258 | [Add Digits](../Math/0258-add-digits/README.md) | Easy | Solved | 1 | cpp | 2024-12-14 |
 | 509 | [Fibonacci Number](../Math/0509-fibonacci-number/README.md) | Easy | Solved | 1 | cpp | 2024-06-05 |

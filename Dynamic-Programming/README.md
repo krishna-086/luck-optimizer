@@ -19,5 +19,7 @@ Filed under their main topic, but they use this one too.
 | 53 | [Maximum Subarray](../Array/0053-maximum-subarray/README.md) | Array | Medium | Solved |
 | 70 | [Climbing Stairs](../Math/0070-climbing-stairs/README.md) | Math | Easy | Solved |
 | 118 | [Pascal's Triangle](../Array/0118-pascals-triangle/README.md) | Array | Easy | Solved |
+| 119 | [Pascal's Triangle II](../Array/0119-pascals-triangle-ii/README.md) | Array | Easy | Solved |
 | 121 | [Best Time to Buy and Sell Stock](../Array/0121-best-time-to-buy-and-sell-stock/README.md) | Array | Easy | Solved |
+| 152 | [Maximum Product Subarray](../Array/0152-maximum-product-subarray/README.md) | Array | Medium | Solved |
 | 509 | [Fibonacci Number](../Math/0509-fibonacci-number/README.md) | Math | Easy | Solved |

@@ -4,13 +4,14 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 3 | 3 | 0 | 3 | 0 | 0 |
+| 4 | 4 | 0 | 4 | 0 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
 | 20 | [Valid Parentheses](../String/0020-valid-parentheses/README.md) | Easy | Solved | 2 | cpp | 2025-12-17 |
 | 58 | [Length of Last Word](../String/0058-length-of-last-word/README.md) | Easy | Solved | 1 | cpp | 2025-12-22 |
 | 1021 | [Remove Outermost Parentheses](../String/1021-remove-outermost-parentheses/README.md) | Easy | Solved | 1 | cpp | 2026-02-03 |
+| 1446 | [Consecutive Characters](../String/1446-consecutive-characters/README.md) | Easy | Solved | 1 | cpp | 2026-02-11 |
 
 ## Also tagged String
 
@@ -24,6 +25,10 @@ Filed under their main topic, but they use this one too.
 | 67 | [Add Binary](../Math/0067-add-binary/README.md) | Math | Easy | Solved |
 | 125 | [Valid Palindrome](../Two-Pointers/0125-valid-palindrome/README.md) | Two Pointers | Easy | Solved |
 | 151 | [Reverse Words in a String](../Two-Pointers/0151-reverse-words-in-a-string/README.md) | Two Pointers | Medium | Solved |
+| 168 | [Excel Sheet Column Title](../Math/0168-excel-sheet-column-title/README.md) | Math | Easy | Solved |
+| 171 | [Excel Sheet Column Number](../Math/0171-excel-sheet-column-number/README.md) | Math | Easy | Solved |
 | 344 | [Reverse String](../Two-Pointers/0344-reverse-string/README.md) | Two Pointers | Easy | Solved |
+| 389 | [Find the Difference](../Hash-Table/0389-find-the-difference/README.md) | Hash Table | Easy | Solved |
+| 557 | [Reverse Words in a String III](../Two-Pointers/0557-reverse-words-in-a-string-iii/README.md) | Two Pointers | Easy | Solved |
 | 1768 | [Merge Strings Alternately](../Two-Pointers/1768-merge-strings-alternately/README.md) | Two Pointers | Easy | Solved |
 | 2182 | [Construct String With Repeat Limit](../Hash-Table/2182-construct-string-with-repeat-limit/README.md) | Hash Table | Medium | Solved |
