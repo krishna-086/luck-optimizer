@@ -1,0 +1,27 @@
+# String
+
+[All topics](../README.md)
+
+| Problems | Solved | Attempted | Easy | Medium | Hard |
+| --- | --- | --- | --- | --- | --- |
+| 2 | 2 | 0 | 2 | 0 | 0 |
+
+| # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
+| --- | --- | --- | --- | --- | --- | --- |
+| 20 | [Valid Parentheses](../String/0020-valid-parentheses/README.md) | Easy | Solved | 2 | cpp | 2025-12-17 |
+| 58 | [Length of Last Word](../String/0058-length-of-last-word/README.md) | Easy | Solved | 1 | cpp | 2025-12-22 |
+
+## Also tagged String
+
+Filed under their main topic, but they use this one too.
+
+| # | Problem | Filed under | Difficulty | Status |
+| --- | --- | --- | --- | --- |
+| 13 | [Roman to Integer](../Hash-Table/0013-roman-to-integer/README.md) | Hash Table | Easy | Solved |
+| 14 | [Longest Common Prefix](../Array/0014-longest-common-prefix/README.md) | Array | Easy | Solved |
+| 28 | [Find the Index of the First Occurrence in a String](../Two-Pointers/0028-find-the-index-of-the-first-occurrence-in-a-string/README.md) | Two Pointers | Easy | Solved |
+| 67 | [Add Binary](../Math/0067-add-binary/README.md) | Math | Easy | Solved |
+| 125 | [Valid Palindrome](../Two-Pointers/0125-valid-palindrome/README.md) | Two Pointers | Easy | Solved |
+| 344 | [Reverse String](../Two-Pointers/0344-reverse-string/README.md) | Two Pointers | Easy | Solved |
+| 1768 | [Merge Strings Alternately](../Two-Pointers/1768-merge-strings-alternately/README.md) | Two Pointers | Easy | Solved |
+| 2182 | [Construct String With Repeat Limit](../Hash-Table/2182-construct-string-with-repeat-limit/README.md) | Hash Table | Medium | Solved |

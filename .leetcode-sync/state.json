@@ -599,6 +599,302 @@
       "submissions": [
         {"id":1486563702,"status":"Accepted","lang":"cpp","timestamp":1734979609,"runtime":"0 ms","memory":"13.8 MB"}
       ]
+    },
+    "kth-missing-positive-number": {
+      "id": "1539",
+      "title": "Kth Missing Positive Number",
+      "slug": "kth-missing-positive-number",
+      "difficulty": "Easy",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/1539-kth-missing-positive-number",
+      "first_attempt_at": 1735072908,
+      "last_attempt_at": 1735072908,
+      "solved_at": 1735072908,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1487486760,"status":"Accepted","lang":"cpp","timestamp":1735072908,"runtime":"1 ms","memory":"13.2 MB"}
+      },
+      "submissions": [
+        {"id":1487486760,"status":"Accepted","lang":"cpp","timestamp":1735072908,"runtime":"1 ms","memory":"13.2 MB"}
+      ]
+    },
+    "powx-n": {
+      "id": "50",
+      "title": "Pow(x, n)",
+      "slug": "powx-n",
+      "difficulty": "Medium",
+      "tags": ["Math","Recursion"],
+      "topic": "Math",
+      "dir": "Math/0050-powx-n",
+      "first_attempt_at": 1735154357,
+      "last_attempt_at": 1735155956,
+      "solved_at": 1735155956,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1488292158,"status":"Accepted","lang":"cpp","timestamp":1735155956,"runtime":"0 ms","memory":"8.4 MB"}
+      },
+      "submissions": [
+        {"id":1488276673,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1735154357,"runtime":null,"memory":null},
+        {"id":1488283225,"status":"Runtime Error","lang":"cpp","timestamp":1735155048,"runtime":null,"memory":null},
+        {"id":1488284040,"status":"Runtime Error","lang":"cpp","timestamp":1735155127,"runtime":null,"memory":null},
+        {"id":1488284589,"status":"Runtime Error","lang":"cpp","timestamp":1735155175,"runtime":null,"memory":null},
+        {"id":1488286070,"status":"Runtime Error","lang":"cpp","timestamp":1735155319,"runtime":null,"memory":null},
+        {"id":1488288614,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1735155566,"runtime":null,"memory":null},
+        {"id":1488292158,"status":"Accepted","lang":"cpp","timestamp":1735155956,"runtime":"0 ms","memory":"8.4 MB"}
+      ]
+    },
+    "counting-bits": {
+      "id": "338",
+      "title": "Counting Bits",
+      "slug": "counting-bits",
+      "difficulty": "Easy",
+      "tags": ["Dynamic Programming","Bit Manipulation"],
+      "topic": "Dynamic Programming",
+      "dir": "Dynamic-Programming/0338-counting-bits",
+      "first_attempt_at": 1736874968,
+      "last_attempt_at": 1736877130,
+      "solved_at": 1736874968,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1508611766,"status":"Accepted","lang":"cpp","timestamp":1736877130,"runtime":"2 ms","memory":"10.7 MB"}
+      },
+      "submissions": [
+        {"id":1508572194,"status":"Accepted","lang":"cpp","timestamp":1736874968,"runtime":null,"memory":null},
+        {"id":1508587595,"status":"Accepted","lang":"cpp","timestamp":1736875814,"runtime":null,"memory":null},
+        {"id":1508611111,"status":"Accepted","lang":"cpp","timestamp":1736877093,"runtime":null,"memory":null},
+        {"id":1508611766,"status":"Accepted","lang":"cpp","timestamp":1736877130,"runtime":"2 ms","memory":"10.7 MB"}
+      ]
+    },
+    "reverse-string": {
+      "id": "344",
+      "title": "Reverse String",
+      "slug": "reverse-string",
+      "difficulty": "Easy",
+      "tags": ["Two Pointers","String"],
+      "topic": "Two Pointers",
+      "dir": "Two-Pointers/0344-reverse-string",
+      "first_attempt_at": 1765218462,
+      "last_attempt_at": 1765259171,
+      "solved_at": 1765218462,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1850769553,"status":"Accepted","lang":"cpp","timestamp":1765259171,"runtime":"0 ms","memory":"27.3 MB"}
+      },
+      "submissions": [
+        {"id":1850435911,"status":"Accepted","lang":"cpp","timestamp":1765218462,"runtime":null,"memory":null},
+        {"id":1850769479,"status":"Accepted","lang":"cpp","timestamp":1765259166,"runtime":null,"memory":null},
+        {"id":1850769553,"status":"Accepted","lang":"cpp","timestamp":1765259171,"runtime":"0 ms","memory":"27.3 MB"}
+      ]
+    },
+    "merge-two-sorted-lists": {
+      "id": "21",
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "tags": ["Linked List","Recursion"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0021-merge-two-sorted-lists",
+      "first_attempt_at": 1765393321,
+      "last_attempt_at": 1765393321,
+      "solved_at": 1765393321,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1852319988,"status":"Accepted","lang":"cpp","timestamp":1765393321,"runtime":"0 ms","memory":"19.4 MB"}
+      },
+      "submissions": [
+        {"id":1852319988,"status":"Accepted","lang":"cpp","timestamp":1765393321,"runtime":"0 ms","memory":"19.4 MB"}
+      ]
+    },
+    "longest-common-prefix": {
+      "id": "14",
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "difficulty": "Easy",
+      "tags": ["Array","String","Trie"],
+      "topic": "Array",
+      "dir": "Array/0014-longest-common-prefix",
+      "first_attempt_at": 1765721702,
+      "last_attempt_at": 1765721702,
+      "solved_at": 1765721702,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1855438140,"status":"Accepted","lang":"cpp","timestamp":1765721702,"runtime":"0 ms","memory":"11.9 MB"}
+      },
+      "submissions": [
+        {"id":1855438140,"status":"Accepted","lang":"cpp","timestamp":1765721702,"runtime":"0 ms","memory":"11.9 MB"}
+      ]
+    },
+    "valid-parentheses": {
+      "id": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "difficulty": "Easy",
+      "tags": ["String","Stack","Bracket Sequences"],
+      "topic": "String",
+      "dir": "String/0020-valid-parentheses",
+      "first_attempt_at": 1765963151,
+      "last_attempt_at": 1792011583,
+      "solved_at": 1765963151,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2172521917,"status":"Accepted","lang":"cpp","timestamp":1792011583,"runtime":"0 ms","memory":"8.8 MB"}
+      },
+      "submissions": [
+        {"id":1857889918,"status":"Accepted","lang":"cpp","timestamp":1765963151,"runtime":null,"memory":null},
+        {"id":2172521917,"status":"Accepted","lang":"cpp","timestamp":1792011583,"runtime":"0 ms","memory":"8.8 MB"}
+      ]
+    },
+    "remove-element": {
+      "id": "27",
+      "title": "Remove Element",
+      "slug": "remove-element",
+      "difficulty": "Easy",
+      "tags": ["Array","Two Pointers"],
+      "topic": "Array",
+      "dir": "Array/0027-remove-element",
+      "first_attempt_at": 1766061603,
+      "last_attempt_at": 1766309182,
+      "solved_at": 1766061603,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1861418521,"status":"Accepted","lang":"cpp","timestamp":1766309182,"runtime":"0 ms","memory":"11.7 MB"}
+      },
+      "submissions": [
+        {"id":1858910071,"status":"Accepted","lang":"cpp","timestamp":1766061603,"runtime":null,"memory":null},
+        {"id":1861418521,"status":"Accepted","lang":"cpp","timestamp":1766309182,"runtime":"0 ms","memory":"11.7 MB"}
+      ]
+    },
+    "find-the-index-of-the-first-occurrence-in-a-string": {
+      "id": "28",
+      "title": "Find the Index of the First Occurrence in a String",
+      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "difficulty": "Easy",
+      "tags": ["Two Pointers","String","String Matching","Z Algorithm","Knuth–Morris–Pratt Algorithm","Boyer–Moore String-Search Algorithm"],
+      "topic": "Two Pointers",
+      "dir": "Two-Pointers/0028-find-the-index-of-the-first-occurrence-in-a-string",
+      "first_attempt_at": 1766309278,
+      "last_attempt_at": 1766309301,
+      "solved_at": 1766309278,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1861419738,"status":"Accepted","lang":"cpp","timestamp":1766309301,"runtime":"0 ms","memory":"8.9 MB"}
+      },
+      "submissions": [
+        {"id":1861419477,"status":"Accepted","lang":"cpp","timestamp":1766309278,"runtime":null,"memory":null},
+        {"id":1861419738,"status":"Accepted","lang":"cpp","timestamp":1766309301,"runtime":"0 ms","memory":"8.9 MB"}
+      ]
+    },
+    "length-of-last-word": {
+      "id": "58",
+      "title": "Length of Last Word",
+      "slug": "length-of-last-word",
+      "difficulty": "Easy",
+      "tags": ["String"],
+      "topic": "String",
+      "dir": "String/0058-length-of-last-word",
+      "first_attempt_at": 1766404287,
+      "last_attempt_at": 1766404287,
+      "solved_at": 1766404287,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1862358916,"status":"Accepted","lang":"cpp","timestamp":1766404287,"runtime":"0 ms","memory":"8.8 MB"}
+      },
+      "submissions": [
+        {"id":1862358916,"status":"Accepted","lang":"cpp","timestamp":1766404287,"runtime":"0 ms","memory":"8.8 MB"}
+      ]
+    },
+    "add-binary": {
+      "id": "67",
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "difficulty": "Easy",
+      "tags": ["Math","String","Bit Manipulation","Simulation"],
+      "topic": "Math",
+      "dir": "Math/0067-add-binary",
+      "first_attempt_at": 1766503349,
+      "last_attempt_at": 1766503349,
+      "solved_at": 1766503349,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1863418150,"status":"Accepted","lang":"cpp","timestamp":1766503349,"runtime":"2 ms","memory":"8.9 MB"}
+      },
+      "submissions": [
+        {"id":1863418150,"status":"Accepted","lang":"cpp","timestamp":1766503349,"runtime":"2 ms","memory":"8.9 MB"}
+      ]
+    },
+    "merge-sorted-array": {
+      "id": "88",
+      "title": "Merge Sorted Array",
+      "slug": "merge-sorted-array",
+      "difficulty": "Easy",
+      "tags": ["Array","Two Pointers","Sorting"],
+      "topic": "Array",
+      "dir": "Array/0088-merge-sorted-array",
+      "first_attempt_at": 1766946552,
+      "last_attempt_at": 1780561597,
+      "solved_at": 1766946552,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2022074300,"status":"Accepted","lang":"cpp","timestamp":1780561597,"runtime":"0 ms","memory":"12.3 MB"}
+      },
+      "submissions": [
+        {"id":1867819156,"status":"Accepted","lang":"cpp","timestamp":1766946552,"runtime":null,"memory":null},
+        {"id":2022051651,"status":"Accepted","lang":"cpp","timestamp":1780559947,"runtime":null,"memory":null},
+        {"id":2022073152,"status":"Wrong Answer","lang":"cpp","timestamp":1780561516,"runtime":null,"memory":null},
+        {"id":2022074300,"status":"Accepted","lang":"cpp","timestamp":1780561597,"runtime":"0 ms","memory":"12.3 MB"}
+      ]
+    },
+    "path-sum": {
+      "id": "112",
+      "title": "Path Sum",
+      "slug": "path-sum",
+      "difficulty": "Easy",
+      "tags": ["Tree","Depth-First Search","Breadth-First Search","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/0112-path-sum",
+      "first_attempt_at": 1767029923,
+      "last_attempt_at": 1781251887,
+      "solved_at": 1767029923,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2030571103,"status":"Accepted","lang":"cpp","timestamp":1781251887,"runtime":"0 ms","memory":"21.4 MB"}
+      },
+      "submissions": [
+        {"id":1868672880,"status":"Accepted","lang":"cpp","timestamp":1767029923,"runtime":null,"memory":null},
+        {"id":1868675864,"status":"Accepted","lang":"cpp","timestamp":1767030111,"runtime":null,"memory":null},
+        {"id":1868681675,"status":"Accepted","lang":"cpp","timestamp":1767030485,"runtime":null,"memory":null},
+        {"id":2030556317,"status":"Accepted","lang":"cpp","timestamp":1781250830,"runtime":null,"memory":null},
+        {"id":2030561726,"status":"Accepted","lang":"cpp","timestamp":1781251225,"runtime":null,"memory":null},
+        {"id":2030571103,"status":"Accepted","lang":"cpp","timestamp":1781251887,"runtime":"0 ms","memory":"21.4 MB"}
+      ]
+    },
+    "pascals-triangle": {
+      "id": "118",
+      "title": "Pascal's Triangle",
+      "slug": "pascals-triangle",
+      "difficulty": "Easy",
+      "tags": ["Array","Dynamic Programming"],
+      "topic": "Array",
+      "dir": "Array/0118-pascals-triangle",
+      "first_attempt_at": 1767108772,
+      "last_attempt_at": 1769846379,
+      "solved_at": 1767108772,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1902764150,"status":"Accepted","lang":"cpp","timestamp":1769846379,"runtime":"0 ms","memory":"9.8 MB"}
+      },
+      "submissions": [
+        {"id":1869502646,"status":"Accepted","lang":"cpp","timestamp":1767108772,"runtime":null,"memory":null},
+        {"id":1902752657,"status":"Accepted","lang":"cpp","timestamp":1769845487,"runtime":null,"memory":null},
+        {"id":1902755718,"status":"Accepted","lang":"cpp","timestamp":1769845731,"runtime":null,"memory":null},
+        {"id":1902764150,"status":"Accepted","lang":"cpp","timestamp":1769846379,"runtime":"0 ms","memory":"9.8 MB"}
+      ]
+    },
+    "product-of-array-except-self": {
+      "id": "238",
+      "title": "Product of Array Except Self",
+      "slug": "product-of-array-except-self",
+      "difficulty": "Medium",
+      "tags": ["Array","Prefix Sum"],
+      "topic": "Array",
+      "dir": "Array/0238-product-of-array-except-self",
+      "first_attempt_at": 1767876722,
+      "last_attempt_at": 1767879541,
+      "solved_at": 1767879541,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1878750316,"status":"Accepted","lang":"cpp","timestamp":1767879541,"runtime":"0 ms","memory":"40.2 MB"}
+      },
+      "submissions": [
+        {"id":1878708934,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1767876722,"runtime":null,"memory":null},
+        {"id":1878750316,"status":"Accepted","lang":"cpp","timestamp":1767879541,"runtime":"0 ms","memory":"40.2 MB"}
+      ]
     }
   }
 }

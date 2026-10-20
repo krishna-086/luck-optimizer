@@ -4,12 +4,14 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 7 | 7 | 0 | 6 | 1 | 0 |
+| 9 | 9 | 0 | 7 | 2 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
 | 7 | [Reverse Integer](../Math/0007-reverse-integer/README.md) | Medium | Solved | 11 | cpp | 2024-05-31 |
 | 9 | [Palindrome Number](../Math/0009-palindrome-number/README.md) | Easy | Solved | 4 | cpp | 2024-05-31 |
+| 50 | [Pow(x, n)](../Math/0050-powx-n/README.md) | Medium | Solved | 7 | cpp | 2024-12-26 |
+| 67 | [Add Binary](../Math/0067-add-binary/README.md) | Easy | Solved | 1 | cpp | 2025-12-23 |
 | 69 | [Sqrt(x)](../Math/0069-sqrtx/README.md) | Easy | Solved | 4 | cpp | 2024-10-29 |
 | 231 | [Power of Two](../Math/0231-power-of-two/README.md) | Easy | Solved | 3 | cpp | 2024-12-12 |
 | 258 | [Add Digits](../Math/0258-add-digits/README.md) | Easy | Solved | 1 | cpp | 2024-12-14 |
