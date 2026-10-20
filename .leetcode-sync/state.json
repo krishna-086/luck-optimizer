@@ -322,6 +322,283 @@
         {"id":1898064804,"status":"Accepted","lang":"cpp","timestamp":1769460297,"runtime":null,"memory":null},
         {"id":2022042143,"status":"Accepted","lang":"cpp","timestamp":1780559224,"runtime":"0 ms","memory":"11.4 MB"}
       ]
+    },
+    "majority-element": {
+      "id": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Divide and Conquer","Sorting","Counting","Boyer–Moore Majority Vote Algorithm"],
+      "topic": "Array",
+      "dir": "Array/0169-majority-element",
+      "first_attempt_at": 1733855846,
+      "last_attempt_at": 1769457801,
+      "solved_at": 1733855846,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1898039622,"status":"Accepted","lang":"cpp","timestamp":1769457801,"runtime":"0 ms","memory":"28.1 MB"}
+      },
+      "submissions": [
+        {"id":1475520693,"status":"Accepted","lang":"cpp","timestamp":1733855846,"runtime":null,"memory":null},
+        {"id":1898035420,"status":"Accepted","lang":"cpp","timestamp":1769457417,"runtime":null,"memory":null},
+        {"id":1898039622,"status":"Accepted","lang":"cpp","timestamp":1769457801,"runtime":"0 ms","memory":"28.1 MB"}
+      ]
+    },
+    "find-the-maximum-achievable-number": {
+      "id": "2769",
+      "title": "Find the Maximum Achievable Number",
+      "slug": "find-the-maximum-achievable-number",
+      "difficulty": "Easy",
+      "tags": ["Math"],
+      "topic": "Math",
+      "dir": "Math/2769-find-the-maximum-achievable-number",
+      "first_attempt_at": 1733940939,
+      "last_attempt_at": 1733940939,
+      "solved_at": 1733940939,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1476372043,"status":"Accepted","lang":"cpp","timestamp":1733940939,"runtime":"0 ms","memory":"9.7 MB"}
+      },
+      "submissions": [
+        {"id":1476372043,"status":"Accepted","lang":"cpp","timestamp":1733940939,"runtime":"0 ms","memory":"9.7 MB"}
+      ]
+    },
+    "power-of-two": {
+      "id": "231",
+      "title": "Power of Two",
+      "slug": "power-of-two",
+      "difficulty": "Easy",
+      "tags": ["Math","Bit Manipulation","Recursion"],
+      "topic": "Math",
+      "dir": "Math/0231-power-of-two",
+      "first_attempt_at": 1734018025,
+      "last_attempt_at": 1734018391,
+      "solved_at": 1734018391,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1477112098,"status":"Accepted","lang":"cpp","timestamp":1734018391,"runtime":"0 ms","memory":"7.9 MB"}
+      },
+      "submissions": [
+        {"id":1477107357,"status":"Wrong Answer","lang":"cpp","timestamp":1734018025,"runtime":null,"memory":null},
+        {"id":1477111960,"status":"Compile Error","lang":"cpp","timestamp":1734018382,"runtime":null,"memory":null},
+        {"id":1477112098,"status":"Accepted","lang":"cpp","timestamp":1734018391,"runtime":"0 ms","memory":"7.9 MB"}
+      ]
+    },
+    "add-digits": {
+      "id": "258",
+      "title": "Add Digits",
+      "slug": "add-digits",
+      "difficulty": "Easy",
+      "tags": ["Math","Simulation","Number Theory"],
+      "topic": "Math",
+      "dir": "Math/0258-add-digits",
+      "first_attempt_at": 1734115010,
+      "last_attempt_at": 1734115010,
+      "solved_at": 1734115010,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1478067844,"status":"Accepted","lang":"cpp","timestamp":1734115010,"runtime":"0 ms","memory":"8.7 MB"}
+      },
+      "submissions": [
+        {"id":1478067844,"status":"Accepted","lang":"cpp","timestamp":1734115010,"runtime":"0 ms","memory":"8.7 MB"}
+      ]
+    },
+    "roman-to-integer": {
+      "id": "13",
+      "title": "Roman to Integer",
+      "slug": "roman-to-integer",
+      "difficulty": "Easy",
+      "tags": ["Hash Table","Math","String"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0013-roman-to-integer",
+      "first_attempt_at": 1734204773,
+      "last_attempt_at": 1734204773,
+      "solved_at": 1734204773,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1478840502,"status":"Accepted","lang":"cpp","timestamp":1734204773,"runtime":"8 ms","memory":"13.4 MB"}
+      },
+      "submissions": [
+        {"id":1478840502,"status":"Accepted","lang":"cpp","timestamp":1734204773,"runtime":"8 ms","memory":"13.4 MB"}
+      ]
+    },
+    "happy-number": {
+      "id": "202",
+      "title": "Happy Number",
+      "slug": "happy-number",
+      "difficulty": "Easy",
+      "tags": ["Hash Table","Math","Two Pointers","Floyd's Cycle Finding Algorithm"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0202-happy-number",
+      "first_attempt_at": 1734290598,
+      "last_attempt_at": 1734290598,
+      "solved_at": 1734290598,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1479656885,"status":"Accepted","lang":"cpp","timestamp":1734290598,"runtime":"0 ms","memory":"8.3 MB"}
+      },
+      "submissions": [
+        {"id":1479656885,"status":"Accepted","lang":"cpp","timestamp":1734290598,"runtime":"0 ms","memory":"8.3 MB"}
+      ]
+    },
+    "final-array-state-after-k-multiplication-operations-i": {
+      "id": "3264",
+      "title": "Final Array State After K Multiplication Operations I",
+      "slug": "final-array-state-after-k-multiplication-operations-i",
+      "difficulty": "Easy",
+      "tags": ["Array","Math","Heap (Priority Queue)","Simulation"],
+      "topic": "Array",
+      "dir": "Array/3264-final-array-state-after-k-multiplication-operations-i",
+      "first_attempt_at": 1734370702,
+      "last_attempt_at": 1734370798,
+      "solved_at": 1734370798,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1480453271,"status":"Accepted","lang":"cpp","timestamp":1734370798,"runtime":"3 ms","memory":"27.2 MB"}
+      },
+      "submissions": [
+        {"id":1480451828,"status":"Wrong Answer","lang":"cpp","timestamp":1734370702,"runtime":null,"memory":null},
+        {"id":1480453271,"status":"Accepted","lang":"cpp","timestamp":1734370798,"runtime":"3 ms","memory":"27.2 MB"}
+      ]
+    },
+    "construct-string-with-repeat-limit": {
+      "id": "2182",
+      "title": "Construct String With Repeat Limit",
+      "slug": "construct-string-with-repeat-limit",
+      "difficulty": "Medium",
+      "tags": ["Hash Table","String","Greedy","Heap (Priority Queue)","Counting"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/2182-construct-string-with-repeat-limit",
+      "first_attempt_at": 1734431734,
+      "last_attempt_at": 1734438310,
+      "solved_at": 1734438310,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1481091209,"status":"Accepted","lang":"cpp","timestamp":1734438310,"runtime":"31 ms","memory":"28.3 MB"}
+      },
+      "submissions": [
+        {"id":1481025704,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1734431734,"runtime":null,"memory":null},
+        {"id":1481091209,"status":"Accepted","lang":"cpp","timestamp":1734438310,"runtime":"31 ms","memory":"28.3 MB"}
+      ]
+    },
+    "final-prices-with-a-special-discount-in-a-shop": {
+      "id": "1475",
+      "title": "Final Prices With a Special Discount in a Shop",
+      "slug": "final-prices-with-a-special-discount-in-a-shop",
+      "difficulty": "Easy",
+      "tags": ["Array","Stack","Monotonic Stack"],
+      "topic": "Array",
+      "dir": "Array/1475-final-prices-with-a-special-discount-in-a-shop",
+      "first_attempt_at": 1734538444,
+      "last_attempt_at": 1734538444,
+      "solved_at": 1734538444,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1482166530,"status":"Accepted","lang":"cpp","timestamp":1734538444,"runtime":"3 ms","memory":"14 MB"}
+      },
+      "submissions": [
+        {"id":1482166530,"status":"Accepted","lang":"cpp","timestamp":1734538444,"runtime":"3 ms","memory":"14 MB"}
+      ]
+    },
+    "merge-strings-alternately": {
+      "id": "1768",
+      "title": "Merge Strings Alternately",
+      "slug": "merge-strings-alternately",
+      "difficulty": "Easy",
+      "tags": ["Two Pointers","String"],
+      "topic": "Two Pointers",
+      "dir": "Two-Pointers/1768-merge-strings-alternately",
+      "first_attempt_at": 1734543955,
+      "last_attempt_at": 1734544084,
+      "solved_at": 1734544084,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1482249913,"status":"Accepted","lang":"cpp","timestamp":1734544084,"runtime":"0 ms","memory":"8.5 MB"}
+      },
+      "submissions": [
+        {"id":1482248049,"status":"Runtime Error","lang":"cpp","timestamp":1734543955,"runtime":null,"memory":null},
+        {"id":1482249913,"status":"Accepted","lang":"cpp","timestamp":1734544084,"runtime":"0 ms","memory":"8.5 MB"}
+      ]
+    },
+    "max-chunks-to-make-sorted": {
+      "id": "769",
+      "title": "Max Chunks To Make Sorted",
+      "slug": "max-chunks-to-make-sorted",
+      "difficulty": "Medium",
+      "tags": ["Array","Stack","Greedy","Sorting","Monotonic Stack"],
+      "topic": "Array",
+      "dir": "Array/0769-max-chunks-to-make-sorted",
+      "first_attempt_at": 1734637062,
+      "last_attempt_at": 1734637062,
+      "solved_at": 1734637062,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1483211832,"status":"Accepted","lang":"cpp","timestamp":1734637062,"runtime":"0 ms","memory":"9.2 MB"}
+      },
+      "submissions": [
+        {"id":1483211832,"status":"Accepted","lang":"cpp","timestamp":1734637062,"runtime":"0 ms","memory":"9.2 MB"}
+      ]
+    },
+    "reverse-odd-levels-of-binary-tree": {
+      "id": "2415",
+      "title": "Reverse Odd Levels of Binary Tree",
+      "slug": "reverse-odd-levels-of-binary-tree",
+      "difficulty": "Medium",
+      "tags": ["Tree","Depth-First Search","Breadth-First Search","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/2415-reverse-odd-levels-of-binary-tree",
+      "first_attempt_at": 1734717639,
+      "last_attempt_at": 1734717639,
+      "solved_at": 1734717639,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1483961955,"status":"Accepted","lang":"cpp","timestamp":1734717639,"runtime":"1 ms","memory":"77.2 MB"}
+      },
+      "submissions": [
+        {"id":1483961955,"status":"Accepted","lang":"cpp","timestamp":1734717639,"runtime":"1 ms","memory":"77.2 MB"}
+      ]
+    },
+    "binary-search": {
+      "id": "704",
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "difficulty": "Easy",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0704-binary-search",
+      "first_attempt_at": 1734799513,
+      "last_attempt_at": 1734799513,
+      "solved_at": 1734799513,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1484741871,"status":"Accepted","lang":"cpp","timestamp":1734799513,"runtime":"0 ms","memory":"31.2 MB"}
+      },
+      "submissions": [
+        {"id":1484741871,"status":"Accepted","lang":"cpp","timestamp":1734799513,"runtime":"0 ms","memory":"31.2 MB"}
+      ]
+    },
+    "contains-duplicate": {
+      "id": "217",
+      "title": "Contains Duplicate",
+      "slug": "contains-duplicate",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Sorting"],
+      "topic": "Array",
+      "dir": "Array/0217-contains-duplicate",
+      "first_attempt_at": 1734887526,
+      "last_attempt_at": 1734887526,
+      "solved_at": 1734887526,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1485625469,"status":"Accepted","lang":"cpp","timestamp":1734887526,"runtime":"31 ms","memory":"73.7 MB"}
+      },
+      "submissions": [
+        {"id":1485625469,"status":"Accepted","lang":"cpp","timestamp":1734887526,"runtime":"31 ms","memory":"73.7 MB"}
+      ]
+    },
+    "search-insert-position": {
+      "id": "35",
+      "title": "Search Insert Position",
+      "slug": "search-insert-position",
+      "difficulty": "Easy",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0035-search-insert-position",
+      "first_attempt_at": 1734979609,
+      "last_attempt_at": 1734979609,
+      "solved_at": 1734979609,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1486563702,"status":"Accepted","lang":"cpp","timestamp":1734979609,"runtime":"0 ms","memory":"13.8 MB"}
+      },
+      "submissions": [
+        {"id":1486563702,"status":"Accepted","lang":"cpp","timestamp":1734979609,"runtime":"0 ms","memory":"13.8 MB"}
+      ]
     }
   }
 }
