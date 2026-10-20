@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2177433608,
+  "synced_through": 2177451141,
   "problems": {
     "reverse-integer": {
       "id": "7",
@@ -3741,6 +3741,26 @@
       "submissions": [
         {"id":2176657304,"status":"Runtime Error","lang":"cpp","timestamp":1792457331,"runtime":null,"memory":null},
         {"id":2176658467,"status":"Accepted","lang":"cpp","timestamp":1792457597,"runtime":"0 ms","memory":"26.3 MB"}
+      ]
+    },
+    "split-array-largest-sum": {
+      "id": "410",
+      "title": "Split Array Largest Sum",
+      "slug": "split-array-largest-sum",
+      "difficulty": "Hard",
+      "tags": ["Array","Binary Search","Dynamic Programming","Greedy","Prefix Sum"],
+      "topic": "Array",
+      "dir": "Array/0410-split-array-largest-sum",
+      "first_attempt_at": 1792532407,
+      "last_attempt_at": 1792532652,
+      "solved_at": 1792532407,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2177451141,"status":"Accepted","lang":"cpp","timestamp":1792532652,"runtime":"0 ms","memory":"10.4 MB"}
+      },
+      "submissions": [
+        {"id":2177449845,"status":"Accepted","lang":"cpp","timestamp":1792532407,"runtime":null,"memory":null},
+        {"id":2177450506,"status":"Wrong Answer","lang":"cpp","timestamp":1792532537,"runtime":null,"memory":null},
+        {"id":2177451141,"status":"Accepted","lang":"cpp","timestamp":1792532652,"runtime":"0 ms","memory":"10.4 MB"}
       ]
     }
   }

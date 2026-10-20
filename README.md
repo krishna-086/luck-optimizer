@@ -4,13 +4,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 189 | 188 | 1 | 84 | 95 | 9 | 2026-10-21 |
+| 190 | 189 | 1 | 84 | 95 | 10 | 2026-10-21 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 87 | 87 | 0 | 31 | 53 | 3 |
+| [Array](Array/README.md) | 88 | 88 | 0 | 31 | 53 | 4 |
 | [Linked List](Linked-List/README.md) | 18 | 18 | 0 | 7 | 9 | 2 |
 | [Math](Math/README.md) | 18 | 17 | 1 | 12 | 5 | 1 |
 | [Tree](Tree/README.md) | 18 | 18 | 0 | 5 | 13 | 0 |
@@ -35,6 +35,9 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-21 | [410. Split Array Largest Sum](Array/0410-split-array-largest-sum/README.md) | Accepted | cpp |
+| 2026-10-21 | [410. Split Array Largest Sum](Array/0410-split-array-largest-sum/README.md) | Wrong Answer | cpp |
+| 2026-10-21 | [410. Split Array Largest Sum](Array/0410-split-array-largest-sum/README.md) | Accepted | cpp |
 | 2026-10-21 | [33. Search in Rotated Sorted Array](Array/0033-search-in-rotated-sorted-array/README.md) | Accepted | cpp |
 | 2026-10-21 | [33. Search in Rotated Sorted Array](Array/0033-search-in-rotated-sorted-array/README.md) | Wrong Answer | cpp |
 | 2026-10-20 | [540. Single Element in a Sorted Array](Array/0540-single-element-in-a-sorted-array/README.md) | Accepted | cpp |
@@ -47,15 +50,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-20 | [295. Find Median from Data Stream](Two-Pointers/0295-find-median-from-data-stream/README.md) | Accepted | cpp |
 | 2026-10-19 | [295. Find Median from Data Stream](Two-Pointers/0295-find-median-from-data-stream/README.md) | Time Limit Exceeded | cpp |
 | 2026-10-19 | [295. Find Median from Data Stream](Two-Pointers/0295-find-median-from-data-stream/README.md) | Time Limit Exceeded | cpp |
-| 2026-10-19 | [295. Find Median from Data Stream](Two-Pointers/0295-find-median-from-data-stream/README.md) | Wrong Answer | cpp |
-| 2026-10-19 | [23. Merge k Sorted Lists](Linked-List/0023-merge-k-sorted-lists/README.md) | Accepted | cpp |
-| 2026-10-19 | [23. Merge k Sorted Lists](Linked-List/0023-merge-k-sorted-lists/README.md) | Compile Error | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 29 | 72 |
+| 2026-10 | 30 | 75 |
 | 2026-08 | 0 | 14 |
 | 2026-07 | 8 | 39 |
 | 2026-06 | 32 | 108 |
@@ -190,6 +190,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 347 | [Top K Frequent Elements](Array/0347-top-k-frequent-elements/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-10-19 | 2026-10-19 |
 | 383 | [Ransom Note](Hash-Table/0383-ransom-note/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 1 | 2026-02-16 | 2026-02-16 |
 | 389 | [Find the Difference](Hash-Table/0389-find-the-difference/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 2 | 2026-02-10 | 2026-02-10 |
+| 410 | [Split Array Largest Sum](Array/0410-split-array-largest-sum/README.md) | [Array](Array/README.md) | Hard | Solved | 3 | 2026-10-21 | 2026-10-21 |
 | 424 | [Longest Repeating Character Replacement](Hash-Table/0424-longest-repeating-character-replacement/README.md) | [Hash Table](Hash-Table/README.md) | Medium | Solved | 4 | 2026-10-15 | 2026-10-15 |
 | 437 | [Path Sum III](Tree/0437-path-sum-iii/README.md) | [Tree](Tree/README.md) | Medium | Solved | 2 | 2026-06-12 | 2026-06-12 |
 | 455 | [Assign Cookies](Array/0455-assign-cookies/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-02-13 | 2026-02-13 |

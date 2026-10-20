@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 87 | 87 | 0 | 31 | 53 | 3 |
+| 88 | 88 | 0 | 31 | 53 | 4 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -57,6 +57,7 @@
 | 287 | [Find the Duplicate Number](../Array/0287-find-the-duplicate-number/README.md) | Medium | Solved | 1 | cpp | 2026-06-05 |
 | 322 | [Coin Change](../Array/0322-coin-change/README.md) | Medium | Solved | 1 | cpp | 2026-10-19 |
 | 347 | [Top K Frequent Elements](../Array/0347-top-k-frequent-elements/README.md) | Medium | Solved | 2 | cpp | 2026-10-19 |
+| 410 | [Split Array Largest Sum](../Array/0410-split-array-largest-sum/README.md) | Hard | Solved | 3 | cpp | 2026-10-21 |
 | 455 | [Assign Cookies](../Array/0455-assign-cookies/README.md) | Easy | Solved | 2 | cpp | 2026-02-13 |
 | 463 | [Island Perimeter](../Array/0463-island-perimeter/README.md) | Easy | Solved | 7 | cpp | 2026-07-04 |
 | 485 | [Max Consecutive Ones](../Array/0485-max-consecutive-ones/README.md) | Easy | Solved | 2 | cpp | 2024-10-29 |
