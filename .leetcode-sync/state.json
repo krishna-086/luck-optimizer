@@ -3290,6 +3290,286 @@
       "submissions": [
         {"id":2172517849,"status":"Accepted","lang":"cpp","timestamp":1792010962,"runtime":"212 ms","memory":"152.2 MB"}
       ]
+    },
+    "min-cost-climbing-stairs": {
+      "id": "746",
+      "title": "Min Cost Climbing Stairs",
+      "slug": "min-cost-climbing-stairs",
+      "difficulty": "Easy",
+      "tags": ["Array","Dynamic Programming"],
+      "topic": "Array",
+      "dir": "Array/0746-min-cost-climbing-stairs",
+      "first_attempt_at": 1792018063,
+      "last_attempt_at": 1792018063,
+      "solved_at": 1792018063,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2172555701,"status":"Accepted","lang":"cpp","timestamp":1792018063,"runtime":"0 ms","memory":"17.6 MB"}
+      },
+      "submissions": [
+        {"id":2172555701,"status":"Accepted","lang":"cpp","timestamp":1792018063,"runtime":"0 ms","memory":"17.6 MB"}
+      ]
+    },
+    "house-robber": {
+      "id": "198",
+      "title": "House Robber",
+      "slug": "house-robber",
+      "difficulty": "Medium",
+      "tags": ["Array","Dynamic Programming"],
+      "topic": "Array",
+      "dir": "Array/0198-house-robber",
+      "first_attempt_at": 1792101249,
+      "last_attempt_at": 1792103461,
+      "solved_at": 1792101249,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2173414130,"status":"Accepted","lang":"cpp","timestamp":1792103461,"runtime":"0 ms","memory":"10.6 MB"}
+      },
+      "submissions": [
+        {"id":2173404622,"status":"Accepted","lang":"cpp","timestamp":1792101249,"runtime":null,"memory":null},
+        {"id":2173414130,"status":"Accepted","lang":"cpp","timestamp":1792103461,"runtime":"0 ms","memory":"10.6 MB"}
+      ]
+    },
+    "house-robber-ii": {
+      "id": "213",
+      "title": "House Robber II",
+      "slug": "house-robber-ii",
+      "difficulty": "Medium",
+      "tags": ["Array","Dynamic Programming"],
+      "topic": "Array",
+      "dir": "Array/0213-house-robber-ii",
+      "first_attempt_at": 1792102209,
+      "last_attempt_at": 1792103846,
+      "solved_at": 1792103214,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2173415712,"status":"Accepted","lang":"cpp","timestamp":1792103846,"runtime":"0 ms","memory":"10.6 MB"}
+      },
+      "submissions": [
+        {"id":2173408998,"status":"Wrong Answer","lang":"cpp","timestamp":1792102209,"runtime":null,"memory":null},
+        {"id":2173409275,"status":"Wrong Answer","lang":"cpp","timestamp":1792102275,"runtime":null,"memory":null},
+        {"id":2173409624,"status":"Wrong Answer","lang":"cpp","timestamp":1792102362,"runtime":null,"memory":null},
+        {"id":2173413095,"status":"Accepted","lang":"cpp","timestamp":1792103214,"runtime":null,"memory":null},
+        {"id":2173415712,"status":"Accepted","lang":"cpp","timestamp":1792103846,"runtime":"0 ms","memory":"10.6 MB"}
+      ]
+    },
+    "unique-paths": {
+      "id": "62",
+      "title": "Unique Paths",
+      "slug": "unique-paths",
+      "difficulty": "Medium",
+      "tags": ["Math","Dynamic Programming","Combinatorics"],
+      "topic": "Math",
+      "dir": "Math/0062-unique-paths",
+      "first_attempt_at": 1792168125,
+      "last_attempt_at": 1792168362,
+      "solved_at": 1792168362,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2173988626,"status":"Accepted","lang":"cpp","timestamp":1792168362,"runtime":"0 ms","memory":"9.4 MB"}
+      },
+      "submissions": [
+        {"id":2173985425,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1792168125,"runtime":null,"memory":null},
+        {"id":2173988626,"status":"Accepted","lang":"cpp","timestamp":1792168362,"runtime":"0 ms","memory":"9.4 MB"}
+      ]
+    },
+    "unique-paths-ii": {
+      "id": "63",
+      "title": "Unique Paths II",
+      "slug": "unique-paths-ii",
+      "difficulty": "Medium",
+      "tags": ["Array","Dynamic Programming","Matrix"],
+      "topic": "Array",
+      "dir": "Array/0063-unique-paths-ii",
+      "first_attempt_at": 1792168603,
+      "last_attempt_at": 1792168603,
+      "solved_at": 1792168603,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2173991851,"status":"Accepted","lang":"cpp","timestamp":1792168603,"runtime":"2 ms","memory":"12.1 MB"}
+      },
+      "submissions": [
+        {"id":2173991851,"status":"Accepted","lang":"cpp","timestamp":1792168603,"runtime":"2 ms","memory":"12.1 MB"}
+      ]
+    },
+    "trapping-rain-water": {
+      "id": "42",
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "difficulty": "Hard",
+      "tags": ["Array","Two Pointers","Dynamic Programming","Stack","Monotonic Stack"],
+      "topic": "Array",
+      "dir": "Array/0042-trapping-rain-water",
+      "first_attempt_at": 1792194034,
+      "last_attempt_at": 1792194034,
+      "solved_at": 1792194034,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2174199318,"status":"Accepted","lang":"cpp","timestamp":1792194034,"runtime":"1 ms","memory":"26.2 MB"}
+      },
+      "submissions": [
+        {"id":2174199318,"status":"Accepted","lang":"cpp","timestamp":1792194034,"runtime":"1 ms","memory":"26.2 MB"}
+      ]
+    },
+    "binary-tree-level-order-traversal-ii": {
+      "id": "107",
+      "title": "Binary Tree Level Order Traversal II",
+      "slug": "binary-tree-level-order-traversal-ii",
+      "difficulty": "Medium",
+      "tags": ["Tree","Breadth-First Search","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/0107-binary-tree-level-order-traversal-ii",
+      "first_attempt_at": 1792264391,
+      "last_attempt_at": 1792264391,
+      "solved_at": 1792264391,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2174841035,"status":"Accepted","lang":"cpp","timestamp":1792264391,"runtime":"1 ms","memory":"15.8 MB"}
+      },
+      "submissions": [
+        {"id":2174841035,"status":"Accepted","lang":"cpp","timestamp":1792264391,"runtime":"1 ms","memory":"15.8 MB"}
+      ]
+    },
+    "binary-tree-zigzag-level-order-traversal": {
+      "id": "103",
+      "title": "Binary Tree Zigzag Level Order Traversal",
+      "slug": "binary-tree-zigzag-level-order-traversal",
+      "difficulty": "Medium",
+      "tags": ["Tree","Breadth-First Search","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/0103-binary-tree-zigzag-level-order-traversal",
+      "first_attempt_at": 1792264905,
+      "last_attempt_at": 1792264905,
+      "solved_at": 1792264905,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2174845643,"status":"Accepted","lang":"cpp","timestamp":1792264905,"runtime":"0 ms","memory":"15 MB"}
+      },
+      "submissions": [
+        {"id":2174845643,"status":"Accepted","lang":"cpp","timestamp":1792264905,"runtime":"0 ms","memory":"15 MB"}
+      ]
+    },
+    "lowest-common-ancestor-of-a-binary-tree": {
+      "id": "236",
+      "title": "Lowest Common Ancestor of a Binary Tree",
+      "slug": "lowest-common-ancestor-of-a-binary-tree",
+      "difficulty": "Medium",
+      "tags": ["Tree","Depth-First Search","Binary Tree","Binary Lifting","Lowest Common Ancestor"],
+      "topic": "Tree",
+      "dir": "Tree/0236-lowest-common-ancestor-of-a-binary-tree",
+      "first_attempt_at": 1792267276,
+      "last_attempt_at": 1792267276,
+      "solved_at": 1792267276,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2174866023,"status":"Accepted","lang":"cpp","timestamp":1792267276,"runtime":"60 ms","memory":"44 MB"}
+      },
+      "submissions": [
+        {"id":2174866023,"status":"Accepted","lang":"cpp","timestamp":1792267276,"runtime":"60 ms","memory":"44 MB"}
+      ]
+    },
+    "all-nodes-distance-k-in-binary-tree": {
+      "id": "863",
+      "title": "All Nodes Distance K in Binary Tree",
+      "slug": "all-nodes-distance-k-in-binary-tree",
+      "difficulty": "Medium",
+      "tags": ["Hash Table","Tree","Depth-First Search","Breadth-First Search","Binary Tree"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0863-all-nodes-distance-k-in-binary-tree",
+      "first_attempt_at": 1792272071,
+      "last_attempt_at": 1792272576,
+      "solved_at": 1792272071,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2174900534,"status":"Accepted","lang":"cpp","timestamp":1792272576,"runtime":"6 ms","memory":"15.3 MB"}
+      },
+      "submissions": [
+        {"id":2174897770,"status":"Accepted","lang":"cpp","timestamp":1792272071,"runtime":null,"memory":null},
+        {"id":2174900534,"status":"Accepted","lang":"cpp","timestamp":1792272576,"runtime":"6 ms","memory":"15.3 MB"}
+      ]
+    },
+    "amount-of-time-for-binary-tree-to-be-infected": {
+      "id": "2385",
+      "title": "Amount of Time for Binary Tree to Be Infected",
+      "slug": "amount-of-time-for-binary-tree-to-be-infected",
+      "difficulty": "Medium",
+      "tags": ["Hash Table","Tree","Depth-First Search","Breadth-First Search","Binary Tree"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/2385-amount-of-time-for-binary-tree-to-be-infected",
+      "first_attempt_at": 1792279724,
+      "last_attempt_at": 1792279899,
+      "solved_at": 1792279899,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2174934500,"status":"Accepted","lang":"cpp","timestamp":1792279899,"runtime":"166 ms","memory":"189.1 MB"}
+      },
+      "submissions": [
+        {"id":2174933868,"status":"Wrong Answer","lang":"cpp","timestamp":1792279724,"runtime":null,"memory":null},
+        {"id":2174934500,"status":"Accepted","lang":"cpp","timestamp":1792279899,"runtime":"166 ms","memory":"189.1 MB"}
+      ]
+    },
+    "distribute-coins-in-binary-tree": {
+      "id": "979",
+      "title": "Distribute Coins in Binary Tree",
+      "slug": "distribute-coins-in-binary-tree",
+      "difficulty": "Medium",
+      "tags": ["Tree","Depth-First Search","Binary Tree","DP on Trees"],
+      "topic": "Tree",
+      "dir": "Tree/0979-distribute-coins-in-binary-tree",
+      "first_attempt_at": 1792315016,
+      "last_attempt_at": 1792315016,
+      "solved_at": 1792315016,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2175261939,"status":"Accepted","lang":"cpp","timestamp":1792315016,"runtime":"0 ms","memory":"16.5 MB"}
+      },
+      "submissions": [
+        {"id":2175261939,"status":"Accepted","lang":"cpp","timestamp":1792315016,"runtime":"0 ms","memory":"16.5 MB"}
+      ]
+    },
+    "convert-bst-to-greater-tree": {
+      "id": "538",
+      "title": "Convert BST to Greater Tree",
+      "slug": "convert-bst-to-greater-tree",
+      "difficulty": "Medium",
+      "tags": ["Tree","Depth-First Search","Binary Search Tree","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/0538-convert-bst-to-greater-tree",
+      "first_attempt_at": 1792316564,
+      "last_attempt_at": 1792316798,
+      "solved_at": 1792316564,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2175278550,"status":"Accepted","lang":"cpp","timestamp":1792316798,"runtime":"0 ms","memory":"35 MB"}
+      },
+      "submissions": [
+        {"id":2175276385,"status":"Accepted","lang":"cpp","timestamp":1792316564,"runtime":null,"memory":null},
+        {"id":2175278550,"status":"Accepted","lang":"cpp","timestamp":1792316798,"runtime":"0 ms","memory":"35 MB"}
+      ]
+    },
+    "house-robber-iii": {
+      "id": "337",
+      "title": "House Robber III",
+      "slug": "house-robber-iii",
+      "difficulty": "Medium",
+      "tags": ["Dynamic Programming","Tree","Depth-First Search","Binary Tree","DP on Trees"],
+      "topic": "Dynamic Programming",
+      "dir": "Dynamic-Programming/0337-house-robber-iii",
+      "first_attempt_at": 1792320315,
+      "last_attempt_at": 1792320697,
+      "solved_at": 1792320697,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2175316057,"status":"Accepted","lang":"cpp","timestamp":1792320697,"runtime":"5 ms","memory":"25.4 MB"}
+      },
+      "submissions": [
+        {"id":2175312271,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1792320315,"runtime":null,"memory":null},
+        {"id":2175316057,"status":"Accepted","lang":"cpp","timestamp":1792320697,"runtime":"5 ms","memory":"25.4 MB"}
+      ]
+    },
+    "coin-change": {
+      "id": "322",
+      "title": "Coin Change",
+      "slug": "coin-change",
+      "difficulty": "Medium",
+      "tags": ["Array","Dynamic Programming","Breadth-First Search","Knapsack Problem","Complete Knapsack"],
+      "topic": "Array",
+      "dir": "Array/0322-coin-change",
+      "first_attempt_at": 1792391872,
+      "last_attempt_at": 1792391872,
+      "solved_at": 1792391872,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2175973818,"status":"Accepted","lang":"cpp","timestamp":1792391872,"runtime":"54 ms","memory":"48.8 MB"}
+      },
+      "submissions": [
+        {"id":2175973818,"status":"Accepted","lang":"cpp","timestamp":1792391872,"runtime":"54 ms","memory":"48.8 MB"}
+      ]
     }
   }
 }

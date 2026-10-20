@@ -4,22 +4,22 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 165 | 164 | 1 | 83 | 74 | 7 | 2026-10-19 |
+| 180 | 179 | 1 | 84 | 87 | 8 | 2026-10-19 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 74 | 74 | 0 | 30 | 42 | 2 |
+| [Array](Array/README.md) | 80 | 80 | 0 | 31 | 46 | 3 |
 | [Linked List](Linked-List/README.md) | 18 | 18 | 0 | 7 | 9 | 2 |
-| [Math](Math/README.md) | 17 | 16 | 1 | 12 | 4 | 1 |
-| [Hash Table](Hash-Table/README.md) | 14 | 14 | 0 | 8 | 5 | 1 |
-| [Tree](Tree/README.md) | 13 | 13 | 0 | 5 | 8 | 0 |
+| [Math](Math/README.md) | 18 | 17 | 1 | 12 | 5 | 1 |
+| [Tree](Tree/README.md) | 18 | 18 | 0 | 5 | 13 | 0 |
+| [Hash Table](Hash-Table/README.md) | 16 | 16 | 0 | 8 | 7 | 1 |
 | [String](String/README.md) | 7 | 7 | 0 | 4 | 2 | 1 |
 | [Two Pointers](Two-Pointers/README.md) | 7 | 7 | 0 | 6 | 1 | 0 |
+| [Dynamic Programming](Dynamic-Programming/README.md) | 4 | 4 | 0 | 2 | 1 | 1 |
 | [Stack](Stack/README.md) | 4 | 4 | 0 | 3 | 1 | 0 |
 | [Database](Database/README.md) | 3 | 3 | 0 | 3 | 0 | 0 |
-| [Dynamic Programming](Dynamic-Programming/README.md) | 3 | 3 | 0 | 2 | 0 | 1 |
 | [Depth-First Search](Depth-First-Search/README.md) | 2 | 2 | 0 | 1 | 1 | 0 |
 | [Backtracking](Backtracking/README.md) | 1 | 1 | 0 | 0 | 1 | 0 |
 | [Bit Manipulation](Bit-Manipulation/README.md) | 1 | 1 | 0 | 1 | 0 | 0 |
@@ -37,25 +37,25 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | --- | --- | --- | --- |
 | 2026-10-19 | [23. Merge k Sorted Lists](Linked-List/0023-merge-k-sorted-lists/README.md) | Accepted | cpp |
 | 2026-10-19 | [23. Merge k Sorted Lists](Linked-List/0023-merge-k-sorted-lists/README.md) | Compile Error | cpp |
+| 2026-10-19 | [322. Coin Change](Array/0322-coin-change/README.md) | Accepted | cpp |
+| 2026-10-18 | [337. House Robber III](Dynamic-Programming/0337-house-robber-iii/README.md) | Accepted | cpp |
+| 2026-10-18 | [337. House Robber III](Dynamic-Programming/0337-house-robber-iii/README.md) | Time Limit Exceeded | cpp |
 | 2026-10-18 | [543. Diameter of Binary Tree](Tree/0543-diameter-of-binary-tree/README.md) | Accepted | cpp |
-| 2026-10-17 | [102. Binary Tree Level Order Traversal](Tree/0102-binary-tree-level-order-traversal/README.md) | Accepted | cpp |
-| 2026-10-15 | [70. Climbing Stairs](Math/0070-climbing-stairs/README.md) | Accepted | cpp |
-| 2026-10-15 | [70. Climbing Stairs](Math/0070-climbing-stairs/README.md) | Time Limit Exceeded | cpp |
-| 2026-10-15 | [70. Climbing Stairs](Math/0070-climbing-stairs/README.md) | Accepted | cpp |
-| 2026-10-15 | [70. Climbing Stairs](Math/0070-climbing-stairs/README.md) | Wrong Answer | cpp |
-| 2026-10-15 | [20. Valid Parentheses](String/0020-valid-parentheses/README.md) | Accepted | cpp |
-| 2026-10-15 | [155. Min Stack](Stack/0155-min-stack/README.md) | Accepted | cpp |
-| 2026-10-15 | [735. Asteroid Collision](Array/0735-asteroid-collision/README.md) | Accepted | cpp |
-| 2026-10-15 | [735. Asteroid Collision](Array/0735-asteroid-collision/README.md) | Wrong Answer | cpp |
-| 2026-10-15 | [76. Minimum Window Substring](Hash-Table/0076-minimum-window-substring/README.md) | Accepted | cpp |
-| 2026-10-15 | [424. Longest Repeating Character Replacement](Hash-Table/0424-longest-repeating-character-replacement/README.md) | Accepted | cpp |
-| 2026-10-15 | [424. Longest Repeating Character Replacement](Hash-Table/0424-longest-repeating-character-replacement/README.md) | Accepted | cpp |
+| 2026-10-18 | [538. Convert BST to Greater Tree](Tree/0538-convert-bst-to-greater-tree/README.md) | Accepted | cpp |
+| 2026-10-18 | [538. Convert BST to Greater Tree](Tree/0538-convert-bst-to-greater-tree/README.md) | Accepted | cpp |
+| 2026-10-18 | [979. Distribute Coins in Binary Tree](Tree/0979-distribute-coins-in-binary-tree/README.md) | Accepted | cpp |
+| 2026-10-18 | [2385. Amount of Time for Binary Tree to Be Infected](Hash-Table/2385-amount-of-time-for-binary-tree-to-be-infected/README.md) | Accepted | cpp |
+| 2026-10-18 | [2385. Amount of Time for Binary Tree to Be Infected](Hash-Table/2385-amount-of-time-for-binary-tree-to-be-infected/README.md) | Wrong Answer | cpp |
+| 2026-10-18 | [863. All Nodes Distance K in Binary Tree](Hash-Table/0863-all-nodes-distance-k-in-binary-tree/README.md) | Accepted | cpp |
+| 2026-10-18 | [863. All Nodes Distance K in Binary Tree](Hash-Table/0863-all-nodes-distance-k-in-binary-tree/README.md) | Accepted | cpp |
+| 2026-10-18 | [236. Lowest Common Ancestor of a Binary Tree](Tree/0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Accepted | cpp |
+| 2026-10-18 | [103. Binary Tree Zigzag Level Order Traversal](Tree/0103-binary-tree-zigzag-level-order-traversal/README.md) | Accepted | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 5 | 28 |
+| 2026-10 | 20 | 53 |
 | 2026-08 | 0 | 14 |
 | 2026-07 | 8 | 39 |
 | 2026-06 | 32 | 108 |
@@ -94,6 +94,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 33 | [Search in Rotated Sorted Array](Array/0033-search-in-rotated-sorted-array/README.md) | [Array](Array/README.md) | Medium | Solved | 3 | 2026-02-09 | 2026-02-09 |
 | 34 | [Find First and Last Position of Element in Sorted Array](Array/0034-find-first-and-last-position-of-element-in-sorted-array/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-02-07 | 2026-02-07 |
 | 35 | [Search Insert Position](Array/0035-search-insert-position/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2024-12-24 | 2024-12-24 |
+| 42 | [Trapping Rain Water](Array/0042-trapping-rain-water/README.md) | [Array](Array/README.md) | Hard | Solved | 1 | 2026-10-17 | 2026-10-17 |
 | 48 | [Rotate Image](Array/0048-rotate-image/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-01-29 | 2026-01-29 |
 | 50 | [Pow(x, n)](Math/0050-powx-n/README.md) | [Math](Math/README.md) | Medium | Solved | 7 | 2024-12-26 | 2024-12-26 |
 | 53 | [Maximum Subarray](Array/0053-maximum-subarray/README.md) | [Array](Array/README.md) | Medium | Solved | 8 | 2026-01-27 | 2026-01-27 |
@@ -101,6 +102,8 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 56 | [Merge Intervals](Array/0056-merge-intervals/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-02-03 | 2026-02-03 |
 | 58 | [Length of Last Word](String/0058-length-of-last-word/README.md) | [String](String/README.md) | Easy | Solved | 1 | 2025-12-22 | 2025-12-22 |
 | 61 | [Rotate List](Linked-List/0061-rotate-list/README.md) | [Linked List](Linked-List/README.md) | Medium | Solved | 3 | 2026-02-28 | 2026-02-28 |
+| 62 | [Unique Paths](Math/0062-unique-paths/README.md) | [Math](Math/README.md) | Medium | Solved | 2 | 2026-10-16 | 2026-10-16 |
+| 63 | [Unique Paths II](Array/0063-unique-paths-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-10-16 | 2026-10-16 |
 | 66 | [Plus One](Array/0066-plus-one/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2024-10-29 | 2024-10-29 |
 | 67 | [Add Binary](Math/0067-add-binary/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2025-12-23 | 2025-12-23 |
 | 69 | [Sqrt(x)](Math/0069-sqrtx/README.md) | [Math](Math/README.md) | Easy | Solved | 4 | 2024-10-29 | 2024-10-29 |
@@ -116,9 +119,11 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 94 | [Binary Tree Inorder Traversal](Stack/0094-binary-tree-inorder-traversal/README.md) | [Stack](Stack/README.md) | Easy | Solved | 3 | 2026-03-05 | 2026-03-05 |
 | 98 | [Validate Binary Search Tree](Tree/0098-validate-binary-search-tree/README.md) | [Tree](Tree/README.md) | Medium | Solved | 6 | 2026-06-16 | 2026-06-16 |
 | 102 | [Binary Tree Level Order Traversal](Tree/0102-binary-tree-level-order-traversal/README.md) | [Tree](Tree/README.md) | Medium | Solved | 3 | 2026-03-05 | 2026-03-05 |
+| 103 | [Binary Tree Zigzag Level Order Traversal](Tree/0103-binary-tree-zigzag-level-order-traversal/README.md) | [Tree](Tree/README.md) | Medium | Solved | 1 | 2026-10-18 | 2026-10-18 |
 | 104 | [Maximum Depth of Binary Tree](Tree/0104-maximum-depth-of-binary-tree/README.md) | [Tree](Tree/README.md) | Easy | Solved | 3 | 2026-03-07 | 2026-03-07 |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](Array/0105-construct-binary-tree-from-preorder-and-inorder-traversal/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-06-16 | 2026-06-16 |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](Array/0106-construct-binary-tree-from-inorder-and-postorder-traversal/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-06-16 | 2026-06-16 |
+| 107 | [Binary Tree Level Order Traversal II](Tree/0107-binary-tree-level-order-traversal-ii/README.md) | [Tree](Tree/README.md) | Medium | Solved | 1 | 2026-10-18 | 2026-10-18 |
 | 110 | [Balanced Binary Tree](Tree/0110-balanced-binary-tree/README.md) | [Tree](Tree/README.md) | Easy | Solved | 8 | 2026-03-07 | 2026-03-07 |
 | 112 | [Path Sum](Tree/0112-path-sum/README.md) | [Tree](Tree/README.md) | Easy | Solved | 6 | 2025-12-29 | 2025-12-29 |
 | 113 | [Path Sum II](Backtracking/0113-path-sum-ii/README.md) | [Backtracking](Backtracking/README.md) | Medium | Solved | 3 | 2026-06-12 | 2026-06-12 |
@@ -145,6 +150,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 169 | [Majority Element](Array/0169-majority-element/README.md) | [Array](Array/README.md) | Easy | Solved | 3 | 2024-12-11 | 2024-12-11 |
 | 171 | [Excel Sheet Column Number](Math/0171-excel-sheet-column-number/README.md) | [Math](Math/README.md) | Easy | Solved | 2 | 2026-02-10 | 2026-02-10 |
 | 189 | [Rotate Array](Array/0189-rotate-array/README.md) | [Array](Array/README.md) | Medium | Solved | 5 | 2024-06-14 | 2024-06-14 |
+| 198 | [House Robber](Array/0198-house-robber/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-10-16 | 2026-10-16 |
 | 199 | [Binary Tree Right Side View](Tree/0199-binary-tree-right-side-view/README.md) | [Tree](Tree/README.md) | Medium | Solved | 1 | 2026-06-11 | 2026-06-11 |
 | 200 | [Number of Islands](Array/0200-number-of-islands/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-06-30 | 2026-06-30 |
 | 202 | [Happy Number](Hash-Table/0202-happy-number/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 1 | 2024-12-16 | 2024-12-16 |
@@ -152,6 +158,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 205 | [Isomorphic Strings](Hash-Table/0205-isomorphic-strings/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 2 | 2026-02-16 | 2026-02-16 |
 | 206 | [Reverse Linked List](Linked-List/0206-reverse-linked-list/README.md) | [Linked List](Linked-List/README.md) | Easy | Solved | 2 | 2026-02-23 | 2026-02-23 |
 | 207 | [Course Schedule](Depth-First-Search/0207-course-schedule/README.md) | [Depth-First Search](Depth-First-Search/README.md) | Medium | Solved | 5 | 2026-07-05 | 2026-07-05 |
+| 213 | [House Robber II](Array/0213-house-robber-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 5 | 2026-10-16 | 2026-10-16 |
 | 217 | [Contains Duplicate](Array/0217-contains-duplicate/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2024-12-22 | 2024-12-22 |
 | 219 | [Contains Duplicate II](Array/0219-contains-duplicate-ii/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-02-07 | 2026-02-07 |
 | 226 | [Invert Binary Tree](Tree/0226-invert-binary-tree/README.md) | [Tree](Tree/README.md) | Easy | Solved | 1 | 2026-06-11 | 2026-06-11 |
@@ -161,6 +168,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 231 | [Power of Two](Math/0231-power-of-two/README.md) | [Math](Math/README.md) | Easy | Solved | 3 | 2024-12-12 | 2024-12-12 |
 | 234 | [Palindrome Linked List](Linked-List/0234-palindrome-linked-list/README.md) | [Linked List](Linked-List/README.md) | Easy | Solved | 1 | 2026-02-24 | 2026-02-24 |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](Tree/0235-lowest-common-ancestor-of-a-binary-search-tree/README.md) | [Tree](Tree/README.md) | Medium | Solved | 2 | 2026-06-17 | 2026-06-17 |
+| 236 | [Lowest Common Ancestor of a Binary Tree](Tree/0236-lowest-common-ancestor-of-a-binary-tree/README.md) | [Tree](Tree/README.md) | Medium | Solved | 1 | 2026-10-18 | 2026-10-18 |
 | 237 | [Delete Node in a Linked List](Linked-List/0237-delete-node-in-a-linked-list/README.md) | [Linked List](Linked-List/README.md) | Medium | Solved | 1 | 2026-02-19 | 2026-02-19 |
 | 238 | [Product of Array Except Self](Array/0238-product-of-array-except-self/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-01-08 | 2026-01-08 |
 | 240 | [Search a 2D Matrix II](Array/0240-search-a-2d-matrix-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-02-09 | 2026-02-09 |
@@ -170,7 +178,9 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 283 | [Move Zeroes](Array/0283-move-zeroes/README.md) | [Array](Array/README.md) | Easy | Solved | 4 | 2024-06-15 | 2024-06-15 |
 | 287 | [Find the Duplicate Number](Array/0287-find-the-duplicate-number/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-06-05 | 2026-06-05 |
 | 297 | [Serialize and Deserialize Binary Tree](String/0297-serialize-and-deserialize-binary-tree/README.md) | [String](String/README.md) | Hard | Solved | 3 | 2026-06-15 | 2026-06-15 |
+| 322 | [Coin Change](Array/0322-coin-change/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-10-19 | 2026-10-19 |
 | 328 | [Odd Even Linked List](Linked-List/0328-odd-even-linked-list/README.md) | [Linked List](Linked-List/README.md) | Medium | Solved | 3 | 2026-02-24 | 2026-02-24 |
+| 337 | [House Robber III](Dynamic-Programming/0337-house-robber-iii/README.md) | [Dynamic Programming](Dynamic-Programming/README.md) | Medium | Solved | 2 | 2026-10-18 | 2026-10-18 |
 | 338 | [Counting Bits](Dynamic-Programming/0338-counting-bits/README.md) | [Dynamic Programming](Dynamic-Programming/README.md) | Easy | Solved | 4 | 2025-01-14 | 2025-01-14 |
 | 344 | [Reverse String](Two-Pointers/0344-reverse-string/README.md) | [Two Pointers](Two-Pointers/README.md) | Easy | Solved | 3 | 2025-12-08 | 2025-12-08 |
 | 345 | [Reverse Vowels of a String](Two-Pointers/0345-reverse-vowels-of-a-string/README.md) | [Two Pointers](Two-Pointers/README.md) | Easy | Solved | 3 | 2026-02-18 | 2026-02-18 |
@@ -186,6 +196,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 503 | [Next Greater Element II](Array/0503-next-greater-element-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-06-04 | 2026-06-04 |
 | 509 | [Fibonacci Number](Math/0509-fibonacci-number/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2024-06-05 | 2024-06-05 |
 | 515 | [Find Largest Value in Each Tree Row](Tree/0515-find-largest-value-in-each-tree-row/README.md) | [Tree](Tree/README.md) | Medium | Solved | 1 | 2026-06-12 | 2026-06-12 |
+| 538 | [Convert BST to Greater Tree](Tree/0538-convert-bst-to-greater-tree/README.md) | [Tree](Tree/README.md) | Medium | Solved | 2 | 2026-10-18 | 2026-10-18 |
 | 542 | [01 Matrix](Array/0542-01-matrix/README.md) | [Array](Array/README.md) | Medium | Solved | 5 | 2026-07-08 | 2026-07-08 |
 | 543 | [Diameter of Binary Tree](Tree/0543-diameter-of-binary-tree/README.md) | [Tree](Tree/README.md) | Easy | Solved | 4 | 2026-06-11 | 2026-06-11 |
 | 557 | [Reverse Words in a String III](Two-Pointers/0557-reverse-words-in-a-string-iii/README.md) | [Two Pointers](Two-Pointers/README.md) | Easy | Solved | 1 | 2026-02-05 | 2026-02-05 |
@@ -197,9 +208,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 704 | [Binary Search](Array/0704-binary-search/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2024-12-21 | 2024-12-21 |
 | 735 | [Asteroid Collision](Array/0735-asteroid-collision/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-10-15 | 2026-10-15 |
 | 739 | [Daily Temperatures](Array/0739-daily-temperatures/README.md) | [Array](Array/README.md) | Medium | Solved | 4 | 2026-06-04 | 2026-06-04 |
+| 746 | [Min Cost Climbing Stairs](Array/0746-min-cost-climbing-stairs/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-10-15 | 2026-10-15 |
 | 769 | [Max Chunks To Make Sorted](Array/0769-max-chunks-to-make-sorted/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2024-12-20 | 2024-12-20 |
+| 863 | [All Nodes Distance K in Binary Tree](Hash-Table/0863-all-nodes-distance-k-in-binary-tree/README.md) | [Hash Table](Hash-Table/README.md) | Medium | Solved | 2 | 2026-10-18 | 2026-10-18 |
 | 876 | [Middle of the Linked List](Linked-List/0876-middle-of-the-linked-list/README.md) | [Linked List](Linked-List/README.md) | Easy | Solved | 1 | 2026-02-20 | 2026-02-20 |
 | 974 | [Subarray Sums Divisible by K](Array/0974-subarray-sums-divisible-by-k/README.md) | [Array](Array/README.md) | Medium | Solved | 3 | 2026-06-04 | 2026-06-04 |
+| 979 | [Distribute Coins in Binary Tree](Tree/0979-distribute-coins-in-binary-tree/README.md) | [Tree](Tree/README.md) | Medium | Solved | 1 | 2026-10-18 | 2026-10-18 |
 | 994 | [Rotting Oranges](Array/0994-rotting-oranges/README.md) | [Array](Array/README.md) | Medium | Solved | 11 | 2026-07-05 | 2026-07-05 |
 | 1004 | [Max Consecutive Ones III](Array/1004-max-consecutive-ones-iii/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-10-14 | 2026-10-14 |
 | 1021 | [Remove Outermost Parentheses](String/1021-remove-outermost-parentheses/README.md) | [String](String/README.md) | Easy | Solved | 1 | 2026-02-03 | 2026-02-03 |
@@ -215,6 +229,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2095 | [Delete the Middle Node of a Linked List](Linked-List/2095-delete-the-middle-node-of-a-linked-list/README.md) | [Linked List](Linked-List/README.md) | Medium | Solved | 2 | 2026-02-25 | 2026-02-25 |
 | 2149 | [Rearrange Array Elements by Sign](Array/2149-rearrange-array-elements-by-sign/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-01-28 | 2026-01-28 |
 | 2182 | [Construct String With Repeat Limit](Hash-Table/2182-construct-string-with-repeat-limit/README.md) | [Hash Table](Hash-Table/README.md) | Medium | Solved | 2 | 2024-12-17 | 2024-12-17 |
+| 2385 | [Amount of Time for Binary Tree to Be Infected](Hash-Table/2385-amount-of-time-for-binary-tree-to-be-infected/README.md) | [Hash Table](Hash-Table/README.md) | Medium | Solved | 2 | 2026-10-18 | 2026-10-18 |
 | 2415 | [Reverse Odd Levels of Binary Tree](Tree/2415-reverse-odd-levels-of-binary-tree/README.md) | [Tree](Tree/README.md) | Medium | Solved | 1 | 2024-12-20 | 2024-12-20 |
 | 2769 | [Find the Maximum Achievable Number](Math/2769-find-the-maximum-achievable-number/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2024-12-11 | 2024-12-11 |
 | 2785 | [Sort Vowels in a String](String/2785-sort-vowels-in-a-string/README.md) | [String](String/README.md) | Medium | Solved | 1 | 2026-02-19 | 2026-02-19 |

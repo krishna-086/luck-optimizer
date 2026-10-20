@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 14 | 14 | 0 | 8 | 5 | 1 |
+| 16 | 16 | 0 | 8 | 7 | 1 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -21,7 +21,9 @@
 | 383 | [Ransom Note](../Hash-Table/0383-ransom-note/README.md) | Easy | Solved | 1 | cpp | 2026-02-16 |
 | 389 | [Find the Difference](../Hash-Table/0389-find-the-difference/README.md) | Easy | Solved | 2 | cpp | 2026-02-10 |
 | 424 | [Longest Repeating Character Replacement](../Hash-Table/0424-longest-repeating-character-replacement/README.md) | Medium | Solved | 4 | cpp | 2026-10-15 |
+| 863 | [All Nodes Distance K in Binary Tree](../Hash-Table/0863-all-nodes-distance-k-in-binary-tree/README.md) | Medium | Solved | 2 | cpp | 2026-10-18 |
 | 2182 | [Construct String With Repeat Limit](../Hash-Table/2182-construct-string-with-repeat-limit/README.md) | Medium | Solved | 2 | cpp | 2024-12-17 |
+| 2385 | [Amount of Time for Binary Tree to Be Infected](../Hash-Table/2385-amount-of-time-for-binary-tree-to-be-infected/README.md) | Medium | Solved | 2 | cpp | 2026-10-18 |
 
 ## Also tagged Hash Table
 

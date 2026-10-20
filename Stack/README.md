@@ -20,6 +20,7 @@ Filed under their main topic, but they use this one too.
 | # | Problem | Filed under | Difficulty | Status |
 | --- | --- | --- | --- | --- |
 | 20 | [Valid Parentheses](../String/0020-valid-parentheses/README.md) | String | Easy | Solved |
+| 42 | [Trapping Rain Water](../Array/0042-trapping-rain-water/README.md) | Array | Hard | Solved |
 | 84 | [Largest Rectangle in Histogram](../Array/0084-largest-rectangle-in-histogram/README.md) | Array | Hard | Solved |
 | 234 | [Palindrome Linked List](../Linked-List/0234-palindrome-linked-list/README.md) | Linked List | Easy | Solved |
 | 496 | [Next Greater Element I](../Array/0496-next-greater-element-i/README.md) | Array | Easy | Solved |

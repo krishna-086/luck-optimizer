@@ -4,13 +4,14 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 17 | 16 | 1 | 12 | 4 | 1 |
+| 18 | 17 | 1 | 12 | 5 | 1 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
 | 7 | [Reverse Integer](../Math/0007-reverse-integer/README.md) | Medium | Solved | 11 | cpp | 2024-05-31 |
 | 9 | [Palindrome Number](../Math/0009-palindrome-number/README.md) | Easy | Solved | 4 | cpp | 2024-05-31 |
 | 50 | [Pow(x, n)](../Math/0050-powx-n/README.md) | Medium | Solved | 7 | cpp | 2024-12-26 |
+| 62 | [Unique Paths](../Math/0062-unique-paths/README.md) | Medium | Solved | 2 | cpp | 2026-10-16 |
 | 67 | [Add Binary](../Math/0067-add-binary/README.md) | Easy | Solved | 1 | cpp | 2025-12-23 |
 | 69 | [Sqrt(x)](../Math/0069-sqrtx/README.md) | Easy | Solved | 4 | cpp | 2024-10-29 |
 | 70 | [Climbing Stairs](../Math/0070-climbing-stairs/README.md) | Easy | Solved | 10 | cpp | 2026-02-02 |

@@ -28,6 +28,7 @@ Filed under their main topic, but they use this one too.
 | 26 | [Remove Duplicates from Sorted Array](../Array/0026-remove-duplicates-from-sorted-array/README.md) | Array | Easy | Solved |
 | 27 | [Remove Element](../Array/0027-remove-element/README.md) | Array | Easy | Solved |
 | 31 | [Next Permutation](../Array/0031-next-permutation/README.md) | Array | Medium | Solved |
+| 42 | [Trapping Rain Water](../Array/0042-trapping-rain-water/README.md) | Array | Hard | Solved |
 | 61 | [Rotate List](../Linked-List/0061-rotate-list/README.md) | Linked List | Medium | Solved |
 | 75 | [Sort Colors](../Array/0075-sort-colors/README.md) | Array | Medium | Solved |
 | 88 | [Merge Sorted Array](../Array/0088-merge-sorted-array/README.md) | Array | Easy | Solved |

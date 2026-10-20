@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 74 | 74 | 0 | 30 | 42 | 2 |
+| 80 | 80 | 0 | 31 | 46 | 3 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -18,10 +18,12 @@
 | 33 | [Search in Rotated Sorted Array](../Array/0033-search-in-rotated-sorted-array/README.md) | Medium | Solved | 3 | cpp | 2026-02-09 |
 | 34 | [Find First and Last Position of Element in Sorted Array](../Array/0034-find-first-and-last-position-of-element-in-sorted-array/README.md) | Medium | Solved | 1 | cpp | 2026-02-07 |
 | 35 | [Search Insert Position](../Array/0035-search-insert-position/README.md) | Easy | Solved | 1 | cpp | 2024-12-24 |
+| 42 | [Trapping Rain Water](../Array/0042-trapping-rain-water/README.md) | Hard | Solved | 1 | cpp | 2026-10-17 |
 | 48 | [Rotate Image](../Array/0048-rotate-image/README.md) | Medium | Solved | 2 | cpp | 2026-01-29 |
 | 53 | [Maximum Subarray](../Array/0053-maximum-subarray/README.md) | Medium | Solved | 8 | cpp | 2026-01-27 |
 | 54 | [Spiral Matrix](../Array/0054-spiral-matrix/README.md) | Medium | Solved | 2 | cpp | 2026-01-30 |
 | 56 | [Merge Intervals](../Array/0056-merge-intervals/README.md) | Medium | Solved | 1 | cpp | 2026-02-03 |
+| 63 | [Unique Paths II](../Array/0063-unique-paths-ii/README.md) | Medium | Solved | 1 | cpp | 2026-10-16 |
 | 66 | [Plus One](../Array/0066-plus-one/README.md) | Easy | Solved | 2 | cpp | 2024-10-29 |
 | 73 | [Set Matrix Zeroes](../Array/0073-set-matrix-zeroes/README.md) | Medium | Solved | 4 | cpp | 2026-01-29 |
 | 75 | [Sort Colors](../Array/0075-sort-colors/README.md) | Medium | Solved | 6 | cpp | 2024-12-10 |
@@ -39,7 +41,9 @@
 | 153 | [Find Minimum in Rotated Sorted Array](../Array/0153-find-minimum-in-rotated-sorted-array/README.md) | Medium | Solved | 4 | cpp | 2026-02-12 |
 | 169 | [Majority Element](../Array/0169-majority-element/README.md) | Easy | Solved | 3 | cpp | 2024-12-11 |
 | 189 | [Rotate Array](../Array/0189-rotate-array/README.md) | Medium | Solved | 5 | cpp | 2024-06-14 |
+| 198 | [House Robber](../Array/0198-house-robber/README.md) | Medium | Solved | 2 | cpp | 2026-10-16 |
 | 200 | [Number of Islands](../Array/0200-number-of-islands/README.md) | Medium | Solved | 1 | cpp | 2026-06-30 |
+| 213 | [House Robber II](../Array/0213-house-robber-ii/README.md) | Medium | Solved | 5 | cpp | 2026-10-16 |
 | 217 | [Contains Duplicate](../Array/0217-contains-duplicate/README.md) | Easy | Solved | 1 | cpp | 2024-12-22 |
 | 219 | [Contains Duplicate II](../Array/0219-contains-duplicate-ii/README.md) | Easy | Solved | 1 | cpp | 2026-02-07 |
 | 228 | [Summary Ranges](../Array/0228-summary-ranges/README.md) | Easy | Solved | 2 | cpp | 2026-02-07 |
@@ -49,6 +53,7 @@
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Easy | Solved | 2 | cpp | 2024-12-08 |
 | 283 | [Move Zeroes](../Array/0283-move-zeroes/README.md) | Easy | Solved | 4 | cpp | 2024-06-15 |
 | 287 | [Find the Duplicate Number](../Array/0287-find-the-duplicate-number/README.md) | Medium | Solved | 1 | cpp | 2026-06-05 |
+| 322 | [Coin Change](../Array/0322-coin-change/README.md) | Medium | Solved | 1 | cpp | 2026-10-19 |
 | 455 | [Assign Cookies](../Array/0455-assign-cookies/README.md) | Easy | Solved | 2 | cpp | 2026-02-13 |
 | 463 | [Island Perimeter](../Array/0463-island-perimeter/README.md) | Easy | Solved | 7 | cpp | 2026-07-04 |
 | 485 | [Max Consecutive Ones](../Array/0485-max-consecutive-ones/README.md) | Easy | Solved | 2 | cpp | 2024-10-29 |
@@ -63,6 +68,7 @@
 | 704 | [Binary Search](../Array/0704-binary-search/README.md) | Easy | Solved | 1 | cpp | 2024-12-21 |
 | 735 | [Asteroid Collision](../Array/0735-asteroid-collision/README.md) | Medium | Solved | 2 | cpp | 2026-10-15 |
 | 739 | [Daily Temperatures](../Array/0739-daily-temperatures/README.md) | Medium | Solved | 4 | cpp | 2026-06-04 |
+| 746 | [Min Cost Climbing Stairs](../Array/0746-min-cost-climbing-stairs/README.md) | Easy | Solved | 1 | cpp | 2026-10-15 |
 | 769 | [Max Chunks To Make Sorted](../Array/0769-max-chunks-to-make-sorted/README.md) | Medium | Solved | 1 | cpp | 2024-12-20 |
 | 974 | [Subarray Sums Divisible by K](../Array/0974-subarray-sums-divisible-by-k/README.md) | Medium | Solved | 3 | cpp | 2026-06-04 |
 | 994 | [Rotting Oranges](../Array/0994-rotting-oranges/README.md) | Medium | Solved | 11 | cpp | 2026-07-05 |

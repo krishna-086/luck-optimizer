@@ -32,11 +32,17 @@ Filed under their main topic, but they use this one too.
 | 226 | [Invert Binary Tree](../Tree/0226-invert-binary-tree/README.md) | Tree | Easy | Solved |
 | 230 | [Kth Smallest Element in a BST](../Tree/0230-kth-smallest-element-in-a-bst/README.md) | Tree | Medium | Solved |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](../Tree/0235-lowest-common-ancestor-of-a-binary-search-tree/README.md) | Tree | Medium | Solved |
+| 236 | [Lowest Common Ancestor of a Binary Tree](../Tree/0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Tree | Medium | Solved |
 | 297 | [Serialize and Deserialize Binary Tree](../String/0297-serialize-and-deserialize-binary-tree/README.md) | String | Hard | Solved |
+| 337 | [House Robber III](../Dynamic-Programming/0337-house-robber-iii/README.md) | Dynamic Programming | Medium | Solved |
 | 437 | [Path Sum III](../Tree/0437-path-sum-iii/README.md) | Tree | Medium | Solved |
 | 463 | [Island Perimeter](../Array/0463-island-perimeter/README.md) | Array | Easy | Solved |
 | 515 | [Find Largest Value in Each Tree Row](../Tree/0515-find-largest-value-in-each-tree-row/README.md) | Tree | Medium | Solved |
+| 538 | [Convert BST to Greater Tree](../Tree/0538-convert-bst-to-greater-tree/README.md) | Tree | Medium | Solved |
 | 543 | [Diameter of Binary Tree](../Tree/0543-diameter-of-binary-tree/README.md) | Tree | Easy | Solved |
 | 695 | [Max Area of Island](../Array/0695-max-area-of-island/README.md) | Array | Medium | Solved |
+| 863 | [All Nodes Distance K in Binary Tree](../Hash-Table/0863-all-nodes-distance-k-in-binary-tree/README.md) | Hash Table | Medium | Solved |
+| 979 | [Distribute Coins in Binary Tree](../Tree/0979-distribute-coins-in-binary-tree/README.md) | Tree | Medium | Solved |
+| 2385 | [Amount of Time for Binary Tree to Be Infected](../Hash-Table/2385-amount-of-time-for-binary-tree-to-be-infected/README.md) | Hash Table | Medium | Solved |
 | 2415 | [Reverse Odd Levels of Binary Tree](../Tree/2415-reverse-odd-levels-of-binary-tree/README.md) | Tree | Medium | Solved |
 | 3965 | [Finish Time of Tasks I](../Array/3965-finish-time-of-tasks-i/README.md) | Array | Medium | Solved |
