@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 54 | 54 | 0 | 28 | 25 | 1 |
+| 61 | 61 | 0 | 29 | 30 | 2 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -26,6 +26,7 @@
 | 73 | [Set Matrix Zeroes](../Array/0073-set-matrix-zeroes/README.md) | Medium | Solved | 4 | cpp | 2026-01-29 |
 | 75 | [Sort Colors](../Array/0075-sort-colors/README.md) | Medium | Solved | 6 | cpp | 2024-12-10 |
 | 81 | [Search in Rotated Sorted Array II](../Array/0081-search-in-rotated-sorted-array-ii/README.md) | Medium | Solved | 2 | cpp | 2026-02-12 |
+| 84 | [Largest Rectangle in Histogram](../Array/0084-largest-rectangle-in-histogram/README.md) | Hard | Solved | 6 | cpp | 2026-06-05 |
 | 88 | [Merge Sorted Array](../Array/0088-merge-sorted-array/README.md) | Easy | Solved | 4 | cpp | 2025-12-28 |
 | 118 | [Pascal's Triangle](../Array/0118-pascals-triangle/README.md) | Easy | Solved | 4 | cpp | 2025-12-30 |
 | 119 | [Pascal's Triangle II](../Array/0119-pascals-triangle-ii/README.md) | Easy | Solved | 2 | cpp | 2026-02-06 |
@@ -44,14 +45,19 @@
 | 240 | [Search a 2D Matrix II](../Array/0240-search-a-2d-matrix-ii/README.md) | Medium | Solved | 2 | cpp | 2026-02-09 |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Easy | Solved | 2 | cpp | 2024-12-08 |
 | 283 | [Move Zeroes](../Array/0283-move-zeroes/README.md) | Easy | Solved | 4 | cpp | 2024-06-15 |
+| 287 | [Find the Duplicate Number](../Array/0287-find-the-duplicate-number/README.md) | Medium | Solved | 1 | cpp | 2026-06-05 |
 | 455 | [Assign Cookies](../Array/0455-assign-cookies/README.md) | Easy | Solved | 2 | cpp | 2026-02-13 |
 | 485 | [Max Consecutive Ones](../Array/0485-max-consecutive-ones/README.md) | Easy | Solved | 2 | cpp | 2024-10-29 |
 | 493 | [Reverse Pairs](../Array/0493-reverse-pairs/README.md) | Hard | Solved | 3 | cpp | 2026-02-05 |
+| 496 | [Next Greater Element I](../Array/0496-next-greater-element-i/README.md) | Easy | Solved | 4 | cpp | 2026-06-04 |
+| 503 | [Next Greater Element II](../Array/0503-next-greater-element-ii/README.md) | Medium | Solved | 1 | cpp | 2026-06-04 |
 | 560 | [Subarray Sum Equals K](../Array/0560-subarray-sum-equals-k/README.md) | Medium | Solved | 7 | cpp | 2026-01-30 |
 | 605 | [Can Place Flowers](../Array/0605-can-place-flowers/README.md) | Easy | Solved | 5 | cpp | 2026-02-11 |
 | 674 | [Longest Continuous Increasing Subsequence](../Array/0674-longest-continuous-increasing-subsequence/README.md) | Easy | Solved | 2 | cpp | 2026-02-11 |
 | 704 | [Binary Search](../Array/0704-binary-search/README.md) | Easy | Solved | 1 | cpp | 2024-12-21 |
+| 739 | [Daily Temperatures](../Array/0739-daily-temperatures/README.md) | Medium | Solved | 4 | cpp | 2026-06-04 |
 | 769 | [Max Chunks To Make Sorted](../Array/0769-max-chunks-to-make-sorted/README.md) | Medium | Solved | 1 | cpp | 2024-12-20 |
+| 974 | [Subarray Sums Divisible by K](../Array/0974-subarray-sums-divisible-by-k/README.md) | Medium | Solved | 3 | cpp | 2026-06-04 |
 | 1475 | [Final Prices With a Special Discount in a Shop](../Array/1475-final-prices-with-a-special-discount-in-a-shop/README.md) | Easy | Solved | 1 | cpp | 2024-12-18 |
 | 1539 | [Kth Missing Positive Number](../Array/1539-kth-missing-positive-number/README.md) | Easy | Solved | 1 | cpp | 2024-12-25 |
 | 1752 | [Check if Array Is Sorted and Rotated](../Array/1752-check-if-array-is-sorted-and-rotated/README.md) | Easy | Solved | 6 | cpp | 2024-06-14 |
@@ -62,3 +68,4 @@
 | 3840 | [House Robber V](../Array/3840-house-robber-v/README.md) | Medium | Solved | 6 | cpp | 2026-02-14 |
 | 3866 | [First Unique Even Element](../Array/3866-first-unique-even-element/README.md) | Easy | Solved | 2 | cpp | 2026-03-14 |
 | 3867 | [Sum of GCD of Formed Pairs](../Array/3867-sum-of-gcd-of-formed-pairs/README.md) | Medium | Solved | 5 | cpp | 2026-03-14 |
+| 3951 | [Minimum Energy to Maintain Brightness](../Array/3951-minimum-energy-to-maintain-brightness/README.md) | Medium | Solved | 2 | cpp | 2026-06-06 |

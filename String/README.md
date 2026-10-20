@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 5 | 5 | 0 | 4 | 1 | 0 |
+| 6 | 6 | 0 | 4 | 2 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -13,6 +13,7 @@
 | 1021 | [Remove Outermost Parentheses](../String/1021-remove-outermost-parentheses/README.md) | Easy | Solved | 1 | cpp | 2026-02-03 |
 | 1446 | [Consecutive Characters](../String/1446-consecutive-characters/README.md) | Easy | Solved | 1 | cpp | 2026-02-11 |
 | 2785 | [Sort Vowels in a String](../String/2785-sort-vowels-in-a-string/README.md) | Medium | Solved | 1 | cpp | 2026-02-19 |
+| 3955 | [Valid Binary Strings With Cost Limit](../String/3955-valid-binary-strings-with-cost-limit/README.md) | Medium | Solved | 1 | cpp | 2026-06-07 |
 
 ## Also tagged String
 

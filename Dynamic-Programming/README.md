@@ -4,11 +4,12 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 1 | 0 | 1 | 0 | 0 |
+| 2 | 2 | 0 | 2 | 0 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
 | 338 | [Counting Bits](../Dynamic-Programming/0338-counting-bits/README.md) | Easy | Solved | 4 | cpp | 2025-01-14 |
+| 3954 | [Sum of Compatible Numbers in Range I](../Dynamic-Programming/3954-sum-of-compatible-numbers-in-range-i/README.md) | Easy | Solved | 1 | cpp | 2026-06-07 |
 
 ## Also tagged Dynamic Programming
 

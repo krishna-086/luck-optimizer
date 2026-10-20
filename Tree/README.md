@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 5 | 5 | 0 | 3 | 2 | 0 |
+| 8 | 8 | 0 | 5 | 3 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -12,6 +12,9 @@
 | 104 | [Maximum Depth of Binary Tree](../Tree/0104-maximum-depth-of-binary-tree/README.md) | Easy | Solved | 3 | cpp | 2026-03-07 |
 | 110 | [Balanced Binary Tree](../Tree/0110-balanced-binary-tree/README.md) | Easy | Solved | 8 | cpp | 2026-03-07 |
 | 112 | [Path Sum](../Tree/0112-path-sum/README.md) | Easy | Solved | 6 | cpp | 2025-12-29 |
+| 199 | [Binary Tree Right Side View](../Tree/0199-binary-tree-right-side-view/README.md) | Medium | Solved | 1 | cpp | 2026-06-11 |
+| 226 | [Invert Binary Tree](../Tree/0226-invert-binary-tree/README.md) | Easy | Solved | 1 | cpp | 2026-06-11 |
+| 543 | [Diameter of Binary Tree](../Tree/0543-diameter-of-binary-tree/README.md) | Easy | Solved | 4 | cpp | 2026-06-11 |
 | 2415 | [Reverse Odd Levels of Binary Tree](../Tree/2415-reverse-odd-levels-of-binary-tree/README.md) | Medium | Solved | 1 | cpp | 2024-12-20 |
 
 ## Also tagged Tree

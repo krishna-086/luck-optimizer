@@ -35,6 +35,8 @@ Filed under their main topic, but they use this one too.
 | 219 | [Contains Duplicate II](../Array/0219-contains-duplicate-ii/README.md) | Array | Easy | Solved |
 | 229 | [Majority Element II](../Array/0229-majority-element-ii/README.md) | Array | Medium | Solved |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Array | Easy | Solved |
+| 496 | [Next Greater Element I](../Array/0496-next-greater-element-i/README.md) | Array | Easy | Solved |
 | 560 | [Subarray Sum Equals K](../Array/0560-subarray-sum-equals-k/README.md) | Array | Medium | Solved |
+| 974 | [Subarray Sums Divisible by K](../Array/0974-subarray-sums-divisible-by-k/README.md) | Array | Medium | Solved |
 | 3839 | [Number of Prefix Connected Groups](../Array/3839-number-of-prefix-connected-groups/README.md) | Array | Medium | Solved |
 | 3866 | [First Unique Even Element](../Array/3866-first-unique-even-element/README.md) | Array | Easy | Solved |

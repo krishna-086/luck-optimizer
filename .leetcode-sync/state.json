@@ -2379,6 +2379,301 @@
         {"id":1948608569,"status":"Runtime Error","lang":"cpp","timestamp":1773544131,"runtime":null,"memory":null},
         {"id":1948608942,"status":"Accepted","lang":"cpp","timestamp":1773544143,"runtime":"0 ms","memory":"9.1 MB"}
       ]
+    },
+    "subarray-sums-divisible-by-k": {
+      "id": "974",
+      "title": "Subarray Sums Divisible by K",
+      "slug": "subarray-sums-divisible-by-k",
+      "difficulty": "Medium",
+      "tags": ["Array","Hash Table","Prefix Sum"],
+      "topic": "Array",
+      "dir": "Array/0974-subarray-sums-divisible-by-k",
+      "first_attempt_at": 1780553448,
+      "last_attempt_at": 1780555408,
+      "solved_at": 1780555408,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2021982002,"status":"Accepted","lang":"cpp","timestamp":1780555408,"runtime":"32 ms","memory":"35.9 MB"}
+      },
+      "submissions": [
+        {"id":2021944947,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1780553448,"runtime":null,"memory":null},
+        {"id":2021980002,"status":"Wrong Answer","lang":"cpp","timestamp":1780555301,"runtime":null,"memory":null},
+        {"id":2021982002,"status":"Accepted","lang":"cpp","timestamp":1780555408,"runtime":"32 ms","memory":"35.9 MB"}
+      ]
+    },
+    "next-greater-element-i": {
+      "id": "496",
+      "title": "Next Greater Element I",
+      "slug": "next-greater-element-i",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Stack","Monotonic Stack"],
+      "topic": "Array",
+      "dir": "Array/0496-next-greater-element-i",
+      "first_attempt_at": 1780570542,
+      "last_attempt_at": 1791980836,
+      "solved_at": 1780570542,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2172111198,"status":"Accepted","lang":"cpp","timestamp":1791980836,"runtime":"2 ms","memory":"12.8 MB"}
+      },
+      "submissions": [
+        {"id":2022205098,"status":"Accepted","lang":"cpp","timestamp":1780570542,"runtime":null,"memory":null},
+        {"id":2022261720,"status":"Accepted","lang":"cpp","timestamp":1780574976,"runtime":null,"memory":null},
+        {"id":2022268222,"status":"Accepted","lang":"cpp","timestamp":1780575488,"runtime":null,"memory":null},
+        {"id":2172111198,"status":"Accepted","lang":"cpp","timestamp":1791980836,"runtime":"2 ms","memory":"12.8 MB"}
+      ]
+    },
+    "next-greater-element-ii": {
+      "id": "503",
+      "title": "Next Greater Element II",
+      "slug": "next-greater-element-ii",
+      "difficulty": "Medium",
+      "tags": ["Array","Stack","Monotonic Stack"],
+      "topic": "Array",
+      "dir": "Array/0503-next-greater-element-ii",
+      "first_attempt_at": 1780577121,
+      "last_attempt_at": 1780577121,
+      "solved_at": 1780577121,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2022289159,"status":"Accepted","lang":"cpp","timestamp":1780577121,"runtime":"0 ms","memory":"28.6 MB"}
+      },
+      "submissions": [
+        {"id":2022289159,"status":"Accepted","lang":"cpp","timestamp":1780577121,"runtime":"0 ms","memory":"28.6 MB"}
+      ]
+    },
+    "daily-temperatures": {
+      "id": "739",
+      "title": "Daily Temperatures",
+      "slug": "daily-temperatures",
+      "difficulty": "Medium",
+      "tags": ["Array","Stack","Monotonic Stack"],
+      "topic": "Array",
+      "dir": "Array/0739-daily-temperatures",
+      "first_attempt_at": 1780579320,
+      "last_attempt_at": 1791981763,
+      "solved_at": 1780579405,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2172121304,"status":"Accepted","lang":"cpp","timestamp":1791981763,"runtime":"34 ms","memory":"102.5 MB"}
+      },
+      "submissions": [
+        {"id":2022317202,"status":"Runtime Error","lang":"cpp","timestamp":1780579320,"runtime":null,"memory":null},
+        {"id":2022318343,"status":"Accepted","lang":"cpp","timestamp":1780579405,"runtime":null,"memory":null},
+        {"id":2172120078,"status":"Wrong Answer","lang":"cpp","timestamp":1791981652,"runtime":null,"memory":null},
+        {"id":2172121304,"status":"Accepted","lang":"cpp","timestamp":1791981763,"runtime":"34 ms","memory":"102.5 MB"}
+      ]
+    },
+    "largest-rectangle-in-histogram": {
+      "id": "84",
+      "title": "Largest Rectangle in Histogram",
+      "slug": "largest-rectangle-in-histogram",
+      "difficulty": "Hard",
+      "tags": ["Array","Stack","Monotonic Stack","Range Minimum/Maximum Query"],
+      "topic": "Array",
+      "dir": "Array/0084-largest-rectangle-in-histogram",
+      "first_attempt_at": 1780640872,
+      "last_attempt_at": 1781125167,
+      "solved_at": 1780641006,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2029080764,"status":"Accepted","lang":"cpp","timestamp":1781125167,"runtime":"27 ms","memory":"79.7 MB"}
+      },
+      "submissions": [
+        {"id":2022972118,"status":"Wrong Answer","lang":"cpp","timestamp":1780640872,"runtime":null,"memory":null},
+        {"id":2022974545,"status":"Accepted","lang":"cpp","timestamp":1780641006,"runtime":null,"memory":null},
+        {"id":2022981928,"status":"Compile Error","lang":"cpp","timestamp":1780641430,"runtime":null,"memory":null},
+        {"id":2022983759,"status":"Accepted","lang":"cpp","timestamp":1780641539,"runtime":null,"memory":null},
+        {"id":2023043743,"status":"Accepted","lang":"cpp","timestamp":1780645612,"runtime":null,"memory":null},
+        {"id":2029080764,"status":"Accepted","lang":"cpp","timestamp":1781125167,"runtime":"27 ms","memory":"79.7 MB"}
+      ]
+    },
+    "find-the-duplicate-number": {
+      "id": "287",
+      "title": "Find the Duplicate Number",
+      "slug": "find-the-duplicate-number",
+      "difficulty": "Medium",
+      "tags": ["Array","Two Pointers","Binary Search","Bit Manipulation","Pigeonhole Principle","Floyd's Cycle Finding Algorithm"],
+      "topic": "Array",
+      "dir": "Array/0287-find-the-duplicate-number",
+      "first_attempt_at": 1780665293,
+      "last_attempt_at": 1780665293,
+      "solved_at": 1780665293,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2023300400,"status":"Accepted","lang":"cpp","timestamp":1780665293,"runtime":"4 ms","memory":"65.1 MB"}
+      },
+      "submissions": [
+        {"id":2023300400,"status":"Accepted","lang":"cpp","timestamp":1780665293,"runtime":"4 ms","memory":"65.1 MB"}
+      ]
+    },
+    "exactly-one-consecutive-set-bits-pair": {
+      "id": "3950",
+      "title": "Exactly One Consecutive Set Bits Pair",
+      "slug": "exactly-one-consecutive-set-bits-pair",
+      "difficulty": "Easy",
+      "tags": ["Bit Manipulation"],
+      "topic": "Bit Manipulation",
+      "dir": "Bit-Manipulation/3950-exactly-one-consecutive-set-bits-pair",
+      "first_attempt_at": 1780756821,
+      "last_attempt_at": 1780757333,
+      "solved_at": 1780757333,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2024362766,"status":"Accepted","lang":"cpp","timestamp":1780757333,"runtime":"0 ms","memory":"7.9 MB"}
+      },
+      "submissions": [
+        {"id":2024339472,"status":"Wrong Answer","lang":"cpp","timestamp":1780756821,"runtime":null,"memory":null},
+        {"id":2024346045,"status":"Wrong Answer","lang":"cpp","timestamp":1780756955,"runtime":null,"memory":null},
+        {"id":2024356960,"status":"Wrong Answer","lang":"cpp","timestamp":1780757199,"runtime":null,"memory":null},
+        {"id":2024362766,"status":"Accepted","lang":"cpp","timestamp":1780757333,"runtime":"0 ms","memory":"7.9 MB"}
+      ]
+    },
+    "minimum-energy-to-maintain-brightness": {
+      "id": "3951",
+      "title": "Minimum Energy to Maintain Brightness",
+      "slug": "minimum-energy-to-maintain-brightness",
+      "difficulty": "Medium",
+      "tags": ["Array","Sorting"],
+      "topic": "Array",
+      "dir": "Array/3951-minimum-energy-to-maintain-brightness",
+      "first_attempt_at": 1780761417,
+      "last_attempt_at": 1780761509,
+      "solved_at": 1780761509,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2024505627,"status":"Accepted","lang":"cpp","timestamp":1780761509,"runtime":"82 ms","memory":"203.7 MB"}
+      },
+      "submissions": [
+        {"id":2024503097,"status":"Wrong Answer","lang":"cpp","timestamp":1780761417,"runtime":null,"memory":null},
+        {"id":2024505627,"status":"Accepted","lang":"cpp","timestamp":1780761509,"runtime":"82 ms","memory":"203.7 MB"}
+      ]
+    },
+    "sum-of-compatible-numbers-in-range-i": {
+      "id": "3954",
+      "title": "Sum of Compatible Numbers in Range I",
+      "slug": "sum-of-compatible-numbers-in-range-i",
+      "difficulty": "Easy",
+      "tags": ["Dynamic Programming","Bit Manipulation","Enumeration"],
+      "topic": "Dynamic Programming",
+      "dir": "Dynamic-Programming/3954-sum-of-compatible-numbers-in-range-i",
+      "first_attempt_at": 1780801162,
+      "last_attempt_at": 1780801162,
+      "solved_at": 1780801162,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2024890414,"status":"Accepted","lang":"cpp","timestamp":1780801162,"runtime":"0 ms","memory":"8.4 MB"}
+      },
+      "submissions": [
+        {"id":2024890414,"status":"Accepted","lang":"cpp","timestamp":1780801162,"runtime":"0 ms","memory":"8.4 MB"}
+      ]
+    },
+    "valid-binary-strings-with-cost-limit": {
+      "id": "3955",
+      "title": "Valid Binary Strings With Cost Limit",
+      "slug": "valid-binary-strings-with-cost-limit",
+      "difficulty": "Medium",
+      "tags": ["String","Backtracking","Bit Manipulation","Enumeration"],
+      "topic": "String",
+      "dir": "String/3955-valid-binary-strings-with-cost-limit",
+      "first_attempt_at": 1780803862,
+      "last_attempt_at": 1780803862,
+      "solved_at": 1780803862,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2024943817,"status":"Accepted","lang":"cpp","timestamp":1780803862,"runtime":"36 ms","memory":"28.4 MB"}
+      },
+      "submissions": [
+        {"id":2024943817,"status":"Accepted","lang":"cpp","timestamp":1780803862,"runtime":"36 ms","memory":"28.4 MB"}
+      ]
+    },
+    "reverse-nodes-in-k-group": {
+      "id": "25",
+      "title": "Reverse Nodes in k-Group",
+      "slug": "reverse-nodes-in-k-group",
+      "difficulty": "Hard",
+      "tags": ["Linked List","Recursion"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0025-reverse-nodes-in-k-group",
+      "first_attempt_at": 1780911508,
+      "last_attempt_at": 1781041301,
+      "solved_at": 1780911508,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2027984456,"status":"Accepted","lang":"cpp","timestamp":1781041301,"runtime":"0 ms","memory":"16.4 MB"}
+      },
+      "submissions": [
+        {"id":2026208383,"status":"Accepted","lang":"cpp","timestamp":1780911508,"runtime":null,"memory":null},
+        {"id":2026210225,"status":"Accepted","lang":"cpp","timestamp":1780911618,"runtime":null,"memory":null},
+        {"id":2026269976,"status":"Accepted","lang":"cpp","timestamp":1780915301,"runtime":null,"memory":null},
+        {"id":2027984456,"status":"Accepted","lang":"cpp","timestamp":1781041301,"runtime":"0 ms","memory":"16.4 MB"}
+      ]
+    },
+    "merge-k-sorted-lists": {
+      "id": "23",
+      "title": "Merge k Sorted Lists",
+      "slug": "merge-k-sorted-lists",
+      "difficulty": "Hard",
+      "tags": ["Linked List","Divide and Conquer","Heap (Priority Queue)","Merge Sort","Tournament Sort"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0023-merge-k-sorted-lists",
+      "first_attempt_at": 1780927436,
+      "last_attempt_at": 1792429452,
+      "solved_at": 1780927436,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2176428630,"status":"Accepted","lang":"cpp","timestamp":1792429452,"runtime":"2 ms","memory":"18.6 MB"}
+      },
+      "submissions": [
+        {"id":2026441293,"status":"Accepted","lang":"cpp","timestamp":1780927436,"runtime":null,"memory":null},
+        {"id":2176423577,"status":"Compile Error","lang":"cpp","timestamp":1792429123,"runtime":null,"memory":null},
+        {"id":2176428630,"status":"Accepted","lang":"cpp","timestamp":1792429452,"runtime":"2 ms","memory":"18.6 MB"}
+      ]
+    },
+    "invert-binary-tree": {
+      "id": "226",
+      "title": "Invert Binary Tree",
+      "slug": "invert-binary-tree",
+      "difficulty": "Easy",
+      "tags": ["Tree","Depth-First Search","Breadth-First Search","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/0226-invert-binary-tree",
+      "first_attempt_at": 1781173553,
+      "last_attempt_at": 1781173553,
+      "solved_at": 1781173553,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2029618706,"status":"Accepted","lang":"cpp","timestamp":1781173553,"runtime":"0 ms","memory":"12.4 MB"}
+      },
+      "submissions": [
+        {"id":2029618706,"status":"Accepted","lang":"cpp","timestamp":1781173553,"runtime":"0 ms","memory":"12.4 MB"}
+      ]
+    },
+    "diameter-of-binary-tree": {
+      "id": "543",
+      "title": "Diameter of Binary Tree",
+      "slug": "diameter-of-binary-tree",
+      "difficulty": "Easy",
+      "tags": ["Tree","Depth-First Search","Binary Tree","DP on Trees"],
+      "topic": "Tree",
+      "dir": "Tree/0543-diameter-of-binary-tree",
+      "first_attempt_at": 1781176388,
+      "last_attempt_at": 1792317900,
+      "solved_at": 1781177015,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2175289017,"status":"Accepted","lang":"cpp","timestamp":1792317900,"runtime":"0 ms","memory":"23.7 MB"}
+      },
+      "submissions": [
+        {"id":2029661607,"status":"Wrong Answer","lang":"cpp","timestamp":1781176388,"runtime":null,"memory":null},
+        {"id":2029670596,"status":"Accepted","lang":"cpp","timestamp":1781177015,"runtime":null,"memory":null},
+        {"id":2029689935,"status":"Accepted","lang":"cpp","timestamp":1781178394,"runtime":null,"memory":null},
+        {"id":2175289017,"status":"Accepted","lang":"cpp","timestamp":1792317900,"runtime":"0 ms","memory":"23.7 MB"}
+      ]
+    },
+    "binary-tree-right-side-view": {
+      "id": "199",
+      "title": "Binary Tree Right Side View",
+      "slug": "binary-tree-right-side-view",
+      "difficulty": "Medium",
+      "tags": ["Tree","Depth-First Search","Breadth-First Search","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/0199-binary-tree-right-side-view",
+      "first_attempt_at": 1781184734,
+      "last_attempt_at": 1781184734,
+      "solved_at": 1781184734,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2029780243,"status":"Accepted","lang":"cpp","timestamp":1781184734,"runtime":"0 ms","memory":"15 MB"}
+      },
+      "submissions": [
+        {"id":2029780243,"status":"Accepted","lang":"cpp","timestamp":1781184734,"runtime":"0 ms","memory":"15 MB"}
+      ]
     }
   }
 }
