@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 0,
+  "synced_through": 2176658467,
   "problems": {
     "reverse-integer": {
       "id": "7",
@@ -3569,6 +3569,176 @@
       },
       "submissions": [
         {"id":2175973818,"status":"Accepted","lang":"cpp","timestamp":1792391872,"runtime":"54 ms","memory":"48.8 MB"}
+      ]
+    },
+    "jump-game": {
+      "id": "55",
+      "title": "Jump Game",
+      "slug": "jump-game",
+      "difficulty": "Medium",
+      "tags": ["Array","Dynamic Programming","Greedy"],
+      "topic": "Array",
+      "dir": "Array/0055-jump-game",
+      "first_attempt_at": 1792394464,
+      "last_attempt_at": 1792394855,
+      "solved_at": 1792394855,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2176009518,"status":"Accepted","lang":"cpp","timestamp":1792394855,"runtime":"632 ms","memory":"55.9 MB"}
+      },
+      "submissions": [
+        {"id":2176005095,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1792394464,"runtime":null,"memory":null},
+        {"id":2176009518,"status":"Accepted","lang":"cpp","timestamp":1792394855,"runtime":"632 ms","memory":"55.9 MB"}
+      ]
+    },
+    "kth-largest-element-in-an-array": {
+      "id": "215",
+      "title": "Kth Largest Element in an Array",
+      "slug": "kth-largest-element-in-an-array",
+      "difficulty": "Medium",
+      "tags": ["Array","Divide and Conquer","Sorting","Heap (Priority Queue)","Quickselect"],
+      "topic": "Array",
+      "dir": "Array/0215-kth-largest-element-in-an-array",
+      "first_attempt_at": 1792423134,
+      "last_attempt_at": 1792423134,
+      "solved_at": 1792423134,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2176338776,"status":"Accepted","lang":"cpp","timestamp":1792423134,"runtime":"25 ms","memory":"72.3 MB"}
+      },
+      "submissions": [
+        {"id":2176338776,"status":"Accepted","lang":"cpp","timestamp":1792423134,"runtime":"25 ms","memory":"72.3 MB"}
+      ]
+    },
+    "top-k-frequent-elements": {
+      "id": "347",
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "difficulty": "Medium",
+      "tags": ["Array","Hash Table","Divide and Conquer","Sorting","Heap (Priority Queue)","Bucket Sort","Counting","Quickselect"],
+      "topic": "Array",
+      "dir": "Array/0347-top-k-frequent-elements",
+      "first_attempt_at": 1792424525,
+      "last_attempt_at": 1792424661,
+      "solved_at": 1792424661,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2176359213,"status":"Accepted","lang":"cpp","timestamp":1792424661,"runtime":"2 ms","memory":"17.8 MB"}
+      },
+      "submissions": [
+        {"id":2176357348,"status":"Wrong Answer","lang":"cpp","timestamp":1792424525,"runtime":null,"memory":null},
+        {"id":2176359213,"status":"Accepted","lang":"cpp","timestamp":1792424661,"runtime":"2 ms","memory":"17.8 MB"}
+      ]
+    },
+    "k-closest-points-to-origin": {
+      "id": "973",
+      "title": "K Closest Points to Origin",
+      "slug": "k-closest-points-to-origin",
+      "difficulty": "Medium",
+      "tags": ["Array","Math","Divide and Conquer","Geometry","Sorting","Heap (Priority Queue)","Quickselect","K-D Tree"],
+      "topic": "Array",
+      "dir": "Array/0973-k-closest-points-to-origin",
+      "first_attempt_at": 1792425738,
+      "last_attempt_at": 1792425738,
+      "solved_at": 1792425738,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2176374168,"status":"Accepted","lang":"cpp","timestamp":1792425738,"runtime":"31 ms","memory":"64.3 MB"}
+      },
+      "submissions": [
+        {"id":2176374168,"status":"Accepted","lang":"cpp","timestamp":1792425738,"runtime":"31 ms","memory":"64.3 MB"}
+      ]
+    },
+    "find-median-from-data-stream": {
+      "id": "295",
+      "title": "Find Median from Data Stream",
+      "slug": "find-median-from-data-stream",
+      "difficulty": "Hard",
+      "tags": ["Two Pointers","Design","Sorting","Heap (Priority Queue)","Data Stream"],
+      "topic": "Two Pointers",
+      "dir": "Two-Pointers/0295-find-median-from-data-stream",
+      "first_attempt_at": 1792431537,
+      "last_attempt_at": 1792442715,
+      "solved_at": 1792442715,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2176587312,"status":"Accepted","lang":"cpp","timestamp":1792442715,"runtime":"259 ms","memory":"148.4 MB"}
+      },
+      "submissions": [
+        {"id":2176461016,"status":"Wrong Answer","lang":"cpp","timestamp":1792431537,"runtime":null,"memory":null},
+        {"id":2176463341,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1792431688,"runtime":null,"memory":null},
+        {"id":2176474436,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1792432407,"runtime":null,"memory":null},
+        {"id":2176587312,"status":"Accepted","lang":"cpp","timestamp":1792442715,"runtime":"259 ms","memory":"148.4 MB"}
+      ]
+    },
+    "reorganize-string": {
+      "id": "767",
+      "title": "Reorganize String",
+      "slug": "reorganize-string",
+      "difficulty": "Medium",
+      "tags": ["Hash Table","String","Greedy","Sorting","Heap (Priority Queue)","Counting"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0767-reorganize-string",
+      "first_attempt_at": 1792447221,
+      "last_attempt_at": 1792447221,
+      "solved_at": 1792447221,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2176614550,"status":"Accepted","lang":"cpp","timestamp":1792447221,"runtime":"0 ms","memory":"8.2 MB"}
+      },
+      "submissions": [
+        {"id":2176614550,"status":"Accepted","lang":"cpp","timestamp":1792447221,"runtime":"0 ms","memory":"8.2 MB"}
+      ]
+    },
+    "koko-eating-bananas": {
+      "id": "875",
+      "title": "Koko Eating Bananas",
+      "slug": "koko-eating-bananas",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0875-koko-eating-bananas",
+      "first_attempt_at": 1792450294,
+      "last_attempt_at": 1792450294,
+      "solved_at": 1792450294,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2176628413,"status":"Accepted","lang":"cpp","timestamp":1792450294,"runtime":"6 ms","memory":"22.9 MB"}
+      },
+      "submissions": [
+        {"id":2176628413,"status":"Accepted","lang":"cpp","timestamp":1792450294,"runtime":"6 ms","memory":"22.9 MB"}
+      ]
+    },
+    "capacity-to-ship-packages-within-d-days": {
+      "id": "1011",
+      "title": "Capacity To Ship Packages Within D Days",
+      "slug": "capacity-to-ship-packages-within-d-days",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/1011-capacity-to-ship-packages-within-d-days",
+      "first_attempt_at": 1792452224,
+      "last_attempt_at": 1792452827,
+      "solved_at": 1792452827,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2176638747,"status":"Accepted","lang":"cpp","timestamp":1792452827,"runtime":"13 ms","memory":"34.9 MB"}
+      },
+      "submissions": [
+        {"id":2176636309,"status":"Wrong Answer","lang":"cpp","timestamp":1792452224,"runtime":null,"memory":null},
+        {"id":2176637451,"status":"Wrong Answer","lang":"cpp","timestamp":1792452488,"runtime":null,"memory":null},
+        {"id":2176638747,"status":"Accepted","lang":"cpp","timestamp":1792452827,"runtime":"13 ms","memory":"34.9 MB"}
+      ]
+    },
+    "single-element-in-a-sorted-array": {
+      "id": "540",
+      "title": "Single Element in a Sorted Array",
+      "slug": "single-element-in-a-sorted-array",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0540-single-element-in-a-sorted-array",
+      "first_attempt_at": 1792457331,
+      "last_attempt_at": 1792457597,
+      "solved_at": 1792457597,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2176658467,"status":"Accepted","lang":"cpp","timestamp":1792457597,"runtime":"0 ms","memory":"26.3 MB"}
+      },
+      "submissions": [
+        {"id":2176657304,"status":"Runtime Error","lang":"cpp","timestamp":1792457331,"runtime":null,"memory":null},
+        {"id":2176658467,"status":"Accepted","lang":"cpp","timestamp":1792457597,"runtime":"0 ms","memory":"26.3 MB"}
       ]
     }
   }

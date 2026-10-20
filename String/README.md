@@ -40,6 +40,7 @@ Filed under their main topic, but they use this one too.
 | 389 | [Find the Difference](../Hash-Table/0389-find-the-difference/README.md) | Hash Table | Easy | Solved |
 | 424 | [Longest Repeating Character Replacement](../Hash-Table/0424-longest-repeating-character-replacement/README.md) | Hash Table | Medium | Solved |
 | 557 | [Reverse Words in a String III](../Two-Pointers/0557-reverse-words-in-a-string-iii/README.md) | Two Pointers | Easy | Solved |
+| 767 | [Reorganize String](../Hash-Table/0767-reorganize-string/README.md) | Hash Table | Medium | Solved |
 | 1768 | [Merge Strings Alternately](../Two-Pointers/1768-merge-strings-alternately/README.md) | Two Pointers | Easy | Solved |
 | 2182 | [Construct String With Repeat Limit](../Hash-Table/2182-construct-string-with-repeat-limit/README.md) | Hash Table | Medium | Solved |
 | 3838 | [Weighted Word Mapping](../Array/3838-weighted-word-mapping/README.md) | Array | Easy | Solved |

@@ -21,6 +21,7 @@ Filed under their main topic, but they use this one too.
 | --- | --- | --- | --- | --- |
 | 42 | [Trapping Rain Water](../Array/0042-trapping-rain-water/README.md) | Array | Hard | Solved |
 | 53 | [Maximum Subarray](../Array/0053-maximum-subarray/README.md) | Array | Medium | Solved |
+| 55 | [Jump Game](../Array/0055-jump-game/README.md) | Array | Medium | Solved |
 | 62 | [Unique Paths](../Math/0062-unique-paths/README.md) | Math | Medium | Solved |
 | 63 | [Unique Paths II](../Array/0063-unique-paths-ii/README.md) | Array | Medium | Solved |
 | 70 | [Climbing Stairs](../Math/0070-climbing-stairs/README.md) | Math | Easy | Solved |

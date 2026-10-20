@@ -40,6 +40,7 @@ Filed under their main topic, but they use this one too.
 | 189 | [Rotate Array](../Array/0189-rotate-array/README.md) | Array | Medium | Solved |
 | 202 | [Happy Number](../Hash-Table/0202-happy-number/README.md) | Hash Table | Easy | Solved |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Array | Easy | Solved |
+| 973 | [K Closest Points to Origin](../Array/0973-k-closest-points-to-origin/README.md) | Array | Medium | Solved |
 | 1290 | [Convert Binary Number in a Linked List to Integer](../Linked-List/1290-convert-binary-number-in-a-linked-list-to-integer/README.md) | Linked List | Easy | Solved |
 | 3264 | [Final Array State After K Multiplication Operations I](../Array/3264-final-array-state-after-k-multiplication-operations-i/README.md) | Array | Easy | Solved |
 | 3867 | [Sum of GCD of Formed Pairs](../Array/3867-sum-of-gcd-of-formed-pairs/README.md) | Array | Medium | Solved |

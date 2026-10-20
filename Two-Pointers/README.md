@@ -4,13 +4,14 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 7 | 7 | 0 | 6 | 1 | 0 |
+| 8 | 8 | 0 | 6 | 1 | 1 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
 | 28 | [Find the Index of the First Occurrence in a String](../Two-Pointers/0028-find-the-index-of-the-first-occurrence-in-a-string/README.md) | Easy | Solved | 2 | cpp | 2025-12-21 |
 | 125 | [Valid Palindrome](../Two-Pointers/0125-valid-palindrome/README.md) | Easy | Solved | 9 | cpp | 2024-06-04 |
 | 151 | [Reverse Words in a String](../Two-Pointers/0151-reverse-words-in-a-string/README.md) | Medium | Solved | 1 | cpp | 2026-02-03 |
+| 295 | [Find Median from Data Stream](../Two-Pointers/0295-find-median-from-data-stream/README.md) | Hard | Solved | 4 | cpp | 2026-10-20 |
 | 344 | [Reverse String](../Two-Pointers/0344-reverse-string/README.md) | Easy | Solved | 3 | cpp | 2025-12-08 |
 | 345 | [Reverse Vowels of a String](../Two-Pointers/0345-reverse-vowels-of-a-string/README.md) | Easy | Solved | 3 | cpp | 2026-02-18 |
 | 557 | [Reverse Words in a String III](../Two-Pointers/0557-reverse-words-in-a-string-iii/README.md) | Easy | Solved | 1 | cpp | 2026-02-05 |

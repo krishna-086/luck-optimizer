@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 16 | 16 | 0 | 8 | 7 | 1 |
+| 17 | 17 | 0 | 8 | 8 | 1 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -21,6 +21,7 @@
 | 383 | [Ransom Note](../Hash-Table/0383-ransom-note/README.md) | Easy | Solved | 1 | cpp | 2026-02-16 |
 | 389 | [Find the Difference](../Hash-Table/0389-find-the-difference/README.md) | Easy | Solved | 2 | cpp | 2026-02-10 |
 | 424 | [Longest Repeating Character Replacement](../Hash-Table/0424-longest-repeating-character-replacement/README.md) | Medium | Solved | 4 | cpp | 2026-10-15 |
+| 767 | [Reorganize String](../Hash-Table/0767-reorganize-string/README.md) | Medium | Solved | 1 | cpp | 2026-10-20 |
 | 863 | [All Nodes Distance K in Binary Tree](../Hash-Table/0863-all-nodes-distance-k-in-binary-tree/README.md) | Medium | Solved | 2 | cpp | 2026-10-18 |
 | 2182 | [Construct String With Repeat Limit](../Hash-Table/2182-construct-string-with-repeat-limit/README.md) | Medium | Solved | 2 | cpp | 2024-12-17 |
 | 2385 | [Amount of Time for Binary Tree to Be Infected](../Hash-Table/2385-amount-of-time-for-binary-tree-to-be-infected/README.md) | Medium | Solved | 2 | cpp | 2026-10-18 |
@@ -41,6 +42,7 @@ Filed under their main topic, but they use this one too.
 | 219 | [Contains Duplicate II](../Array/0219-contains-duplicate-ii/README.md) | Array | Easy | Solved |
 | 229 | [Majority Element II](../Array/0229-majority-element-ii/README.md) | Array | Medium | Solved |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Array | Easy | Solved |
+| 347 | [Top K Frequent Elements](../Array/0347-top-k-frequent-elements/README.md) | Array | Medium | Solved |
 | 496 | [Next Greater Element I](../Array/0496-next-greater-element-i/README.md) | Array | Easy | Solved |
 | 560 | [Subarray Sum Equals K](../Array/0560-subarray-sum-equals-k/README.md) | Array | Medium | Solved |
 | 974 | [Subarray Sums Divisible by K](../Array/0974-subarray-sums-divisible-by-k/README.md) | Array | Medium | Solved |
