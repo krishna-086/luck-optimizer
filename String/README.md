@@ -4,12 +4,13 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 6 | 6 | 0 | 4 | 2 | 0 |
+| 7 | 7 | 0 | 4 | 2 | 1 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
 | 20 | [Valid Parentheses](../String/0020-valid-parentheses/README.md) | Easy | Solved | 2 | cpp | 2025-12-17 |
 | 58 | [Length of Last Word](../String/0058-length-of-last-word/README.md) | Easy | Solved | 1 | cpp | 2025-12-22 |
+| 297 | [Serialize and Deserialize Binary Tree](../String/0297-serialize-and-deserialize-binary-tree/README.md) | Hard | Solved | 3 | cpp | 2026-06-15 |
 | 1021 | [Remove Outermost Parentheses](../String/1021-remove-outermost-parentheses/README.md) | Easy | Solved | 1 | cpp | 2026-02-03 |
 | 1446 | [Consecutive Characters](../String/1446-consecutive-characters/README.md) | Easy | Solved | 1 | cpp | 2026-02-11 |
 | 2785 | [Sort Vowels in a String](../String/2785-sort-vowels-in-a-string/README.md) | Medium | Solved | 1 | cpp | 2026-02-19 |
@@ -41,3 +42,4 @@ Filed under their main topic, but they use this one too.
 | 2182 | [Construct String With Repeat Limit](../Hash-Table/2182-construct-string-with-repeat-limit/README.md) | Hash Table | Medium | Solved |
 | 3838 | [Weighted Word Mapping](../Array/3838-weighted-word-mapping/README.md) | Array | Easy | Solved |
 | 3839 | [Number of Prefix Connected Groups](../Array/3839-number-of-prefix-connected-groups/README.md) | Array | Medium | Solved |
+| 3968 | [Maximum Manhattan Distance After All Moves](../Math/3968-maximum-manhattan-distance-after-all-moves/README.md) | Math | Medium | Solved |

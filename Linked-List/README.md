@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 17 | 17 | 0 | 7 | 8 | 2 |
+| 18 | 18 | 0 | 7 | 9 | 2 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -16,6 +16,7 @@
 | 61 | [Rotate List](../Linked-List/0061-rotate-list/README.md) | Medium | Solved | 3 | cpp | 2026-02-28 |
 | 83 | [Remove Duplicates from Sorted List](../Linked-List/0083-remove-duplicates-from-sorted-list/README.md) | Easy | Solved | 3 | cpp | 2026-02-22 |
 | 92 | [Reverse Linked List II](../Linked-List/0092-reverse-linked-list-ii/README.md) | Medium | Solved | 3 | cpp | 2026-02-23 |
+| 116 | [Populating Next Right Pointers in Each Node](../Linked-List/0116-populating-next-right-pointers-in-each-node/README.md) | Medium | Solved | 3 | cpp | 2026-06-12 |
 | 148 | [Sort List](../Linked-List/0148-sort-list/README.md) | Medium | Solved | 3 | cpp | 2026-02-26 |
 | 203 | [Remove Linked List Elements](../Linked-List/0203-remove-linked-list-elements/README.md) | Easy | Solved | 2 | cpp | 2026-02-19 |
 | 206 | [Reverse Linked List](../Linked-List/0206-reverse-linked-list/README.md) | Easy | Solved | 2 | cpp | 2026-02-23 |

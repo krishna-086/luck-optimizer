@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 15 | 14 | 1 | 11 | 3 | 1 |
+| 16 | 15 | 1 | 11 | 4 | 1 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -23,6 +23,7 @@
 | 3869 | [Count Fancy Numbers in a Range](../Math/3869-count-fancy-numbers-in-a-range/README.md) | Hard | Attempted | 3 | cpp | - |
 | 3870 | [Count Commas in Range](../Math/3870-count-commas-in-range/README.md) | Easy | Solved | 2 | cpp | 2026-03-15 |
 | 3871 | [Count Commas in Range II](../Math/3871-count-commas-in-range-ii/README.md) | Medium | Solved | 4 | cpp | 2026-03-15 |
+| 3968 | [Maximum Manhattan Distance After All Moves](../Math/3968-maximum-manhattan-distance-after-all-moves/README.md) | Medium | Solved | 2 | cpp | 2026-06-21 |
 
 ## Also tagged Math
 

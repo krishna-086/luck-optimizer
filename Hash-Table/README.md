@@ -29,6 +29,8 @@ Filed under their main topic, but they use this one too.
 | --- | --- | --- | --- | --- |
 | 1 | [Two Sum](../Array/0001-two-sum/README.md) | Array | Easy | Solved |
 | 73 | [Set Matrix Zeroes](../Array/0073-set-matrix-zeroes/README.md) | Array | Medium | Solved |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](../Array/0105-construct-binary-tree-from-preorder-and-inorder-traversal/README.md) | Array | Medium | Solved |
+| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](../Array/0106-construct-binary-tree-from-inorder-and-postorder-traversal/README.md) | Array | Medium | Solved |
 | 128 | [Longest Consecutive Sequence](../Array/0128-longest-consecutive-sequence/README.md) | Array | Medium | Solved |
 | 169 | [Majority Element](../Array/0169-majority-element/README.md) | Array | Easy | Solved |
 | 217 | [Contains Duplicate](../Array/0217-contains-duplicate/README.md) | Array | Easy | Solved |

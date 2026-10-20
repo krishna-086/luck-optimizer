@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 61 | 61 | 0 | 29 | 30 | 2 |
+| 65 | 65 | 0 | 29 | 34 | 2 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -28,6 +28,8 @@
 | 81 | [Search in Rotated Sorted Array II](../Array/0081-search-in-rotated-sorted-array-ii/README.md) | Medium | Solved | 2 | cpp | 2026-02-12 |
 | 84 | [Largest Rectangle in Histogram](../Array/0084-largest-rectangle-in-histogram/README.md) | Hard | Solved | 6 | cpp | 2026-06-05 |
 | 88 | [Merge Sorted Array](../Array/0088-merge-sorted-array/README.md) | Easy | Solved | 4 | cpp | 2025-12-28 |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](../Array/0105-construct-binary-tree-from-preorder-and-inorder-traversal/README.md) | Medium | Solved | 1 | cpp | 2026-06-16 |
+| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](../Array/0106-construct-binary-tree-from-inorder-and-postorder-traversal/README.md) | Medium | Solved | 1 | cpp | 2026-06-16 |
 | 118 | [Pascal's Triangle](../Array/0118-pascals-triangle/README.md) | Easy | Solved | 4 | cpp | 2025-12-30 |
 | 119 | [Pascal's Triangle II](../Array/0119-pascals-triangle-ii/README.md) | Easy | Solved | 2 | cpp | 2026-02-06 |
 | 121 | [Best Time to Buy and Sell Stock](../Array/0121-best-time-to-buy-and-sell-stock/README.md) | Easy | Solved | 6 | cpp | 2026-01-28 |
@@ -69,3 +71,5 @@
 | 3866 | [First Unique Even Element](../Array/3866-first-unique-even-element/README.md) | Easy | Solved | 2 | cpp | 2026-03-14 |
 | 3867 | [Sum of GCD of Formed Pairs](../Array/3867-sum-of-gcd-of-formed-pairs/README.md) | Medium | Solved | 5 | cpp | 2026-03-14 |
 | 3951 | [Minimum Energy to Maintain Brightness](../Array/3951-minimum-energy-to-maintain-brightness/README.md) | Medium | Solved | 2 | cpp | 2026-06-06 |
+| 3964 | [Minimum Lights to Illuminate a Road](../Array/3964-minimum-lights-to-illuminate-a-road/README.md) | Medium | Solved | 6 | cpp | 2026-06-20 |
+| 3965 | [Finish Time of Tasks I](../Array/3965-finish-time-of-tasks-i/README.md) | Medium | Solved | 1 | cpp | 2026-06-20 |

@@ -2674,6 +2674,311 @@
       "submissions": [
         {"id":2029780243,"status":"Accepted","lang":"cpp","timestamp":1781184734,"runtime":"0 ms","memory":"15 MB"}
       ]
+    },
+    "find-largest-value-in-each-tree-row": {
+      "id": "515",
+      "title": "Find Largest Value in Each Tree Row",
+      "slug": "find-largest-value-in-each-tree-row",
+      "difficulty": "Medium",
+      "tags": ["Tree","Depth-First Search","Breadth-First Search","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/0515-find-largest-value-in-each-tree-row",
+      "first_attempt_at": 1781206901,
+      "last_attempt_at": 1781206901,
+      "solved_at": 1781206901,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2030143212,"status":"Accepted","lang":"cpp","timestamp":1781206901,"runtime":"0 ms","memory":"22.8 MB"}
+      },
+      "submissions": [
+        {"id":2030143212,"status":"Accepted","lang":"cpp","timestamp":1781206901,"runtime":"0 ms","memory":"22.8 MB"}
+      ]
+    },
+    "populating-next-right-pointers-in-each-node": {
+      "id": "116",
+      "title": "Populating Next Right Pointers in Each Node",
+      "slug": "populating-next-right-pointers-in-each-node",
+      "difficulty": "Medium",
+      "tags": ["Linked List","Tree","Depth-First Search","Breadth-First Search","Binary Tree"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0116-populating-next-right-pointers-in-each-node",
+      "first_attempt_at": 1781208029,
+      "last_attempt_at": 1781212337,
+      "solved_at": 1781208029,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2030186003,"status":"Accepted","lang":"cpp","timestamp":1781212337,"runtime":"8 ms","memory":"19 MB"}
+      },
+      "submissions": [
+        {"id":2030153482,"status":"Accepted","lang":"cpp","timestamp":1781208029,"runtime":null,"memory":null},
+        {"id":2030184502,"status":"Accepted","lang":"cpp","timestamp":1781212103,"runtime":null,"memory":null},
+        {"id":2030186003,"status":"Accepted","lang":"cpp","timestamp":1781212337,"runtime":"8 ms","memory":"19 MB"}
+      ]
+    },
+    "path-sum-ii": {
+      "id": "113",
+      "title": "Path Sum II",
+      "slug": "path-sum-ii",
+      "difficulty": "Medium",
+      "tags": ["Backtracking","Tree","Depth-First Search","Binary Tree"],
+      "topic": "Backtracking",
+      "dir": "Backtracking/0113-path-sum-ii",
+      "first_attempt_at": 1781257354,
+      "last_attempt_at": 1781258864,
+      "solved_at": 1781257354,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2030682521,"status":"Accepted","lang":"cpp","timestamp":1781258864,"runtime":"0 ms","memory":"20.8 MB"}
+      },
+      "submissions": [
+        {"id":2030656933,"status":"Accepted","lang":"cpp","timestamp":1781257354,"runtime":null,"memory":null},
+        {"id":2030675221,"status":"Accepted","lang":"cpp","timestamp":1781258435,"runtime":null,"memory":null},
+        {"id":2030682521,"status":"Accepted","lang":"cpp","timestamp":1781258864,"runtime":"0 ms","memory":"20.8 MB"}
+      ]
+    },
+    "path-sum-iii": {
+      "id": "437",
+      "title": "Path Sum III",
+      "slug": "path-sum-iii",
+      "difficulty": "Medium",
+      "tags": ["Tree","Depth-First Search","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/0437-path-sum-iii",
+      "first_attempt_at": 1781272663,
+      "last_attempt_at": 1781272832,
+      "solved_at": 1781272832,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2030872279,"status":"Accepted","lang":"cpp","timestamp":1781272832,"runtime":"0 ms","memory":"20.7 MB"}
+      },
+      "submissions": [
+        {"id":2030869885,"status":"Runtime Error","lang":"cpp","timestamp":1781272663,"runtime":null,"memory":null},
+        {"id":2030872279,"status":"Accepted","lang":"cpp","timestamp":1781272832,"runtime":"0 ms","memory":"20.7 MB"}
+      ]
+    },
+    "binary-tree-maximum-path-sum": {
+      "id": "124",
+      "title": "Binary Tree Maximum Path Sum",
+      "slug": "binary-tree-maximum-path-sum",
+      "difficulty": "Hard",
+      "tags": ["Dynamic Programming","Tree","Depth-First Search","Binary Tree","DP on Trees"],
+      "topic": "Dynamic Programming",
+      "dir": "Dynamic-Programming/0124-binary-tree-maximum-path-sum",
+      "first_attempt_at": 1781518306,
+      "last_attempt_at": 1781518707,
+      "solved_at": 1781518707,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2033805648,"status":"Accepted","lang":"cpp","timestamp":1781518707,"runtime":"0 ms","memory":"27.7 MB"}
+      },
+      "submissions": [
+        {"id":2033798413,"status":"Wrong Answer","lang":"cpp","timestamp":1781518306,"runtime":null,"memory":null},
+        {"id":2033805648,"status":"Accepted","lang":"cpp","timestamp":1781518707,"runtime":"0 ms","memory":"27.7 MB"}
+      ]
+    },
+    "serialize-and-deserialize-binary-tree": {
+      "id": "297",
+      "title": "Serialize and Deserialize Binary Tree",
+      "slug": "serialize-and-deserialize-binary-tree",
+      "difficulty": "Hard",
+      "tags": ["String","Tree","Depth-First Search","Breadth-First Search","Design","Binary Tree"],
+      "topic": "String",
+      "dir": "String/0297-serialize-and-deserialize-binary-tree",
+      "first_attempt_at": 1781526352,
+      "last_attempt_at": 1781533263,
+      "solved_at": 1781532298,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2034030912,"status":"Accepted","lang":"cpp","timestamp":1781533263,"runtime":"31 ms","memory":"39.9 MB"}
+      },
+      "submissions": [
+        {"id":2033924150,"status":"Runtime Error","lang":"cpp","timestamp":1781526352,"runtime":null,"memory":null},
+        {"id":2034015184,"status":"Accepted","lang":"cpp","timestamp":1781532298,"runtime":null,"memory":null},
+        {"id":2034030912,"status":"Accepted","lang":"cpp","timestamp":1781533263,"runtime":"31 ms","memory":"39.9 MB"}
+      ]
+    },
+    "construct-binary-tree-from-preorder-and-inorder-traversal": {
+      "id": "105",
+      "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+      "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+      "difficulty": "Medium",
+      "tags": ["Array","Hash Table","Divide and Conquer","Tree","Binary Tree"],
+      "topic": "Array",
+      "dir": "Array/0105-construct-binary-tree-from-preorder-and-inorder-traversal",
+      "first_attempt_at": 1781549198,
+      "last_attempt_at": 1781549198,
+      "solved_at": 1781549198,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2034329279,"status":"Accepted","lang":"cpp","timestamp":1781549198,"runtime":"6 ms","memory":"27.4 MB"}
+      },
+      "submissions": [
+        {"id":2034329279,"status":"Accepted","lang":"cpp","timestamp":1781549198,"runtime":"6 ms","memory":"27.4 MB"}
+      ]
+    },
+    "construct-binary-tree-from-inorder-and-postorder-traversal": {
+      "id": "106",
+      "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+      "slug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+      "difficulty": "Medium",
+      "tags": ["Array","Hash Table","Divide and Conquer","Tree","Binary Tree"],
+      "topic": "Array",
+      "dir": "Array/0106-construct-binary-tree-from-inorder-and-postorder-traversal",
+      "first_attempt_at": 1781550789,
+      "last_attempt_at": 1781550789,
+      "solved_at": 1781550789,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2034350465,"status":"Accepted","lang":"cpp","timestamp":1781550789,"runtime":"0 ms","memory":"27.5 MB"}
+      },
+      "submissions": [
+        {"id":2034350465,"status":"Accepted","lang":"cpp","timestamp":1781550789,"runtime":"0 ms","memory":"27.5 MB"}
+      ]
+    },
+    "validate-binary-search-tree": {
+      "id": "98",
+      "title": "Validate Binary Search Tree",
+      "slug": "validate-binary-search-tree",
+      "difficulty": "Medium",
+      "tags": ["Tree","Depth-First Search","Binary Search Tree","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/0098-validate-binary-search-tree",
+      "first_attempt_at": 1781592386,
+      "last_attempt_at": 1781911120,
+      "solved_at": 1781592643,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2039205975,"status":"Accepted","lang":"cpp","timestamp":1781911120,"runtime":"4 ms","memory":"21.9 MB"}
+      },
+      "submissions": [
+        {"id":2034785255,"status":"Wrong Answer","lang":"cpp","timestamp":1781592386,"runtime":null,"memory":null},
+        {"id":2034786022,"status":"Wrong Answer","lang":"cpp","timestamp":1781592422,"runtime":null,"memory":null},
+        {"id":2034787863,"status":"Wrong Answer","lang":"cpp","timestamp":1781592503,"runtime":null,"memory":null},
+        {"id":2034791067,"status":"Accepted","lang":"cpp","timestamp":1781592643,"runtime":null,"memory":null},
+        {"id":2034795188,"status":"Accepted","lang":"cpp","timestamp":1781592823,"runtime":null,"memory":null},
+        {"id":2039205975,"status":"Accepted","lang":"cpp","timestamp":1781911120,"runtime":"4 ms","memory":"21.9 MB"}
+      ]
+    },
+    "kth-smallest-element-in-a-bst": {
+      "id": "230",
+      "title": "Kth Smallest Element in a BST",
+      "slug": "kth-smallest-element-in-a-bst",
+      "difficulty": "Medium",
+      "tags": ["Tree","Depth-First Search","Binary Search Tree","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/0230-kth-smallest-element-in-a-bst",
+      "first_attempt_at": 1781596116,
+      "last_attempt_at": 1785452513,
+      "solved_at": 1781596116,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2088091127,"status":"Accepted","lang":"cpp","timestamp":1785452513,"runtime":"0 ms","memory":"24.4 MB"}
+      },
+      "submissions": [
+        {"id":2034857186,"status":"Accepted","lang":"cpp","timestamp":1781596116,"runtime":null,"memory":null},
+        {"id":2034858014,"status":"Accepted","lang":"cpp","timestamp":1781596164,"runtime":null,"memory":null},
+        {"id":2036790553,"status":"Accepted","lang":"cpp","timestamp":1781723772,"runtime":null,"memory":null},
+        {"id":2037992944,"status":"Accepted","lang":"cpp","timestamp":1781811648,"runtime":null,"memory":null},
+        {"id":2046246890,"status":"Accepted","lang":"cpp","timestamp":1782426220,"runtime":null,"memory":null},
+        {"id":2047237488,"status":"Accepted","lang":"cpp","timestamp":1782507722,"runtime":null,"memory":null},
+        {"id":2047237866,"status":"Accepted","lang":"cpp","timestamp":1782507784,"runtime":null,"memory":null},
+        {"id":2053923504,"status":"Accepted","lang":"cpp","timestamp":1783018390,"runtime":null,"memory":null},
+        {"id":2058604059,"status":"Accepted","lang":"cpp","timestamp":1783383512,"runtime":null,"memory":null},
+        {"id":2062208999,"status":"Accepted","lang":"cpp","timestamp":1783628734,"runtime":null,"memory":null},
+        {"id":2072848357,"status":"Accepted","lang":"cpp","timestamp":1784418759,"runtime":null,"memory":null},
+        {"id":2085361030,"status":"Accepted","lang":"cpp","timestamp":1785274159,"runtime":null,"memory":null},
+        {"id":2088091127,"status":"Accepted","lang":"cpp","timestamp":1785452513,"runtime":"0 ms","memory":"24.4 MB"}
+      ]
+    },
+    "lowest-common-ancestor-of-a-binary-search-tree": {
+      "id": "235",
+      "title": "Lowest Common Ancestor of a Binary Search Tree",
+      "slug": "lowest-common-ancestor-of-a-binary-search-tree",
+      "difficulty": "Medium",
+      "tags": ["Tree","Depth-First Search","Binary Search Tree","Binary Tree","Binary Lifting","Lowest Common Ancestor"],
+      "topic": "Tree",
+      "dir": "Tree/0235-lowest-common-ancestor-of-a-binary-search-tree",
+      "first_attempt_at": 1781639724,
+      "last_attempt_at": 1781640861,
+      "solved_at": 1781639724,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2035627528,"status":"Accepted","lang":"cpp","timestamp":1781640861,"runtime":"16 ms","memory":"23.6 MB"}
+      },
+      "submissions": [
+        {"id":2035616954,"status":"Accepted","lang":"cpp","timestamp":1781639724,"runtime":null,"memory":null},
+        {"id":2035627528,"status":"Accepted","lang":"cpp","timestamp":1781640861,"runtime":"16 ms","memory":"23.6 MB"}
+      ]
+    },
+    "create-grid-with-exactly-one-path": {
+      "id": "3963",
+      "title": "Create Grid With Exactly One Path",
+      "slug": "create-grid-with-exactly-one-path",
+      "difficulty": "Easy",
+      "tags": [],
+      "topic": "Other",
+      "dir": "Other/3963-create-grid-with-exactly-one-path",
+      "first_attempt_at": 1781966474,
+      "last_attempt_at": 1782335754,
+      "solved_at": 1781966474,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2045086792,"status":"Accepted","lang":"cpp","timestamp":1782335754,"runtime":"2 ms","memory":"12 MB"}
+      },
+      "submissions": [
+        {"id":2039870725,"status":"Accepted","lang":"cpp","timestamp":1781966474,"runtime":null,"memory":null},
+        {"id":2043865091,"status":"Accepted","lang":"cpp","timestamp":1782246840,"runtime":null,"memory":null},
+        {"id":2043865267,"status":"Accepted","lang":"cpp","timestamp":1782246858,"runtime":null,"memory":null},
+        {"id":2045086792,"status":"Accepted","lang":"cpp","timestamp":1782335754,"runtime":"2 ms","memory":"12 MB"}
+      ]
+    },
+    "finish-time-of-tasks-i": {
+      "id": "3965",
+      "title": "Finish Time of Tasks I",
+      "slug": "finish-time-of-tasks-i",
+      "difficulty": "Medium",
+      "tags": ["Array","Dynamic Programming","Tree","Depth-First Search"],
+      "topic": "Array",
+      "dir": "Array/3965-finish-time-of-tasks-i",
+      "first_attempt_at": 1781969577,
+      "last_attempt_at": 1781969577,
+      "solved_at": 1781969577,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2039988254,"status":"Accepted","lang":"cpp","timestamp":1781969577,"runtime":"102 ms","memory":"324.6 MB"}
+      },
+      "submissions": [
+        {"id":2039988254,"status":"Accepted","lang":"cpp","timestamp":1781969577,"runtime":"102 ms","memory":"324.6 MB"}
+      ]
+    },
+    "minimum-lights-to-illuminate-a-road": {
+      "id": "3964",
+      "title": "Minimum Lights to Illuminate a Road",
+      "slug": "minimum-lights-to-illuminate-a-road",
+      "difficulty": "Medium",
+      "tags": ["Array","Prefix Sum"],
+      "topic": "Array",
+      "dir": "Array/3964-minimum-lights-to-illuminate-a-road",
+      "first_attempt_at": 1781972286,
+      "last_attempt_at": 1782938757,
+      "solved_at": 1781972286,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2052820557,"status":"Accepted","lang":"cpp","timestamp":1782938757,"runtime":"31 ms","memory":"289 MB"}
+      },
+      "submissions": [
+        {"id":2040051261,"status":"Accepted","lang":"cpp","timestamp":1781972286,"runtime":null,"memory":null},
+        {"id":2040051922,"status":"Accepted","lang":"cpp","timestamp":1781972328,"runtime":null,"memory":null},
+        {"id":2042657979,"status":"Accepted","lang":"cpp","timestamp":1782161461,"runtime":null,"memory":null},
+        {"id":2048152551,"status":"Accepted","lang":"cpp","timestamp":1782584174,"runtime":null,"memory":null},
+        {"id":2051710683,"status":"Accepted","lang":"cpp","timestamp":1782859424,"runtime":null,"memory":null},
+        {"id":2052820557,"status":"Accepted","lang":"cpp","timestamp":1782938757,"runtime":"31 ms","memory":"289 MB"}
+      ]
+    },
+    "maximum-manhattan-distance-after-all-moves": {
+      "id": "3968",
+      "title": "Maximum Manhattan Distance After All Moves",
+      "slug": "maximum-manhattan-distance-after-all-moves",
+      "difficulty": "Medium",
+      "tags": ["Math","String","Counting"],
+      "topic": "Math",
+      "dir": "Math/3968-maximum-manhattan-distance-after-all-moves",
+      "first_attempt_at": 1782009872,
+      "last_attempt_at": 1782685389,
+      "solved_at": 1782009872,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2049384316,"status":"Accepted","lang":"cpp","timestamp":1782685389,"runtime":"11 ms","memory":"22.1 MB"}
+      },
+      "submissions": [
+        {"id":2040400548,"status":"Accepted","lang":"cpp","timestamp":1782009872,"runtime":null,"memory":null},
+        {"id":2049384316,"status":"Accepted","lang":"cpp","timestamp":1782685389,"runtime":"11 ms","memory":"22.1 MB"}
+      ]
     }
   }
 }
