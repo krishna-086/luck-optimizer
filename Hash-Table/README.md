@@ -4,12 +4,13 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 12 | 12 | 0 | 8 | 4 | 0 |
+| 14 | 14 | 0 | 8 | 5 | 1 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
 | 3 | [Longest Substring Without Repeating Characters](../Hash-Table/0003-longest-substring-without-repeating-characters/README.md) | Medium | Solved | 6 | cpp | 2026-02-16 |
 | 13 | [Roman to Integer](../Hash-Table/0013-roman-to-integer/README.md) | Easy | Solved | 1 | cpp | 2024-12-15 |
+| 76 | [Minimum Window Substring](../Hash-Table/0076-minimum-window-substring/README.md) | Hard | Solved | 1 | cpp | 2026-10-15 |
 | 138 | [Copy List with Random Pointer](../Hash-Table/0138-copy-list-with-random-pointer/README.md) | Medium | Solved | 2 | cpp | 2026-03-01 |
 | 141 | [Linked List Cycle](../Hash-Table/0141-linked-list-cycle/README.md) | Easy | Solved | 7 | cpp | 2026-02-20 |
 | 142 | [Linked List Cycle II](../Hash-Table/0142-linked-list-cycle-ii/README.md) | Medium | Solved | 3 | cpp | 2026-02-20 |
@@ -19,6 +20,7 @@
 | 242 | [Valid Anagram](../Hash-Table/0242-valid-anagram/README.md) | Easy | Solved | 2 | cpp | 2026-02-16 |
 | 383 | [Ransom Note](../Hash-Table/0383-ransom-note/README.md) | Easy | Solved | 1 | cpp | 2026-02-16 |
 | 389 | [Find the Difference](../Hash-Table/0389-find-the-difference/README.md) | Easy | Solved | 2 | cpp | 2026-02-10 |
+| 424 | [Longest Repeating Character Replacement](../Hash-Table/0424-longest-repeating-character-replacement/README.md) | Medium | Solved | 4 | cpp | 2026-10-15 |
 | 2182 | [Construct String With Repeat Limit](../Hash-Table/2182-construct-string-with-repeat-limit/README.md) | Medium | Solved | 2 | cpp | 2024-12-17 |
 
 ## Also tagged Hash Table
@@ -42,3 +44,4 @@ Filed under their main topic, but they use this one too.
 | 974 | [Subarray Sums Divisible by K](../Array/0974-subarray-sums-divisible-by-k/README.md) | Array | Medium | Solved |
 | 3839 | [Number of Prefix Connected Groups](../Array/3839-number-of-prefix-connected-groups/README.md) | Array | Medium | Solved |
 | 3866 | [First Unique Even Element](../Array/3866-first-unique-even-element/README.md) | Array | Easy | Solved |
+| 3969 | [Valid Subarrays With Matching Sum Digits I](../Array/3969-valid-subarrays-with-matching-sum-digits-i/README.md) | Array | Medium | Solved |

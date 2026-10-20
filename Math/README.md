@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 16 | 15 | 1 | 11 | 4 | 1 |
+| 17 | 16 | 1 | 12 | 4 | 1 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -24,6 +24,7 @@
 | 3870 | [Count Commas in Range](../Math/3870-count-commas-in-range/README.md) | Easy | Solved | 2 | cpp | 2026-03-15 |
 | 3871 | [Count Commas in Range II](../Math/3871-count-commas-in-range-ii/README.md) | Medium | Solved | 4 | cpp | 2026-03-15 |
 | 3968 | [Maximum Manhattan Distance After All Moves](../Math/3968-maximum-manhattan-distance-after-all-moves/README.md) | Medium | Solved | 2 | cpp | 2026-06-21 |
+| 3986 | [Number of Elapsed Seconds Between Two Times](../Math/3986-number-of-elapsed-seconds-between-two-times/README.md) | Easy | Solved | 2 | cpp | 2026-07-12 |
 
 ## Also tagged Math
 
@@ -41,3 +42,4 @@ Filed under their main topic, but they use this one too.
 | 1290 | [Convert Binary Number in a Linked List to Integer](../Linked-List/1290-convert-binary-number-in-a-linked-list-to-integer/README.md) | Linked List | Easy | Solved |
 | 3264 | [Final Array State After K Multiplication Operations I](../Array/3264-final-array-state-after-k-multiplication-operations-i/README.md) | Array | Easy | Solved |
 | 3867 | [Sum of GCD of Formed Pairs](../Array/3867-sum-of-gcd-of-formed-pairs/README.md) | Array | Medium | Solved |
+| 3987 | [Minimum Total Cost to Process All Elements](../Array/3987-minimum-total-cost-to-process-all-elements/README.md) | Array | Medium | Solved |

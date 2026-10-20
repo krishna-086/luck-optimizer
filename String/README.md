@@ -27,6 +27,7 @@ Filed under their main topic, but they use this one too.
 | 14 | [Longest Common Prefix](../Array/0014-longest-common-prefix/README.md) | Array | Easy | Solved |
 | 28 | [Find the Index of the First Occurrence in a String](../Two-Pointers/0028-find-the-index-of-the-first-occurrence-in-a-string/README.md) | Two Pointers | Easy | Solved |
 | 67 | [Add Binary](../Math/0067-add-binary/README.md) | Math | Easy | Solved |
+| 76 | [Minimum Window Substring](../Hash-Table/0076-minimum-window-substring/README.md) | Hash Table | Hard | Solved |
 | 125 | [Valid Palindrome](../Two-Pointers/0125-valid-palindrome/README.md) | Two Pointers | Easy | Solved |
 | 151 | [Reverse Words in a String](../Two-Pointers/0151-reverse-words-in-a-string/README.md) | Two Pointers | Medium | Solved |
 | 168 | [Excel Sheet Column Title](../Math/0168-excel-sheet-column-title/README.md) | Math | Easy | Solved |
@@ -37,9 +38,11 @@ Filed under their main topic, but they use this one too.
 | 345 | [Reverse Vowels of a String](../Two-Pointers/0345-reverse-vowels-of-a-string/README.md) | Two Pointers | Easy | Solved |
 | 383 | [Ransom Note](../Hash-Table/0383-ransom-note/README.md) | Hash Table | Easy | Solved |
 | 389 | [Find the Difference](../Hash-Table/0389-find-the-difference/README.md) | Hash Table | Easy | Solved |
+| 424 | [Longest Repeating Character Replacement](../Hash-Table/0424-longest-repeating-character-replacement/README.md) | Hash Table | Medium | Solved |
 | 557 | [Reverse Words in a String III](../Two-Pointers/0557-reverse-words-in-a-string-iii/README.md) | Two Pointers | Easy | Solved |
 | 1768 | [Merge Strings Alternately](../Two-Pointers/1768-merge-strings-alternately/README.md) | Two Pointers | Easy | Solved |
 | 2182 | [Construct String With Repeat Limit](../Hash-Table/2182-construct-string-with-repeat-limit/README.md) | Hash Table | Medium | Solved |
 | 3838 | [Weighted Word Mapping](../Array/3838-weighted-word-mapping/README.md) | Array | Easy | Solved |
 | 3839 | [Number of Prefix Connected Groups](../Array/3839-number-of-prefix-connected-groups/README.md) | Array | Medium | Solved |
 | 3968 | [Maximum Manhattan Distance After All Moves](../Math/3968-maximum-manhattan-distance-after-all-moves/README.md) | Math | Medium | Solved |
+| 3986 | [Number of Elapsed Seconds Between Two Times](../Math/3986-number-of-elapsed-seconds-between-two-times/README.md) | Math | Easy | Solved |

@@ -2979,6 +2979,317 @@
         {"id":2040400548,"status":"Accepted","lang":"cpp","timestamp":1782009872,"runtime":null,"memory":null},
         {"id":2049384316,"status":"Accepted","lang":"cpp","timestamp":1782685389,"runtime":"11 ms","memory":"22.1 MB"}
       ]
+    },
+    "valid-subarrays-with-matching-sum-digits-i": {
+      "id": "3969",
+      "title": "Valid Subarrays With Matching Sum Digits I",
+      "slug": "valid-subarrays-with-matching-sum-digits-i",
+      "difficulty": "Medium",
+      "tags": ["Array","Hash Table","Sliding Window","Enumeration","Prefix Sum"],
+      "topic": "Array",
+      "dir": "Array/3969-valid-subarrays-with-matching-sum-digits-i",
+      "first_attempt_at": 1782010925,
+      "last_attempt_at": 1782010925,
+      "solved_at": 1782010925,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2040437391,"status":"Accepted","lang":"cpp","timestamp":1782010925,"runtime":"311 ms","memory":"32.2 MB"}
+      },
+      "submissions": [
+        {"id":2040437391,"status":"Accepted","lang":"cpp","timestamp":1782010925,"runtime":"311 ms","memory":"32.2 MB"}
+      ]
+    },
+    "number-of-islands": {
+      "id": "200",
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "difficulty": "Medium",
+      "tags": ["Array","Depth-First Search","Breadth-First Search","Union-Find","Matrix"],
+      "topic": "Array",
+      "dir": "Array/0200-number-of-islands",
+      "first_attempt_at": 1782760174,
+      "last_attempt_at": 1782760174,
+      "solved_at": 1782760174,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2050460707,"status":"Accepted","lang":"cpp","timestamp":1782760174,"runtime":"23 ms","memory":"17.5 MB"}
+      },
+      "submissions": [
+        {"id":2050460707,"status":"Accepted","lang":"cpp","timestamp":1782760174,"runtime":"23 ms","memory":"17.5 MB"}
+      ]
+    },
+    "max-area-of-island": {
+      "id": "695",
+      "title": "Max Area of Island",
+      "slug": "max-area-of-island",
+      "difficulty": "Medium",
+      "tags": ["Array","Depth-First Search","Breadth-First Search","Union-Find","Matrix"],
+      "topic": "Array",
+      "dir": "Array/0695-max-area-of-island",
+      "first_attempt_at": 1783163028,
+      "last_attempt_at": 1783350380,
+      "solved_at": 1783163028,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2058187440,"status":"Accepted","lang":"cpp","timestamp":1783350380,"runtime":"0 ms","memory":"27.5 MB"}
+      },
+      "submissions": [
+        {"id":2055614445,"status":"Accepted","lang":"cpp","timestamp":1783163028,"runtime":null,"memory":null},
+        {"id":2058187440,"status":"Accepted","lang":"cpp","timestamp":1783350380,"runtime":"0 ms","memory":"27.5 MB"}
+      ]
+    },
+    "island-perimeter": {
+      "id": "463",
+      "title": "Island Perimeter",
+      "slug": "island-perimeter",
+      "difficulty": "Easy",
+      "tags": ["Array","Depth-First Search","Breadth-First Search","Matrix"],
+      "topic": "Array",
+      "dir": "Array/0463-island-perimeter",
+      "first_attempt_at": 1783184745,
+      "last_attempt_at": 1787606452,
+      "solved_at": 1783184745,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2118968233,"status":"Accepted","lang":"cpp","timestamp":1787606452,"runtime":"35 ms","memory":"109 MB"}
+      },
+      "submissions": [
+        {"id":2056062036,"status":"Accepted","lang":"cpp","timestamp":1783184745,"runtime":null,"memory":null},
+        {"id":2067897994,"status":"Accepted","lang":"cpp","timestamp":1784066961,"runtime":null,"memory":null},
+        {"id":2075145191,"status":"Accepted","lang":"cpp","timestamp":1784592568,"runtime":null,"memory":null},
+        {"id":2091898956,"status":"Accepted","lang":"cpp","timestamp":1785707386,"runtime":null,"memory":null},
+        {"id":2103439588,"status":"Accepted","lang":"cpp","timestamp":1786482377,"runtime":null,"memory":null},
+        {"id":2110707929,"status":"Accepted","lang":"cpp","timestamp":1787006316,"runtime":null,"memory":null},
+        {"id":2118968233,"status":"Accepted","lang":"cpp","timestamp":1787606452,"runtime":"35 ms","memory":"109 MB"}
+      ]
+    },
+    "find-if-path-exists-in-graph": {
+      "id": "1971",
+      "title": "Find if Path Exists in Graph",
+      "slug": "find-if-path-exists-in-graph",
+      "difficulty": "Easy",
+      "tags": ["Depth-First Search","Breadth-First Search","Union-Find","Graph Theory"],
+      "topic": "Depth-First Search",
+      "dir": "Depth-First-Search/1971-find-if-path-exists-in-graph",
+      "first_attempt_at": 1783194221,
+      "last_attempt_at": 1787182995,
+      "solved_at": 1783194221,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2113294541,"status":"Accepted","lang":"cpp","timestamp":1787182995,"runtime":"270 ms","memory":"305.6 MB"}
+      },
+      "submissions": [
+        {"id":2056212168,"status":"Accepted","lang":"cpp","timestamp":1783194221,"runtime":null,"memory":null},
+        {"id":2056220335,"status":"Accepted","lang":"cpp","timestamp":1783195030,"runtime":null,"memory":null},
+        {"id":2063323715,"status":"Accepted","lang":"cpp","timestamp":1783720205,"runtime":null,"memory":null},
+        {"id":2064323276,"status":"Accepted","lang":"cpp","timestamp":1783808386,"runtime":null,"memory":null},
+        {"id":2066714666,"status":"Accepted","lang":"cpp","timestamp":1783987142,"runtime":null,"memory":null},
+        {"id":2069160038,"status":"Accepted","lang":"cpp","timestamp":1784155513,"runtime":null,"memory":null},
+        {"id":2080074515,"status":"Accepted","lang":"cpp","timestamp":1784927161,"runtime":null,"memory":null},
+        {"id":2095944722,"status":"Accepted","lang":"cpp","timestamp":1785972022,"runtime":null,"memory":null},
+        {"id":2113294541,"status":"Accepted","lang":"cpp","timestamp":1787182995,"runtime":"270 ms","memory":"305.6 MB"}
+      ]
+    },
+    "rotting-oranges": {
+      "id": "994",
+      "title": "Rotting Oranges",
+      "slug": "rotting-oranges",
+      "difficulty": "Medium",
+      "tags": ["Array","Breadth-First Search","Matrix"],
+      "topic": "Array",
+      "dir": "Array/0994-rotting-oranges",
+      "first_attempt_at": 1783241506,
+      "last_attempt_at": 1786662698,
+      "solved_at": 1783242285,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2106003653,"status":"Accepted","lang":"cpp","timestamp":1786662698,"runtime":"0 ms","memory":"16.6 MB"}
+      },
+      "submissions": [
+        {"id":2056719173,"status":"Wrong Answer","lang":"cpp","timestamp":1783241506,"runtime":null,"memory":null},
+        {"id":2056719881,"status":"Wrong Answer","lang":"cpp","timestamp":1783241562,"runtime":null,"memory":null},
+        {"id":2056721589,"status":"Wrong Answer","lang":"cpp","timestamp":1783241694,"runtime":null,"memory":null},
+        {"id":2056723785,"status":"Wrong Answer","lang":"cpp","timestamp":1783241860,"runtime":null,"memory":null},
+        {"id":2056729119,"status":"Accepted","lang":"cpp","timestamp":1783242285,"runtime":null,"memory":null},
+        {"id":2070449171,"status":"Accepted","lang":"cpp","timestamp":1784243478,"runtime":null,"memory":null},
+        {"id":2089306952,"status":"Accepted","lang":"cpp","timestamp":1785533621,"runtime":null,"memory":null},
+        {"id":2090532420,"status":"Accepted","lang":"cpp","timestamp":1785614557,"runtime":null,"memory":null},
+        {"id":2094646074,"status":"Accepted","lang":"cpp","timestamp":1785887074,"runtime":null,"memory":null},
+        {"id":2104781455,"status":"Accepted","lang":"cpp","timestamp":1786572910,"runtime":null,"memory":null},
+        {"id":2106003653,"status":"Accepted","lang":"cpp","timestamp":1786662698,"runtime":"0 ms","memory":"16.6 MB"}
+      ]
+    },
+    "course-schedule": {
+      "id": "207",
+      "title": "Course Schedule",
+      "slug": "course-schedule",
+      "difficulty": "Medium",
+      "tags": ["Depth-First Search","Breadth-First Search","Graph Theory","Topological Sort","Directed Acyclic Graph"],
+      "topic": "Depth-First Search",
+      "dir": "Depth-First-Search/0207-course-schedule",
+      "first_attempt_at": 1783254915,
+      "last_attempt_at": 1785191189,
+      "solved_at": 1783254915,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2083975658,"status":"Accepted","lang":"cpp","timestamp":1785191189,"runtime":"8 ms","memory":"20.4 MB"}
+      },
+      "submissions": [
+        {"id":2056900531,"status":"Accepted","lang":"cpp","timestamp":1783254915,"runtime":null,"memory":null},
+        {"id":2056915448,"status":"Wrong Answer","lang":"cpp","timestamp":1783255968,"runtime":null,"memory":null},
+        {"id":2056919279,"status":"Accepted","lang":"cpp","timestamp":1783256228,"runtime":null,"memory":null},
+        {"id":2065466814,"status":"Accepted","lang":"cpp","timestamp":1783893675,"runtime":null,"memory":null},
+        {"id":2083975658,"status":"Accepted","lang":"cpp","timestamp":1785191189,"runtime":"8 ms","memory":"20.4 MB"}
+      ]
+    },
+    "01-matrix": {
+      "id": "542",
+      "title": "01 Matrix",
+      "slug": "01-matrix",
+      "difficulty": "Medium",
+      "tags": ["Array","Dynamic Programming","Breadth-First Search","Matrix"],
+      "topic": "Array",
+      "dir": "Array/0542-01-matrix",
+      "first_attempt_at": 1783503852,
+      "last_attempt_at": 1787268348,
+      "solved_at": 1783503852,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2114495991,"status":"Accepted","lang":"cpp","timestamp":1787268348,"runtime":"35 ms","memory":"36.1 MB"}
+      },
+      "submissions": [
+        {"id":2060328840,"status":"Accepted","lang":"cpp","timestamp":1783503852,"runtime":null,"memory":null},
+        {"id":2074220171,"status":"Accepted","lang":"cpp","timestamp":1784530110,"runtime":null,"memory":null},
+        {"id":2078874884,"status":"Accepted","lang":"cpp","timestamp":1784840157,"runtime":null,"memory":null},
+        {"id":2093224170,"status":"Accepted","lang":"cpp","timestamp":1785793052,"runtime":null,"memory":null},
+        {"id":2114495991,"status":"Accepted","lang":"cpp","timestamp":1787268348,"runtime":"35 ms","memory":"36.1 MB"}
+      ]
+    },
+    "number-of-elapsed-seconds-between-two-times": {
+      "id": "3986",
+      "title": "Number of Elapsed Seconds Between Two Times",
+      "slug": "number-of-elapsed-seconds-between-two-times",
+      "difficulty": "Easy",
+      "tags": ["Math","String"],
+      "topic": "Math",
+      "dir": "Math/3986-number-of-elapsed-seconds-between-two-times",
+      "first_attempt_at": 1783824825,
+      "last_attempt_at": 1785357105,
+      "solved_at": 1783824825,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2086689127,"status":"Accepted","lang":"cpp","timestamp":1785357105,"runtime":"0 ms","memory":"9.8 MB"}
+      },
+      "submissions": [
+        {"id":2064427642,"status":"Accepted","lang":"cpp","timestamp":1783824825,"runtime":null,"memory":null},
+        {"id":2086689127,"status":"Accepted","lang":"cpp","timestamp":1785357105,"runtime":"0 ms","memory":"9.8 MB"}
+      ]
+    },
+    "minimum-total-cost-to-process-all-elements": {
+      "id": "3987",
+      "title": "Minimum Total Cost to Process All Elements",
+      "slug": "minimum-total-cost-to-process-all-elements",
+      "difficulty": "Medium",
+      "tags": ["Array","Math","Simulation"],
+      "topic": "Array",
+      "dir": "Array/3987-minimum-total-cost-to-process-all-elements",
+      "first_attempt_at": 1783827296,
+      "last_attempt_at": 1786136108,
+      "solved_at": 1783827296,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2098459616,"status":"Accepted","lang":"cpp","timestamp":1786136108,"runtime":"15 ms","memory":"169.5 MB"}
+      },
+      "submissions": [
+        {"id":2064508070,"status":"Accepted","lang":"cpp","timestamp":1783827296,"runtime":null,"memory":null},
+        {"id":2071618326,"status":"Compile Error","lang":"cpp","timestamp":1784330491,"runtime":null,"memory":null},
+        {"id":2071618492,"status":"Accepted","lang":"cpp","timestamp":1784330534,"runtime":null,"memory":null},
+        {"id":2098459616,"status":"Accepted","lang":"cpp","timestamp":1786136108,"runtime":"15 ms","memory":"169.5 MB"}
+      ]
+    },
+    "max-consecutive-ones-iii": {
+      "id": "1004",
+      "title": "Max Consecutive Ones III",
+      "slug": "max-consecutive-ones-iii",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search","Sliding Window","Prefix Sum"],
+      "topic": "Array",
+      "dir": "Array/1004-max-consecutive-ones-iii",
+      "first_attempt_at": 1791988954,
+      "last_attempt_at": 1791988954,
+      "solved_at": 1791988954,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2172218361,"status":"Accepted","lang":"cpp","timestamp":1791988954,"runtime":"0 ms","memory":"79.5 MB"}
+      },
+      "submissions": [
+        {"id":2172218361,"status":"Accepted","lang":"cpp","timestamp":1791988954,"runtime":"0 ms","memory":"79.5 MB"}
+      ]
+    },
+    "longest-repeating-character-replacement": {
+      "id": "424",
+      "title": "Longest Repeating Character Replacement",
+      "slug": "longest-repeating-character-replacement",
+      "difficulty": "Medium",
+      "tags": ["Hash Table","String","Sliding Window"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0424-longest-repeating-character-replacement",
+      "first_attempt_at": 1792003221,
+      "last_attempt_at": 1792003526,
+      "solved_at": 1792003221,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2172448875,"status":"Accepted","lang":"cpp","timestamp":1792003526,"runtime":"8 ms","memory":"11 MB"}
+      },
+      "submissions": [
+        {"id":2172444981,"status":"Accepted","lang":"cpp","timestamp":1792003221,"runtime":null,"memory":null},
+        {"id":2172447131,"status":"Accepted","lang":"cpp","timestamp":1792003388,"runtime":null,"memory":null},
+        {"id":2172448654,"status":"Accepted","lang":"cpp","timestamp":1792003508,"runtime":null,"memory":null},
+        {"id":2172448875,"status":"Accepted","lang":"cpp","timestamp":1792003526,"runtime":"8 ms","memory":"11 MB"}
+      ]
+    },
+    "minimum-window-substring": {
+      "id": "76",
+      "title": "Minimum Window Substring",
+      "slug": "minimum-window-substring",
+      "difficulty": "Hard",
+      "tags": ["Hash Table","String","Sliding Window"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0076-minimum-window-substring",
+      "first_attempt_at": 1792006419,
+      "last_attempt_at": 1792006419,
+      "solved_at": 1792006419,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2172481037,"status":"Accepted","lang":"cpp","timestamp":1792006419,"runtime":"16 ms","memory":"11.3 MB"}
+      },
+      "submissions": [
+        {"id":2172481037,"status":"Accepted","lang":"cpp","timestamp":1792006419,"runtime":"16 ms","memory":"11.3 MB"}
+      ]
+    },
+    "asteroid-collision": {
+      "id": "735",
+      "title": "Asteroid Collision",
+      "slug": "asteroid-collision",
+      "difficulty": "Medium",
+      "tags": ["Array","Stack","Simulation"],
+      "topic": "Array",
+      "dir": "Array/0735-asteroid-collision",
+      "first_attempt_at": 1792008813,
+      "last_attempt_at": 1792009278,
+      "solved_at": 1792009278,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2172505734,"status":"Accepted","lang":"cpp","timestamp":1792009278,"runtime":"3 ms","memory":"22 MB"}
+      },
+      "submissions": [
+        {"id":2172502027,"status":"Wrong Answer","lang":"cpp","timestamp":1792008813,"runtime":null,"memory":null},
+        {"id":2172505734,"status":"Accepted","lang":"cpp","timestamp":1792009278,"runtime":"3 ms","memory":"22 MB"}
+      ]
+    },
+    "min-stack": {
+      "id": "155",
+      "title": "Min Stack",
+      "slug": "min-stack",
+      "difficulty": "Medium",
+      "tags": ["Stack","Design"],
+      "topic": "Stack",
+      "dir": "Stack/0155-min-stack",
+      "first_attempt_at": 1792010962,
+      "last_attempt_at": 1792010962,
+      "solved_at": 1792010962,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2172517849,"status":"Accepted","lang":"cpp","timestamp":1792010962,"runtime":"212 ms","memory":"152.2 MB"}
+      },
+      "submissions": [
+        {"id":2172517849,"status":"Accepted","lang":"cpp","timestamp":1792010962,"runtime":"212 ms","memory":"152.2 MB"}
+      ]
     }
   }
 }
