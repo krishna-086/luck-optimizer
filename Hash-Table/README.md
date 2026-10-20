@@ -4,12 +4,16 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 4 | 4 | 0 | 3 | 1 | 0 |
+| 8 | 8 | 0 | 6 | 2 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
+| 3 | [Longest Substring Without Repeating Characters](../Hash-Table/0003-longest-substring-without-repeating-characters/README.md) | Medium | Solved | 6 | cpp | 2026-02-16 |
 | 13 | [Roman to Integer](../Hash-Table/0013-roman-to-integer/README.md) | Easy | Solved | 1 | cpp | 2024-12-15 |
 | 202 | [Happy Number](../Hash-Table/0202-happy-number/README.md) | Easy | Solved | 1 | cpp | 2024-12-16 |
+| 205 | [Isomorphic Strings](../Hash-Table/0205-isomorphic-strings/README.md) | Easy | Solved | 2 | cpp | 2026-02-16 |
+| 242 | [Valid Anagram](../Hash-Table/0242-valid-anagram/README.md) | Easy | Solved | 2 | cpp | 2026-02-16 |
+| 383 | [Ransom Note](../Hash-Table/0383-ransom-note/README.md) | Easy | Solved | 1 | cpp | 2026-02-16 |
 | 389 | [Find the Difference](../Hash-Table/0389-find-the-difference/README.md) | Easy | Solved | 2 | cpp | 2026-02-10 |
 | 2182 | [Construct String With Repeat Limit](../Hash-Table/2182-construct-string-with-repeat-limit/README.md) | Medium | Solved | 2 | cpp | 2024-12-17 |
 
@@ -28,3 +32,4 @@ Filed under their main topic, but they use this one too.
 | 229 | [Majority Element II](../Array/0229-majority-element-ii/README.md) | Array | Medium | Solved |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Array | Easy | Solved |
 | 560 | [Subarray Sum Equals K](../Array/0560-subarray-sum-equals-k/README.md) | Array | Medium | Solved |
+| 3839 | [Number of Prefix Connected Groups](../Array/3839-number-of-prefix-connected-groups/README.md) | Array | Medium | Solved |

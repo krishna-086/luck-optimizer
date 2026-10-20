@@ -4,20 +4,20 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 75 | 75 | 0 | 49 | 25 | 1 | 2026-10-15 |
+| 90 | 90 | 0 | 57 | 32 | 1 | 2026-10-15 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 45 | 45 | 0 | 24 | 20 | 1 |
+| [Array](Array/README.md) | 52 | 52 | 0 | 27 | 24 | 1 |
 | [Math](Math/README.md) | 12 | 12 | 0 | 10 | 2 | 0 |
-| [Two Pointers](Two-Pointers/README.md) | 6 | 6 | 0 | 5 | 1 | 0 |
-| [Hash Table](Hash-Table/README.md) | 4 | 4 | 0 | 3 | 1 | 0 |
-| [String](String/README.md) | 4 | 4 | 0 | 4 | 0 | 0 |
+| [Hash Table](Hash-Table/README.md) | 8 | 8 | 0 | 6 | 2 | 0 |
+| [Two Pointers](Two-Pointers/README.md) | 7 | 7 | 0 | 6 | 1 | 0 |
+| [String](String/README.md) | 5 | 5 | 0 | 4 | 1 | 0 |
+| [Linked List](Linked-List/README.md) | 3 | 3 | 0 | 2 | 1 | 0 |
 | [Tree](Tree/README.md) | 2 | 2 | 0 | 1 | 1 | 0 |
 | [Dynamic Programming](Dynamic-Programming/README.md) | 1 | 1 | 0 | 1 | 0 | 0 |
-| [Linked List](Linked-List/README.md) | 1 | 1 | 0 | 1 | 0 | 0 |
 
 ## Recent activity
 
@@ -28,6 +28,9 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-15 | [70. Climbing Stairs](Math/0070-climbing-stairs/README.md) | Accepted | cpp |
 | 2026-10-15 | [70. Climbing Stairs](Math/0070-climbing-stairs/README.md) | Wrong Answer | cpp |
 | 2026-10-15 | [20. Valid Parentheses](String/0020-valid-parentheses/README.md) | Accepted | cpp |
+| 2026-10-14 | [3. Longest Substring Without Repeating Characters](Hash-Table/0003-longest-substring-without-repeating-characters/README.md) | Accepted | cpp |
+| 2026-10-14 | [3. Longest Substring Without Repeating Characters](Hash-Table/0003-longest-substring-without-repeating-characters/README.md) | Accepted | cpp |
+| 2026-10-14 | [3. Longest Substring Without Repeating Characters](Hash-Table/0003-longest-substring-without-repeating-characters/README.md) | Wrong Answer | cpp |
 | 2026-10-14 | [53. Maximum Subarray](Array/0053-maximum-subarray/README.md) | Accepted | cpp |
 | 2026-10-14 | [53. Maximum Subarray](Array/0053-maximum-subarray/README.md) | Accepted | cpp |
 | 2026-10-14 | [53. Maximum Subarray](Array/0053-maximum-subarray/README.md) | Wrong Answer | cpp |
@@ -35,17 +38,15 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-06-15 | [152. Maximum Product Subarray](Array/0152-maximum-product-subarray/README.md) | Accepted | cpp |
 | 2026-06-12 | [112. Path Sum](Tree/0112-path-sum/README.md) | Accepted | cpp |
 | 2026-06-12 | [112. Path Sum](Tree/0112-path-sum/README.md) | Accepted | cpp |
-| 2026-06-12 | [112. Path Sum](Tree/0112-path-sum/README.md) | Accepted | cpp |
-| 2026-06-04 | [88. Merge Sorted Array](Array/0088-merge-sorted-array/README.md) | Accepted | cpp |
-| 2026-06-04 | [88. Merge Sorted Array](Array/0088-merge-sorted-array/README.md) | Wrong Answer | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 0 | 9 |
+| 2026-10 | 0 | 12 |
 | 2026-06 | 0 | 16 |
-| 2026-02 | 20 | 42 |
+| 2026-03 | 0 | 1 |
+| 2026-02 | 35 | 77 |
 | 2026-01 | 12 | 39 |
 | 2025-12 | 11 | 20 |
 | 2025-01 | 1 | 4 |
@@ -59,6 +60,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | # | Problem | Topic | Difficulty | Status | Submissions | First tried | Solved on |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [Two Sum](Array/0001-two-sum/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-01-27 | 2026-01-27 |
+| 3 | [Longest Substring Without Repeating Characters](Hash-Table/0003-longest-substring-without-repeating-characters/README.md) | [Hash Table](Hash-Table/README.md) | Medium | Solved | 6 | 2026-02-16 | 2026-02-16 |
 | 7 | [Reverse Integer](Math/0007-reverse-integer/README.md) | [Math](Math/README.md) | Medium | Solved | 11 | 2024-05-31 | 2024-05-31 |
 | 9 | [Palindrome Number](Math/0009-palindrome-number/README.md) | [Math](Math/README.md) | Easy | Solved | 4 | 2024-05-31 | 2024-05-31 |
 | 13 | [Roman to Integer](Hash-Table/0013-roman-to-integer/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 1 | 2024-12-15 | 2024-12-15 |
@@ -86,6 +88,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 70 | [Climbing Stairs](Math/0070-climbing-stairs/README.md) | [Math](Math/README.md) | Easy | Solved | 10 | 2026-02-02 | 2026-02-02 |
 | 73 | [Set Matrix Zeroes](Array/0073-set-matrix-zeroes/README.md) | [Array](Array/README.md) | Medium | Solved | 4 | 2026-01-29 | 2026-01-29 |
 | 75 | [Sort Colors](Array/0075-sort-colors/README.md) | [Array](Array/README.md) | Medium | Solved | 6 | 2024-12-10 | 2024-12-10 |
+| 81 | [Search in Rotated Sorted Array II](Array/0081-search-in-rotated-sorted-array-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-02-12 | 2026-02-12 |
 | 88 | [Merge Sorted Array](Array/0088-merge-sorted-array/README.md) | [Array](Array/README.md) | Easy | Solved | 4 | 2025-12-28 | 2025-12-28 |
 | 112 | [Path Sum](Tree/0112-path-sum/README.md) | [Tree](Tree/README.md) | Easy | Solved | 6 | 2025-12-29 | 2025-12-29 |
 | 118 | [Pascal's Triangle](Array/0118-pascals-triangle/README.md) | [Array](Array/README.md) | Easy | Solved | 4 | 2025-12-30 | 2025-12-30 |
@@ -96,29 +99,38 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 136 | [Single Number](Array/0136-single-number/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2024-12-09 | 2024-12-09 |
 | 151 | [Reverse Words in a String](Two-Pointers/0151-reverse-words-in-a-string/README.md) | [Two Pointers](Two-Pointers/README.md) | Medium | Solved | 1 | 2026-02-03 | 2026-02-03 |
 | 152 | [Maximum Product Subarray](Array/0152-maximum-product-subarray/README.md) | [Array](Array/README.md) | Medium | Solved | 5 | 2026-02-03 | 2026-02-03 |
+| 153 | [Find Minimum in Rotated Sorted Array](Array/0153-find-minimum-in-rotated-sorted-array/README.md) | [Array](Array/README.md) | Medium | Solved | 4 | 2026-02-12 | 2026-02-12 |
 | 168 | [Excel Sheet Column Title](Math/0168-excel-sheet-column-title/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2026-02-10 | 2026-02-10 |
 | 169 | [Majority Element](Array/0169-majority-element/README.md) | [Array](Array/README.md) | Easy | Solved | 3 | 2024-12-11 | 2024-12-11 |
 | 171 | [Excel Sheet Column Number](Math/0171-excel-sheet-column-number/README.md) | [Math](Math/README.md) | Easy | Solved | 2 | 2026-02-10 | 2026-02-10 |
 | 189 | [Rotate Array](Array/0189-rotate-array/README.md) | [Array](Array/README.md) | Medium | Solved | 5 | 2024-06-14 | 2024-06-14 |
 | 202 | [Happy Number](Hash-Table/0202-happy-number/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 1 | 2024-12-16 | 2024-12-16 |
+| 203 | [Remove Linked List Elements](Linked-List/0203-remove-linked-list-elements/README.md) | [Linked List](Linked-List/README.md) | Easy | Solved | 2 | 2026-02-19 | 2026-02-19 |
+| 205 | [Isomorphic Strings](Hash-Table/0205-isomorphic-strings/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 2 | 2026-02-16 | 2026-02-16 |
 | 217 | [Contains Duplicate](Array/0217-contains-duplicate/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2024-12-22 | 2024-12-22 |
 | 219 | [Contains Duplicate II](Array/0219-contains-duplicate-ii/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-02-07 | 2026-02-07 |
 | 228 | [Summary Ranges](Array/0228-summary-ranges/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-02-07 | 2026-02-07 |
 | 229 | [Majority Element II](Array/0229-majority-element-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 5 | 2026-01-31 | 2026-01-31 |
 | 231 | [Power of Two](Math/0231-power-of-two/README.md) | [Math](Math/README.md) | Easy | Solved | 3 | 2024-12-12 | 2024-12-12 |
+| 237 | [Delete Node in a Linked List](Linked-List/0237-delete-node-in-a-linked-list/README.md) | [Linked List](Linked-List/README.md) | Medium | Solved | 1 | 2026-02-19 | 2026-02-19 |
 | 238 | [Product of Array Except Self](Array/0238-product-of-array-except-self/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-01-08 | 2026-01-08 |
 | 240 | [Search a 2D Matrix II](Array/0240-search-a-2d-matrix-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-02-09 | 2026-02-09 |
+| 242 | [Valid Anagram](Hash-Table/0242-valid-anagram/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 2 | 2026-02-16 | 2026-02-16 |
 | 258 | [Add Digits](Math/0258-add-digits/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2024-12-14 | 2024-12-14 |
 | 268 | [Missing Number](Array/0268-missing-number/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2024-12-08 | 2024-12-08 |
 | 283 | [Move Zeroes](Array/0283-move-zeroes/README.md) | [Array](Array/README.md) | Easy | Solved | 4 | 2024-06-15 | 2024-06-15 |
 | 338 | [Counting Bits](Dynamic-Programming/0338-counting-bits/README.md) | [Dynamic Programming](Dynamic-Programming/README.md) | Easy | Solved | 4 | 2025-01-14 | 2025-01-14 |
 | 344 | [Reverse String](Two-Pointers/0344-reverse-string/README.md) | [Two Pointers](Two-Pointers/README.md) | Easy | Solved | 3 | 2025-12-08 | 2025-12-08 |
+| 345 | [Reverse Vowels of a String](Two-Pointers/0345-reverse-vowels-of-a-string/README.md) | [Two Pointers](Two-Pointers/README.md) | Easy | Solved | 3 | 2026-02-18 | 2026-02-18 |
+| 383 | [Ransom Note](Hash-Table/0383-ransom-note/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 1 | 2026-02-16 | 2026-02-16 |
 | 389 | [Find the Difference](Hash-Table/0389-find-the-difference/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 2 | 2026-02-10 | 2026-02-10 |
+| 455 | [Assign Cookies](Array/0455-assign-cookies/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-02-13 | 2026-02-13 |
 | 485 | [Max Consecutive Ones](Array/0485-max-consecutive-ones/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2024-10-29 | 2024-10-29 |
 | 493 | [Reverse Pairs](Array/0493-reverse-pairs/README.md) | [Array](Array/README.md) | Hard | Solved | 3 | 2026-02-05 | 2026-02-05 |
 | 509 | [Fibonacci Number](Math/0509-fibonacci-number/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2024-06-05 | 2024-06-05 |
 | 557 | [Reverse Words in a String III](Two-Pointers/0557-reverse-words-in-a-string-iii/README.md) | [Two Pointers](Two-Pointers/README.md) | Easy | Solved | 1 | 2026-02-05 | 2026-02-05 |
 | 560 | [Subarray Sum Equals K](Array/0560-subarray-sum-equals-k/README.md) | [Array](Array/README.md) | Medium | Solved | 7 | 2026-01-30 | 2026-01-30 |
+| 605 | [Can Place Flowers](Array/0605-can-place-flowers/README.md) | [Array](Array/README.md) | Easy | Solved | 5 | 2026-02-11 | 2026-02-11 |
 | 674 | [Longest Continuous Increasing Subsequence](Array/0674-longest-continuous-increasing-subsequence/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-02-10 | 2026-02-11 |
 | 704 | [Binary Search](Array/0704-binary-search/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2024-12-21 | 2024-12-21 |
 | 769 | [Max Chunks To Make Sorted](Array/0769-max-chunks-to-make-sorted/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2024-12-20 | 2024-12-20 |
@@ -132,4 +144,8 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2182 | [Construct String With Repeat Limit](Hash-Table/2182-construct-string-with-repeat-limit/README.md) | [Hash Table](Hash-Table/README.md) | Medium | Solved | 2 | 2024-12-17 | 2024-12-17 |
 | 2415 | [Reverse Odd Levels of Binary Tree](Tree/2415-reverse-odd-levels-of-binary-tree/README.md) | [Tree](Tree/README.md) | Medium | Solved | 1 | 2024-12-20 | 2024-12-20 |
 | 2769 | [Find the Maximum Achievable Number](Math/2769-find-the-maximum-achievable-number/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2024-12-11 | 2024-12-11 |
+| 2785 | [Sort Vowels in a String](String/2785-sort-vowels-in-a-string/README.md) | [String](String/README.md) | Medium | Solved | 1 | 2026-02-19 | 2026-02-19 |
 | 3264 | [Final Array State After K Multiplication Operations I](Array/3264-final-array-state-after-k-multiplication-operations-i/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2024-12-16 | 2024-12-16 |
+| 3838 | [Weighted Word Mapping](Array/3838-weighted-word-mapping/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-02-14 | 2026-02-14 |
+| 3839 | [Number of Prefix Connected Groups](Array/3839-number-of-prefix-connected-groups/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-02-14 | 2026-02-14 |
+| 3840 | [House Robber V](Array/3840-house-robber-v/README.md) | [Array](Array/README.md) | Medium | Solved | 6 | 2026-02-14 | 2026-02-14 |

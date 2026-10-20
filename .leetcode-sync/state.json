@@ -1490,6 +1490,300 @@
       "submissions": [
         {"id":1915044779,"status":"Accepted","lang":"cpp","timestamp":1770748843,"runtime":"1 ms","memory":"9.7 MB"}
       ]
+    },
+    "can-place-flowers": {
+      "id": "605",
+      "title": "Can Place Flowers",
+      "slug": "can-place-flowers",
+      "difficulty": "Easy",
+      "tags": ["Array","Greedy"],
+      "topic": "Array",
+      "dir": "Array/0605-can-place-flowers",
+      "first_attempt_at": 1770757371,
+      "last_attempt_at": 1770758895,
+      "solved_at": 1770758546,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1915155359,"status":"Accepted","lang":"cpp","timestamp":1770758895,"runtime":"0 ms","memory":"24.1 MB"}
+      },
+      "submissions": [
+        {"id":1915144044,"status":"Wrong Answer","lang":"cpp","timestamp":1770757371,"runtime":null,"memory":null},
+        {"id":1915145213,"status":"Wrong Answer","lang":"cpp","timestamp":1770757513,"runtime":null,"memory":null},
+        {"id":1915146980,"status":"Runtime Error","lang":"cpp","timestamp":1770757742,"runtime":null,"memory":null},
+        {"id":1915152901,"status":"Accepted","lang":"cpp","timestamp":1770758546,"runtime":null,"memory":null},
+        {"id":1915155359,"status":"Accepted","lang":"cpp","timestamp":1770758895,"runtime":"0 ms","memory":"24.1 MB"}
+      ]
+    },
+    "search-in-rotated-sorted-array-ii": {
+      "id": "81",
+      "title": "Search in Rotated Sorted Array II",
+      "slug": "search-in-rotated-sorted-array-ii",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0081-search-in-rotated-sorted-array-ii",
+      "first_attempt_at": 1770849905,
+      "last_attempt_at": 1770850473,
+      "solved_at": 1770850473,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1916347426,"status":"Accepted","lang":"cpp","timestamp":1770850473,"runtime":"0 ms","memory":"18 MB"}
+      },
+      "submissions": [
+        {"id":1916344077,"status":"Wrong Answer","lang":"cpp","timestamp":1770849905,"runtime":null,"memory":null},
+        {"id":1916347426,"status":"Accepted","lang":"cpp","timestamp":1770850473,"runtime":"0 ms","memory":"18 MB"}
+      ]
+    },
+    "find-minimum-in-rotated-sorted-array": {
+      "id": "153",
+      "title": "Find Minimum in Rotated Sorted Array",
+      "slug": "find-minimum-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0153-find-minimum-in-rotated-sorted-array",
+      "first_attempt_at": 1770851297,
+      "last_attempt_at": 1770855592,
+      "solved_at": 1770855592,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1916377712,"status":"Accepted","lang":"cpp","timestamp":1770855592,"runtime":"0 ms","memory":"14.2 MB"}
+      },
+      "submissions": [
+        {"id":1916352311,"status":"Wrong Answer","lang":"cpp","timestamp":1770851297,"runtime":null,"memory":null},
+        {"id":1916353705,"status":"Wrong Answer","lang":"cpp","timestamp":1770851527,"runtime":null,"memory":null},
+        {"id":1916356434,"status":"Wrong Answer","lang":"cpp","timestamp":1770851996,"runtime":null,"memory":null},
+        {"id":1916377712,"status":"Accepted","lang":"cpp","timestamp":1770855592,"runtime":"0 ms","memory":"14.2 MB"}
+      ]
+    },
+    "assign-cookies": {
+      "id": "455",
+      "title": "Assign Cookies",
+      "slug": "assign-cookies",
+      "difficulty": "Easy",
+      "tags": ["Array","Two Pointers","Greedy","Sorting","Quicksort"],
+      "topic": "Array",
+      "dir": "Array/0455-assign-cookies",
+      "first_attempt_at": 1770975805,
+      "last_attempt_at": 1770975920,
+      "solved_at": 1770975920,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1917863322,"status":"Accepted","lang":"cpp","timestamp":1770975920,"runtime":"5 ms","memory":"44.9 MB"}
+      },
+      "submissions": [
+        {"id":1917861819,"status":"Wrong Answer","lang":"cpp","timestamp":1770975805,"runtime":null,"memory":null},
+        {"id":1917863322,"status":"Accepted","lang":"cpp","timestamp":1770975920,"runtime":"5 ms","memory":"44.9 MB"}
+      ]
+    },
+    "weighted-word-mapping": {
+      "id": "3838",
+      "title": "Weighted Word Mapping",
+      "slug": "weighted-word-mapping",
+      "difficulty": "Easy",
+      "tags": ["Array","String","Simulation"],
+      "topic": "Array",
+      "dir": "Array/3838-weighted-word-mapping",
+      "first_attempt_at": 1771080581,
+      "last_attempt_at": 1771080581,
+      "solved_at": 1771080581,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1919030840,"status":"Accepted","lang":"cpp","timestamp":1771080581,"runtime":"3 ms","memory":"43.7 MB"}
+      },
+      "submissions": [
+        {"id":1919030840,"status":"Accepted","lang":"cpp","timestamp":1771080581,"runtime":"3 ms","memory":"43.7 MB"}
+      ]
+    },
+    "number-of-prefix-connected-groups": {
+      "id": "3839",
+      "title": "Number of Prefix Connected Groups",
+      "slug": "number-of-prefix-connected-groups",
+      "difficulty": "Medium",
+      "tags": ["Array","Hash Table","String","Counting"],
+      "topic": "Array",
+      "dir": "Array/3839-number-of-prefix-connected-groups",
+      "first_attempt_at": 1771082439,
+      "last_attempt_at": 1771082439,
+      "solved_at": 1771082439,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1919105407,"status":"Accepted","lang":"cpp","timestamp":1771082439,"runtime":"122 ms","memory":"123 MB"}
+      },
+      "submissions": [
+        {"id":1919105407,"status":"Accepted","lang":"cpp","timestamp":1771082439,"runtime":"122 ms","memory":"123 MB"}
+      ]
+    },
+    "house-robber-v": {
+      "id": "3840",
+      "title": "House Robber V",
+      "slug": "house-robber-v",
+      "difficulty": "Medium",
+      "tags": ["Array","Dynamic Programming"],
+      "topic": "Array",
+      "dir": "Array/3840-house-robber-v",
+      "first_attempt_at": 1771084741,
+      "last_attempt_at": 1774565835,
+      "solved_at": 1771085022,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1960392771,"status":"Accepted","lang":"cpp","timestamp":1774565835,"runtime":"5 ms","memory":"244.8 MB"}
+      },
+      "submissions": [
+        {"id":1919170368,"status":"Wrong Answer","lang":"cpp","timestamp":1771084741,"runtime":null,"memory":null},
+        {"id":1919172882,"status":"Wrong Answer","lang":"cpp","timestamp":1771084825,"runtime":null,"memory":null},
+        {"id":1919174236,"status":"Runtime Error","lang":"cpp","timestamp":1771084908,"runtime":null,"memory":null},
+        {"id":1919175726,"status":"Compile Error","lang":"cpp","timestamp":1771085007,"runtime":null,"memory":null},
+        {"id":1919175943,"status":"Accepted","lang":"cpp","timestamp":1771085022,"runtime":null,"memory":null},
+        {"id":1960392771,"status":"Accepted","lang":"cpp","timestamp":1774565835,"runtime":"5 ms","memory":"244.8 MB"}
+      ]
+    },
+    "isomorphic-strings": {
+      "id": "205",
+      "title": "Isomorphic Strings",
+      "slug": "isomorphic-strings",
+      "difficulty": "Easy",
+      "tags": ["Hash Table","String"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0205-isomorphic-strings",
+      "first_attempt_at": 1771189669,
+      "last_attempt_at": 1771190112,
+      "solved_at": 1771190112,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1920442743,"status":"Accepted","lang":"cpp","timestamp":1771190112,"runtime":"0 ms","memory":"9.4 MB"}
+      },
+      "submissions": [
+        {"id":1920439731,"status":"Wrong Answer","lang":"cpp","timestamp":1771189669,"runtime":null,"memory":null},
+        {"id":1920442743,"status":"Accepted","lang":"cpp","timestamp":1771190112,"runtime":"0 ms","memory":"9.4 MB"}
+      ]
+    },
+    "valid-anagram": {
+      "id": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "difficulty": "Easy",
+      "tags": ["Hash Table","String","Sorting"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0242-valid-anagram",
+      "first_attempt_at": 1771190673,
+      "last_attempt_at": 1771191039,
+      "solved_at": 1771190673,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1920448899,"status":"Accepted","lang":"cpp","timestamp":1771191039,"runtime":"6 ms","memory":"9.6 MB"}
+      },
+      "submissions": [
+        {"id":1920446445,"status":"Accepted","lang":"cpp","timestamp":1771190673,"runtime":null,"memory":null},
+        {"id":1920448899,"status":"Accepted","lang":"cpp","timestamp":1771191039,"runtime":"6 ms","memory":"9.6 MB"}
+      ]
+    },
+    "longest-substring-without-repeating-characters": {
+      "id": "3",
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "tags": ["Hash Table","String","Sliding Window"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0003-longest-substring-without-repeating-characters",
+      "first_attempt_at": 1771244276,
+      "last_attempt_at": 1791986065,
+      "solved_at": 1771244888,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2172178172,"status":"Accepted","lang":"cpp","timestamp":1791986065,"runtime":"346 ms","memory":"81.1 MB"}
+      },
+      "submissions": [
+        {"id":1921007169,"status":"Wrong Answer","lang":"cpp","timestamp":1771244276,"runtime":null,"memory":null},
+        {"id":1921008308,"status":"Wrong Answer","lang":"cpp","timestamp":1771244375,"runtime":null,"memory":null},
+        {"id":1921014232,"status":"Accepted","lang":"cpp","timestamp":1771244888,"runtime":null,"memory":null},
+        {"id":2172164504,"status":"Wrong Answer","lang":"cpp","timestamp":1791985098,"runtime":null,"memory":null},
+        {"id":2172176397,"status":"Accepted","lang":"cpp","timestamp":1791985939,"runtime":null,"memory":null},
+        {"id":2172178172,"status":"Accepted","lang":"cpp","timestamp":1791986065,"runtime":"346 ms","memory":"81.1 MB"}
+      ]
+    },
+    "ransom-note": {
+      "id": "383",
+      "title": "Ransom Note",
+      "slug": "ransom-note",
+      "difficulty": "Easy",
+      "tags": ["Hash Table","String","Counting"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0383-ransom-note",
+      "first_attempt_at": 1771252425,
+      "last_attempt_at": 1771252425,
+      "solved_at": 1771252425,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1921123786,"status":"Accepted","lang":"cpp","timestamp":1771252425,"runtime":"16 ms","memory":"12.1 MB"}
+      },
+      "submissions": [
+        {"id":1921123786,"status":"Accepted","lang":"cpp","timestamp":1771252425,"runtime":"16 ms","memory":"12.1 MB"}
+      ]
+    },
+    "reverse-vowels-of-a-string": {
+      "id": "345",
+      "title": "Reverse Vowels of a String",
+      "slug": "reverse-vowels-of-a-string",
+      "difficulty": "Easy",
+      "tags": ["Two Pointers","String"],
+      "topic": "Two Pointers",
+      "dir": "Two-Pointers/0345-reverse-vowels-of-a-string",
+      "first_attempt_at": 1771361953,
+      "last_attempt_at": 1771416541,
+      "solved_at": 1771362011,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1923234138,"status":"Accepted","lang":"cpp","timestamp":1771416541,"runtime":"4 ms","memory":"11.2 MB"}
+      },
+      "submissions": [
+        {"id":1922606724,"status":"Compile Error","lang":"cpp","timestamp":1771361953,"runtime":null,"memory":null},
+        {"id":1922607175,"status":"Accepted","lang":"cpp","timestamp":1771362011,"runtime":null,"memory":null},
+        {"id":1923234138,"status":"Accepted","lang":"cpp","timestamp":1771416541,"runtime":"4 ms","memory":"11.2 MB"}
+      ]
+    },
+    "sort-vowels-in-a-string": {
+      "id": "2785",
+      "title": "Sort Vowels in a String",
+      "slug": "sort-vowels-in-a-string",
+      "difficulty": "Medium",
+      "tags": ["String","Sorting"],
+      "topic": "String",
+      "dir": "String/2785-sort-vowels-in-a-string",
+      "first_attempt_at": 1771450768,
+      "last_attempt_at": 1771450768,
+      "solved_at": 1771450768,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1923747808,"status":"Accepted","lang":"cpp","timestamp":1771450768,"runtime":"39 ms","memory":"17.9 MB"}
+      },
+      "submissions": [
+        {"id":1923747808,"status":"Accepted","lang":"cpp","timestamp":1771450768,"runtime":"39 ms","memory":"17.9 MB"}
+      ]
+    },
+    "delete-node-in-a-linked-list": {
+      "id": "237",
+      "title": "Delete Node in a Linked List",
+      "slug": "delete-node-in-a-linked-list",
+      "difficulty": "Medium",
+      "tags": ["Linked List"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0237-delete-node-in-a-linked-list",
+      "first_attempt_at": 1771468483,
+      "last_attempt_at": 1771468483,
+      "solved_at": 1771468483,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1923858448,"status":"Accepted","lang":"cpp","timestamp":1771468483,"runtime":"10 ms","memory":"12.2 MB"}
+      },
+      "submissions": [
+        {"id":1923858448,"status":"Accepted","lang":"cpp","timestamp":1771468483,"runtime":"10 ms","memory":"12.2 MB"}
+      ]
+    },
+    "remove-linked-list-elements": {
+      "id": "203",
+      "title": "Remove Linked List Elements",
+      "slug": "remove-linked-list-elements",
+      "difficulty": "Easy",
+      "tags": ["Linked List","Recursion"],
+      "topic": "Linked List",
+      "dir": "Linked-List/0203-remove-linked-list-elements",
+      "first_attempt_at": 1771470781,
+      "last_attempt_at": 1771471538,
+      "solved_at": 1771471538,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1923883252,"status":"Accepted","lang":"cpp","timestamp":1771471538,"runtime":"0 ms","memory":"20 MB"}
+      },
+      "submissions": [
+        {"id":1923876765,"status":"Wrong Answer","lang":"cpp","timestamp":1771470781,"runtime":null,"memory":null},
+        {"id":1923883252,"status":"Accepted","lang":"cpp","timestamp":1771471538,"runtime":"0 ms","memory":"20 MB"}
+      ]
     }
   }
 }

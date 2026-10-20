@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 45 | 45 | 0 | 24 | 20 | 1 |
+| 52 | 52 | 0 | 27 | 24 | 1 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -25,6 +25,7 @@
 | 66 | [Plus One](../Array/0066-plus-one/README.md) | Easy | Solved | 2 | cpp | 2024-10-29 |
 | 73 | [Set Matrix Zeroes](../Array/0073-set-matrix-zeroes/README.md) | Medium | Solved | 4 | cpp | 2026-01-29 |
 | 75 | [Sort Colors](../Array/0075-sort-colors/README.md) | Medium | Solved | 6 | cpp | 2024-12-10 |
+| 81 | [Search in Rotated Sorted Array II](../Array/0081-search-in-rotated-sorted-array-ii/README.md) | Medium | Solved | 2 | cpp | 2026-02-12 |
 | 88 | [Merge Sorted Array](../Array/0088-merge-sorted-array/README.md) | Easy | Solved | 4 | cpp | 2025-12-28 |
 | 118 | [Pascal's Triangle](../Array/0118-pascals-triangle/README.md) | Easy | Solved | 4 | cpp | 2025-12-30 |
 | 119 | [Pascal's Triangle II](../Array/0119-pascals-triangle-ii/README.md) | Easy | Solved | 2 | cpp | 2026-02-06 |
@@ -32,6 +33,7 @@
 | 128 | [Longest Consecutive Sequence](../Array/0128-longest-consecutive-sequence/README.md) | Medium | Solved | 5 | cpp | 2026-01-29 |
 | 136 | [Single Number](../Array/0136-single-number/README.md) | Easy | Solved | 1 | cpp | 2024-12-09 |
 | 152 | [Maximum Product Subarray](../Array/0152-maximum-product-subarray/README.md) | Medium | Solved | 5 | cpp | 2026-02-03 |
+| 153 | [Find Minimum in Rotated Sorted Array](../Array/0153-find-minimum-in-rotated-sorted-array/README.md) | Medium | Solved | 4 | cpp | 2026-02-12 |
 | 169 | [Majority Element](../Array/0169-majority-element/README.md) | Easy | Solved | 3 | cpp | 2024-12-11 |
 | 189 | [Rotate Array](../Array/0189-rotate-array/README.md) | Medium | Solved | 5 | cpp | 2024-06-14 |
 | 217 | [Contains Duplicate](../Array/0217-contains-duplicate/README.md) | Easy | Solved | 1 | cpp | 2024-12-22 |
@@ -42,9 +44,11 @@
 | 240 | [Search a 2D Matrix II](../Array/0240-search-a-2d-matrix-ii/README.md) | Medium | Solved | 2 | cpp | 2026-02-09 |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Easy | Solved | 2 | cpp | 2024-12-08 |
 | 283 | [Move Zeroes](../Array/0283-move-zeroes/README.md) | Easy | Solved | 4 | cpp | 2024-06-15 |
+| 455 | [Assign Cookies](../Array/0455-assign-cookies/README.md) | Easy | Solved | 2 | cpp | 2026-02-13 |
 | 485 | [Max Consecutive Ones](../Array/0485-max-consecutive-ones/README.md) | Easy | Solved | 2 | cpp | 2024-10-29 |
 | 493 | [Reverse Pairs](../Array/0493-reverse-pairs/README.md) | Hard | Solved | 3 | cpp | 2026-02-05 |
 | 560 | [Subarray Sum Equals K](../Array/0560-subarray-sum-equals-k/README.md) | Medium | Solved | 7 | cpp | 2026-01-30 |
+| 605 | [Can Place Flowers](../Array/0605-can-place-flowers/README.md) | Easy | Solved | 5 | cpp | 2026-02-11 |
 | 674 | [Longest Continuous Increasing Subsequence](../Array/0674-longest-continuous-increasing-subsequence/README.md) | Easy | Solved | 2 | cpp | 2026-02-11 |
 | 704 | [Binary Search](../Array/0704-binary-search/README.md) | Easy | Solved | 1 | cpp | 2024-12-21 |
 | 769 | [Max Chunks To Make Sorted](../Array/0769-max-chunks-to-make-sorted/README.md) | Medium | Solved | 1 | cpp | 2024-12-20 |
@@ -53,3 +57,6 @@
 | 1752 | [Check if Array Is Sorted and Rotated](../Array/1752-check-if-array-is-sorted-and-rotated/README.md) | Easy | Solved | 6 | cpp | 2024-06-14 |
 | 2149 | [Rearrange Array Elements by Sign](../Array/2149-rearrange-array-elements-by-sign/README.md) | Medium | Solved | 1 | cpp | 2026-01-28 |
 | 3264 | [Final Array State After K Multiplication Operations I](../Array/3264-final-array-state-after-k-multiplication-operations-i/README.md) | Easy | Solved | 2 | cpp | 2024-12-16 |
+| 3838 | [Weighted Word Mapping](../Array/3838-weighted-word-mapping/README.md) | Easy | Solved | 1 | cpp | 2026-02-14 |
+| 3839 | [Number of Prefix Connected Groups](../Array/3839-number-of-prefix-connected-groups/README.md) | Medium | Solved | 1 | cpp | 2026-02-14 |
+| 3840 | [House Robber V](../Array/3840-house-robber-v/README.md) | Medium | Solved | 6 | cpp | 2026-02-14 |
