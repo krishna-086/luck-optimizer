@@ -4,7 +4,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 189 | 188 | 1 | 84 | 95 | 9 | 2026-10-20 |
+| 189 | 188 | 1 | 84 | 95 | 9 | 2026-10-21 |
 
 ## Topics
 
@@ -35,6 +35,8 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-21 | [33. Search in Rotated Sorted Array](Array/0033-search-in-rotated-sorted-array/README.md) | Accepted | cpp |
+| 2026-10-21 | [33. Search in Rotated Sorted Array](Array/0033-search-in-rotated-sorted-array/README.md) | Wrong Answer | cpp |
 | 2026-10-20 | [540. Single Element in a Sorted Array](Array/0540-single-element-in-a-sorted-array/README.md) | Accepted | cpp |
 | 2026-10-20 | [540. Single Element in a Sorted Array](Array/0540-single-element-in-a-sorted-array/README.md) | Runtime Error | cpp |
 | 2026-10-20 | [1011. Capacity To Ship Packages Within D Days](Array/1011-capacity-to-ship-packages-within-d-days/README.md) | Accepted | cpp |
@@ -48,14 +50,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-19 | [295. Find Median from Data Stream](Two-Pointers/0295-find-median-from-data-stream/README.md) | Wrong Answer | cpp |
 | 2026-10-19 | [23. Merge k Sorted Lists](Linked-List/0023-merge-k-sorted-lists/README.md) | Accepted | cpp |
 | 2026-10-19 | [23. Merge k Sorted Lists](Linked-List/0023-merge-k-sorted-lists/README.md) | Compile Error | cpp |
-| 2026-10-19 | [973. K Closest Points to Origin](Array/0973-k-closest-points-to-origin/README.md) | Accepted | cpp |
-| 2026-10-19 | [347. Top K Frequent Elements](Array/0347-top-k-frequent-elements/README.md) | Accepted | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 29 | 70 |
+| 2026-10 | 29 | 72 |
 | 2026-08 | 0 | 14 |
 | 2026-07 | 8 | 39 |
 | 2026-06 | 32 | 108 |
@@ -91,7 +91,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 27 | [Remove Element](Array/0027-remove-element/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2025-12-18 | 2025-12-18 |
 | 28 | [Find the Index of the First Occurrence in a String](Two-Pointers/0028-find-the-index-of-the-first-occurrence-in-a-string/README.md) | [Two Pointers](Two-Pointers/README.md) | Easy | Solved | 2 | 2025-12-21 | 2025-12-21 |
 | 31 | [Next Permutation](Array/0031-next-permutation/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-01-29 | 2026-01-29 |
-| 33 | [Search in Rotated Sorted Array](Array/0033-search-in-rotated-sorted-array/README.md) | [Array](Array/README.md) | Medium | Solved | 3 | 2026-02-09 | 2026-02-09 |
+| 33 | [Search in Rotated Sorted Array](Array/0033-search-in-rotated-sorted-array/README.md) | [Array](Array/README.md) | Medium | Solved | 5 | 2026-02-09 | 2026-02-09 |
 | 34 | [Find First and Last Position of Element in Sorted Array](Array/0034-find-first-and-last-position-of-element-in-sorted-array/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-02-07 | 2026-02-07 |
 | 35 | [Search Insert Position](Array/0035-search-insert-position/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2024-12-24 | 2024-12-24 |
 | 42 | [Trapping Rain Water](Array/0042-trapping-rain-water/README.md) | [Array](Array/README.md) | Hard | Solved | 1 | 2026-10-17 | 2026-10-17 |

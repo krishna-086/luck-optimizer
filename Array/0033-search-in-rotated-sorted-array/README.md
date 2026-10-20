@@ -4,7 +4,7 @@
 
 | Difficulty | Status | Submissions | First tried | Solved on |
 | --- | --- | --- | --- | --- |
-| Medium | Solved | 3 | 2026-02-09 | 2026-02-09 |
+| Medium | Solved | 5 | 2026-02-09 | 2026-02-09 |
 
 **Topics:** Array, Binary Search
 
@@ -12,12 +12,14 @@
 
 | Language | Result | Runtime | Memory | Date |
 | --- | --- | --- | --- | --- |
-| [cpp](solution.cpp) | Accepted | 0 ms | 15.1 MB | 2026-02-09 |
+| [cpp](solution.cpp) | Accepted | 0 ms | 15.1 MB | 2026-10-21 |
 
 ## Submission history
 
 | Date | Result | Language | Runtime | Memory |
 | --- | --- | --- | --- | --- |
+| 2026-10-21 | Accepted | cpp | 0 ms | 15.1 MB |
+| 2026-10-21 | Wrong Answer | cpp | - | - |
 | 2026-02-09 | Accepted | cpp | 0 ms | 15.1 MB |
 | 2026-02-09 | Wrong Answer | cpp | - | - |
 | 2026-02-09 | Accepted | cpp | - | - |

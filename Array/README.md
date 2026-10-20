@@ -15,7 +15,7 @@
 | 26 | [Remove Duplicates from Sorted Array](../Array/0026-remove-duplicates-from-sorted-array/README.md) | Easy | Solved | 3 | cpp | 2024-06-14 |
 | 27 | [Remove Element](../Array/0027-remove-element/README.md) | Easy | Solved | 2 | cpp | 2025-12-18 |
 | 31 | [Next Permutation](../Array/0031-next-permutation/README.md) | Medium | Solved | 1 | cpp | 2026-01-29 |
-| 33 | [Search in Rotated Sorted Array](../Array/0033-search-in-rotated-sorted-array/README.md) | Medium | Solved | 3 | cpp | 2026-02-09 |
+| 33 | [Search in Rotated Sorted Array](../Array/0033-search-in-rotated-sorted-array/README.md) | Medium | Solved | 5 | cpp | 2026-02-09 |
 | 34 | [Find First and Last Position of Element in Sorted Array](../Array/0034-find-first-and-last-position-of-element-in-sorted-array/README.md) | Medium | Solved | 1 | cpp | 2026-02-07 |
 | 35 | [Search Insert Position](../Array/0035-search-insert-position/README.md) | Easy | Solved | 1 | cpp | 2024-12-24 |
 | 42 | [Trapping Rain Water](../Array/0042-trapping-rain-water/README.md) | Hard | Solved | 1 | cpp | 2026-10-17 |
