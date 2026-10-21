@@ -4,7 +4,7 @@
 
 | Difficulty | Status | Submissions | First tried | Solved on |
 | --- | --- | --- | --- | --- |
-| Medium | Solved | 1 | 2026-10-19 | 2026-10-19 |
+| Medium | Solved | 2 | 2026-10-19 | 2026-10-19 |
 
 **Topics:** Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack
 
@@ -12,12 +12,13 @@
 
 | Language | Result | Runtime | Memory | Date |
 | --- | --- | --- | --- | --- |
-| [cpp](solution.cpp) | Accepted | 54 ms | 48.8 MB | 2026-10-19 |
+| [cpp](solution.cpp) | Accepted | 59 ms | 48.9 MB | 2026-10-21 |
 
 ## Submission history
 
 | Date | Result | Language | Runtime | Memory |
 | --- | --- | --- | --- | --- |
+| 2026-10-21 | Accepted | cpp | 59 ms | 48.9 MB |
 | 2026-10-19 | Accepted | cpp | 54 ms | 48.8 MB |
 
 ## Problem

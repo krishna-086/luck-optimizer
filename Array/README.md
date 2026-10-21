@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 88 | 88 | 0 | 31 | 53 | 4 |
+| 89 | 89 | 0 | 31 | 54 | 4 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -55,7 +55,7 @@
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Easy | Solved | 2 | cpp | 2024-12-08 |
 | 283 | [Move Zeroes](../Array/0283-move-zeroes/README.md) | Easy | Solved | 4 | cpp | 2024-06-15 |
 | 287 | [Find the Duplicate Number](../Array/0287-find-the-duplicate-number/README.md) | Medium | Solved | 1 | cpp | 2026-06-05 |
-| 322 | [Coin Change](../Array/0322-coin-change/README.md) | Medium | Solved | 1 | cpp | 2026-10-19 |
+| 322 | [Coin Change](../Array/0322-coin-change/README.md) | Medium | Solved | 2 | cpp | 2026-10-19 |
 | 347 | [Top K Frequent Elements](../Array/0347-top-k-frequent-elements/README.md) | Medium | Solved | 2 | cpp | 2026-10-19 |
 | 410 | [Split Array Largest Sum](../Array/0410-split-array-largest-sum/README.md) | Hard | Solved | 3 | cpp | 2026-10-21 |
 | 455 | [Assign Cookies](../Array/0455-assign-cookies/README.md) | Easy | Solved | 2 | cpp | 2026-02-13 |
@@ -64,6 +64,7 @@
 | 493 | [Reverse Pairs](../Array/0493-reverse-pairs/README.md) | Hard | Solved | 3 | cpp | 2026-02-05 |
 | 496 | [Next Greater Element I](../Array/0496-next-greater-element-i/README.md) | Easy | Solved | 4 | cpp | 2026-06-04 |
 | 503 | [Next Greater Element II](../Array/0503-next-greater-element-ii/README.md) | Medium | Solved | 1 | cpp | 2026-06-04 |
+| 518 | [Coin Change II](../Array/0518-coin-change-ii/README.md) | Medium | Solved | 2 | cpp | 2026-10-21 |
 | 540 | [Single Element in a Sorted Array](../Array/0540-single-element-in-a-sorted-array/README.md) | Medium | Solved | 2 | cpp | 2026-10-20 |
 | 542 | [01 Matrix](../Array/0542-01-matrix/README.md) | Medium | Solved | 5 | cpp | 2026-07-08 |
 | 560 | [Subarray Sum Equals K](../Array/0560-subarray-sum-equals-k/README.md) | Medium | Solved | 7 | cpp | 2026-01-30 |

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2177451141,
+  "synced_through": 2177509301,
   "problems": {
     "reverse-integer": {
       "id": "7",
@@ -3564,13 +3564,14 @@
       "topic": "Array",
       "dir": "Array/0322-coin-change",
       "first_attempt_at": 1792391872,
-      "last_attempt_at": 1792391872,
+      "last_attempt_at": 1792545941,
       "solved_at": 1792391872,
       "languages": {
-        "cpp": {"file":"solution.cpp","id":2175973818,"status":"Accepted","lang":"cpp","timestamp":1792391872,"runtime":"54 ms","memory":"48.8 MB"}
+        "cpp": {"file":"solution.cpp","id":2177508188,"status":"Accepted","lang":"cpp","timestamp":1792545941,"runtime":"59 ms","memory":"48.9 MB"}
       },
       "submissions": [
-        {"id":2175973818,"status":"Accepted","lang":"cpp","timestamp":1792391872,"runtime":"54 ms","memory":"48.8 MB"}
+        {"id":2175973818,"status":"Accepted","lang":"cpp","timestamp":1792391872,"runtime":"54 ms","memory":"48.8 MB"},
+        {"id":2177508188,"status":"Accepted","lang":"cpp","timestamp":1792545941,"runtime":"59 ms","memory":"48.9 MB"}
       ]
     },
     "jump-game": {
@@ -3761,6 +3762,25 @@
         {"id":2177449845,"status":"Accepted","lang":"cpp","timestamp":1792532407,"runtime":null,"memory":null},
         {"id":2177450506,"status":"Wrong Answer","lang":"cpp","timestamp":1792532537,"runtime":null,"memory":null},
         {"id":2177451141,"status":"Accepted","lang":"cpp","timestamp":1792532652,"runtime":"0 ms","memory":"10.4 MB"}
+      ]
+    },
+    "coin-change-ii": {
+      "id": "518",
+      "title": "Coin Change II",
+      "slug": "coin-change-ii",
+      "difficulty": "Medium",
+      "tags": ["Array","Dynamic Programming","Knapsack Problem","Complete Knapsack"],
+      "topic": "Array",
+      "dir": "Array/0518-coin-change-ii",
+      "first_attempt_at": 1792545950,
+      "last_attempt_at": 1792546153,
+      "solved_at": 1792546153,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2177509301,"status":"Accepted","lang":"cpp","timestamp":1792546153,"runtime":"34 ms","memory":"36.6 MB"}
+      },
+      "submissions": [
+        {"id":2177508243,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1792545950,"runtime":null,"memory":null},
+        {"id":2177509301,"status":"Accepted","lang":"cpp","timestamp":1792546153,"runtime":"34 ms","memory":"36.6 MB"}
       ]
     }
   }
