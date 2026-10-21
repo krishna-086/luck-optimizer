@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2177509301,
+  "synced_through": 2177531777,
   "problems": {
     "reverse-integer": {
       "id": "7",
@@ -3781,6 +3781,28 @@
       "submissions": [
         {"id":2177508243,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1792545950,"runtime":null,"memory":null},
         {"id":2177509301,"status":"Accepted","lang":"cpp","timestamp":1792546153,"runtime":"34 ms","memory":"36.6 MB"}
+      ]
+    },
+    "longest-increasing-subsequence": {
+      "id": "300",
+      "title": "Longest Increasing Subsequence",
+      "slug": "longest-increasing-subsequence",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search","Dynamic Programming","Longest Increasing Subsequence"],
+      "topic": "Array",
+      "dir": "Array/0300-longest-increasing-subsequence",
+      "first_attempt_at": 1792547801,
+      "last_attempt_at": 1792550091,
+      "solved_at": 1792548342,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2177531777,"status":"Accepted","lang":"cpp","timestamp":1792550091,"runtime":"293 ms","memory":"14.5 MB"}
+      },
+      "submissions": [
+        {"id":2177518221,"status":"Wrong Answer","lang":"cpp","timestamp":1792547801,"runtime":null,"memory":null},
+        {"id":2177521201,"status":"Accepted","lang":"cpp","timestamp":1792548342,"runtime":null,"memory":null},
+        {"id":2177521258,"status":"Accepted","lang":"cpp","timestamp":1792548352,"runtime":null,"memory":null},
+        {"id":2177528210,"status":"Accepted","lang":"cpp","timestamp":1792549529,"runtime":null,"memory":null},
+        {"id":2177531777,"status":"Accepted","lang":"cpp","timestamp":1792550091,"runtime":"293 ms","memory":"14.5 MB"}
       ]
     }
   }

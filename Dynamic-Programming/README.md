@@ -31,6 +31,7 @@ Filed under their main topic, but they use this one too.
 | 152 | [Maximum Product Subarray](../Array/0152-maximum-product-subarray/README.md) | Array | Medium | Solved |
 | 198 | [House Robber](../Array/0198-house-robber/README.md) | Array | Medium | Solved |
 | 213 | [House Robber II](../Array/0213-house-robber-ii/README.md) | Array | Medium | Solved |
+| 300 | [Longest Increasing Subsequence](../Array/0300-longest-increasing-subsequence/README.md) | Array | Medium | Solved |
 | 322 | [Coin Change](../Array/0322-coin-change/README.md) | Array | Medium | Solved |
 | 410 | [Split Array Largest Sum](../Array/0410-split-array-largest-sum/README.md) | Array | Hard | Solved |
 | 509 | [Fibonacci Number](../Math/0509-fibonacci-number/README.md) | Math | Easy | Solved |

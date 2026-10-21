@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 89 | 89 | 0 | 31 | 54 | 4 |
+| 90 | 90 | 0 | 31 | 55 | 4 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -55,6 +55,7 @@
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Easy | Solved | 2 | cpp | 2024-12-08 |
 | 283 | [Move Zeroes](../Array/0283-move-zeroes/README.md) | Easy | Solved | 4 | cpp | 2024-06-15 |
 | 287 | [Find the Duplicate Number](../Array/0287-find-the-duplicate-number/README.md) | Medium | Solved | 1 | cpp | 2026-06-05 |
+| 300 | [Longest Increasing Subsequence](../Array/0300-longest-increasing-subsequence/README.md) | Medium | Solved | 5 | cpp | 2026-10-21 |
 | 322 | [Coin Change](../Array/0322-coin-change/README.md) | Medium | Solved | 2 | cpp | 2026-10-19 |
 | 347 | [Top K Frequent Elements](../Array/0347-top-k-frequent-elements/README.md) | Medium | Solved | 2 | cpp | 2026-10-19 |
 | 410 | [Split Array Largest Sum](../Array/0410-split-array-largest-sum/README.md) | Hard | Solved | 3 | cpp | 2026-10-21 |

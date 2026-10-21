@@ -4,13 +4,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 191 | 190 | 1 | 84 | 96 | 10 | 2026-10-21 |
+| 192 | 191 | 1 | 84 | 97 | 10 | 2026-10-21 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 89 | 89 | 0 | 31 | 54 | 4 |
+| [Array](Array/README.md) | 90 | 90 | 0 | 31 | 55 | 4 |
 | [Linked List](Linked-List/README.md) | 18 | 18 | 0 | 7 | 9 | 2 |
 | [Math](Math/README.md) | 18 | 17 | 1 | 12 | 5 | 1 |
 | [Tree](Tree/README.md) | 18 | 18 | 0 | 5 | 13 | 0 |
@@ -35,6 +35,11 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-21 | [300. Longest Increasing Subsequence](Array/0300-longest-increasing-subsequence/README.md) | Accepted | cpp |
+| 2026-10-21 | [300. Longest Increasing Subsequence](Array/0300-longest-increasing-subsequence/README.md) | Accepted | cpp |
+| 2026-10-21 | [300. Longest Increasing Subsequence](Array/0300-longest-increasing-subsequence/README.md) | Accepted | cpp |
+| 2026-10-21 | [300. Longest Increasing Subsequence](Array/0300-longest-increasing-subsequence/README.md) | Accepted | cpp |
+| 2026-10-21 | [300. Longest Increasing Subsequence](Array/0300-longest-increasing-subsequence/README.md) | Wrong Answer | cpp |
 | 2026-10-21 | [518. Coin Change II](Array/0518-coin-change-ii/README.md) | Accepted | cpp |
 | 2026-10-21 | [518. Coin Change II](Array/0518-coin-change-ii/README.md) | Time Limit Exceeded | cpp |
 | 2026-10-21 | [322. Coin Change](Array/0322-coin-change/README.md) | Accepted | cpp |
@@ -45,17 +50,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-21 | [33. Search in Rotated Sorted Array](Array/0033-search-in-rotated-sorted-array/README.md) | Wrong Answer | cpp |
 | 2026-10-20 | [540. Single Element in a Sorted Array](Array/0540-single-element-in-a-sorted-array/README.md) | Accepted | cpp |
 | 2026-10-20 | [540. Single Element in a Sorted Array](Array/0540-single-element-in-a-sorted-array/README.md) | Runtime Error | cpp |
-| 2026-10-20 | [1011. Capacity To Ship Packages Within D Days](Array/1011-capacity-to-ship-packages-within-d-days/README.md) | Accepted | cpp |
-| 2026-10-20 | [1011. Capacity To Ship Packages Within D Days](Array/1011-capacity-to-ship-packages-within-d-days/README.md) | Wrong Answer | cpp |
-| 2026-10-20 | [1011. Capacity To Ship Packages Within D Days](Array/1011-capacity-to-ship-packages-within-d-days/README.md) | Wrong Answer | cpp |
-| 2026-10-20 | [875. Koko Eating Bananas](Array/0875-koko-eating-bananas/README.md) | Accepted | cpp |
-| 2026-10-20 | [767. Reorganize String](Hash-Table/0767-reorganize-string/README.md) | Accepted | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 31 | 78 |
+| 2026-10 | 32 | 83 |
 | 2026-08 | 0 | 14 |
 | 2026-07 | 8 | 39 |
 | 2026-06 | 32 | 108 |
@@ -181,6 +181,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 287 | [Find the Duplicate Number](Array/0287-find-the-duplicate-number/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-06-05 | 2026-06-05 |
 | 295 | [Find Median from Data Stream](Two-Pointers/0295-find-median-from-data-stream/README.md) | [Two Pointers](Two-Pointers/README.md) | Hard | Solved | 4 | 2026-10-19 | 2026-10-20 |
 | 297 | [Serialize and Deserialize Binary Tree](String/0297-serialize-and-deserialize-binary-tree/README.md) | [String](String/README.md) | Hard | Solved | 3 | 2026-06-15 | 2026-06-15 |
+| 300 | [Longest Increasing Subsequence](Array/0300-longest-increasing-subsequence/README.md) | [Array](Array/README.md) | Medium | Solved | 5 | 2026-10-21 | 2026-10-21 |
 | 322 | [Coin Change](Array/0322-coin-change/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-10-19 | 2026-10-19 |
 | 328 | [Odd Even Linked List](Linked-List/0328-odd-even-linked-list/README.md) | [Linked List](Linked-List/README.md) | Medium | Solved | 3 | 2026-02-24 | 2026-02-24 |
 | 337 | [House Robber III](Dynamic-Programming/0337-house-robber-iii/README.md) | [Dynamic Programming](Dynamic-Programming/README.md) | Medium | Solved | 2 | 2026-10-18 | 2026-10-18 |
