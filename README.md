@@ -4,13 +4,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 192 | 191 | 1 | 84 | 97 | 10 | 2026-10-21 |
+| 193 | 192 | 1 | 84 | 98 | 10 | 2026-10-21 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 90 | 90 | 0 | 31 | 55 | 4 |
+| [Array](Array/README.md) | 91 | 91 | 0 | 31 | 56 | 4 |
 | [Linked List](Linked-List/README.md) | 18 | 18 | 0 | 7 | 9 | 2 |
 | [Math](Math/README.md) | 18 | 17 | 1 | 12 | 5 | 1 |
 | [Tree](Tree/README.md) | 18 | 18 | 0 | 5 | 13 | 0 |
@@ -35,6 +35,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-21 | [57. Insert Interval](Array/0057-insert-interval/README.md) | Accepted | cpp |
 | 2026-10-21 | [300. Longest Increasing Subsequence](Array/0300-longest-increasing-subsequence/README.md) | Accepted | cpp |
 | 2026-10-21 | [300. Longest Increasing Subsequence](Array/0300-longest-increasing-subsequence/README.md) | Accepted | cpp |
 | 2026-10-21 | [300. Longest Increasing Subsequence](Array/0300-longest-increasing-subsequence/README.md) | Accepted | cpp |
@@ -49,13 +50,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-21 | [33. Search in Rotated Sorted Array](Array/0033-search-in-rotated-sorted-array/README.md) | Accepted | cpp |
 | 2026-10-21 | [33. Search in Rotated Sorted Array](Array/0033-search-in-rotated-sorted-array/README.md) | Wrong Answer | cpp |
 | 2026-10-20 | [540. Single Element in a Sorted Array](Array/0540-single-element-in-a-sorted-array/README.md) | Accepted | cpp |
-| 2026-10-20 | [540. Single Element in a Sorted Array](Array/0540-single-element-in-a-sorted-array/README.md) | Runtime Error | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 32 | 83 |
+| 2026-10 | 33 | 84 |
 | 2026-08 | 0 | 14 |
 | 2026-07 | 8 | 39 |
 | 2026-06 | 32 | 108 |
@@ -101,6 +101,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 54 | [Spiral Matrix](Array/0054-spiral-matrix/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-01-30 | 2026-01-30 |
 | 55 | [Jump Game](Array/0055-jump-game/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-10-19 | 2026-10-19 |
 | 56 | [Merge Intervals](Array/0056-merge-intervals/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-02-03 | 2026-02-03 |
+| 57 | [Insert Interval](Array/0057-insert-interval/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-10-21 | 2026-10-21 |
 | 58 | [Length of Last Word](String/0058-length-of-last-word/README.md) | [String](String/README.md) | Easy | Solved | 1 | 2025-12-22 | 2025-12-22 |
 | 61 | [Rotate List](Linked-List/0061-rotate-list/README.md) | [Linked List](Linked-List/README.md) | Medium | Solved | 3 | 2026-02-28 | 2026-02-28 |
 | 62 | [Unique Paths](Math/0062-unique-paths/README.md) | [Math](Math/README.md) | Medium | Solved | 2 | 2026-10-16 | 2026-10-16 |

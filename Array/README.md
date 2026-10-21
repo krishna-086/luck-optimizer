@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 90 | 90 | 0 | 31 | 55 | 4 |
+| 91 | 91 | 0 | 31 | 56 | 4 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -24,6 +24,7 @@
 | 54 | [Spiral Matrix](../Array/0054-spiral-matrix/README.md) | Medium | Solved | 2 | cpp | 2026-01-30 |
 | 55 | [Jump Game](../Array/0055-jump-game/README.md) | Medium | Solved | 2 | cpp | 2026-10-19 |
 | 56 | [Merge Intervals](../Array/0056-merge-intervals/README.md) | Medium | Solved | 1 | cpp | 2026-02-03 |
+| 57 | [Insert Interval](../Array/0057-insert-interval/README.md) | Medium | Solved | 1 | cpp | 2026-10-21 |
 | 63 | [Unique Paths II](../Array/0063-unique-paths-ii/README.md) | Medium | Solved | 1 | cpp | 2026-10-16 |
 | 66 | [Plus One](../Array/0066-plus-one/README.md) | Easy | Solved | 2 | cpp | 2024-10-29 |
 | 73 | [Set Matrix Zeroes](../Array/0073-set-matrix-zeroes/README.md) | Medium | Solved | 4 | cpp | 2026-01-29 |

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2177531777,
+  "synced_through": 2177548678,
   "problems": {
     "reverse-integer": {
       "id": "7",
@@ -3803,6 +3803,24 @@
         {"id":2177521258,"status":"Accepted","lang":"cpp","timestamp":1792548352,"runtime":null,"memory":null},
         {"id":2177528210,"status":"Accepted","lang":"cpp","timestamp":1792549529,"runtime":null,"memory":null},
         {"id":2177531777,"status":"Accepted","lang":"cpp","timestamp":1792550091,"runtime":"293 ms","memory":"14.5 MB"}
+      ]
+    },
+    "insert-interval": {
+      "id": "57",
+      "title": "Insert Interval",
+      "slug": "insert-interval",
+      "difficulty": "Medium",
+      "tags": ["Array"],
+      "topic": "Array",
+      "dir": "Array/0057-insert-interval",
+      "first_attempt_at": 1792552487,
+      "last_attempt_at": 1792552487,
+      "solved_at": 1792552487,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2177548678,"status":"Accepted","lang":"cpp","timestamp":1792552487,"runtime":"0 ms","memory":"21.7 MB"}
+      },
+      "submissions": [
+        {"id":2177548678,"status":"Accepted","lang":"cpp","timestamp":1792552487,"runtime":"0 ms","memory":"21.7 MB"}
       ]
     }
   }
