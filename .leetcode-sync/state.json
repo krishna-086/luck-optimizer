@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2178443085,
+  "synced_through": 2179221494,
   "problems": {
     "reverse-integer": {
       "id": "7",
@@ -3823,6 +3823,24 @@
         {"id":2177548678,"status":"Accepted","lang":"cpp","timestamp":1792552487,"runtime":"0 ms","memory":"21.7 MB"},
         {"id":2178442805,"status":"Compile Error","lang":"cpp","timestamp":1792637170,"runtime":null,"memory":null},
         {"id":2178443085,"status":"Accepted","lang":"cpp","timestamp":1792637213,"runtime":"2 ms","memory":"21.6 MB"}
+      ]
+    },
+    "gas-station": {
+      "id": "134",
+      "title": "Gas Station",
+      "slug": "gas-station",
+      "difficulty": "Medium",
+      "tags": ["Array","Greedy"],
+      "topic": "Array",
+      "dir": "Array/0134-gas-station",
+      "first_attempt_at": 1792709060,
+      "last_attempt_at": 1792709060,
+      "solved_at": 1792709060,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2179221494,"status":"Accepted","lang":"cpp","timestamp":1792709060,"runtime":"1 ms","memory":"112.7 MB"}
+      },
+      "submissions": [
+        {"id":2179221494,"status":"Accepted","lang":"cpp","timestamp":1792709060,"runtime":"1 ms","memory":"112.7 MB"}
       ]
     }
   }
