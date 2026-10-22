@@ -4,7 +4,7 @@
 
 | Difficulty | Status | Submissions | First tried | Solved on |
 | --- | --- | --- | --- | --- |
-| Medium | Solved | 1 | 2026-10-21 | 2026-10-21 |
+| Medium | Solved | 3 | 2026-10-21 | 2026-10-21 |
 
 **Topics:** Array
 
@@ -12,12 +12,14 @@
 
 | Language | Result | Runtime | Memory | Date |
 | --- | --- | --- | --- | --- |
-| [cpp](solution.cpp) | Accepted | 0 ms | 21.7 MB | 2026-10-21 |
+| [cpp](solution.cpp) | Accepted | 2 ms | 21.6 MB | 2026-10-22 |
 
 ## Submission history
 
 | Date | Result | Language | Runtime | Memory |
 | --- | --- | --- | --- | --- |
+| 2026-10-22 | Accepted | cpp | 2 ms | 21.6 MB |
+| 2026-10-22 | Compile Error | cpp | - | - |
 | 2026-10-21 | Accepted | cpp | 0 ms | 21.7 MB |
 
 ## Problem
