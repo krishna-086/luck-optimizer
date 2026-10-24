@@ -4,7 +4,7 @@
 
 | Difficulty | Status | Submissions | First tried | Solved on |
 | --- | --- | --- | --- | --- |
-| Easy | Solved | 6 | 2025-12-29 | 2025-12-29 |
+| Easy | Solved | 7 | 2025-12-29 | 2025-12-29 |
 
 **Topics:** Tree, Depth-First Search, Breadth-First Search, Binary Tree
 
@@ -12,12 +12,13 @@
 
 | Language | Result | Runtime | Memory | Date |
 | --- | --- | --- | --- | --- |
-| [cpp](solution.cpp) | Accepted | 0 ms | 21.4 MB | 2026-06-12 |
+| [cpp](solution.cpp) | Accepted | 0 ms | 21.4 MB | 2026-10-24 |
 
 ## Submission history
 
 | Date | Result | Language | Runtime | Memory |
 | --- | --- | --- | --- | --- |
+| 2026-10-24 | Accepted | cpp | 0 ms | 21.4 MB |
 | 2026-06-12 | Accepted | cpp | 0 ms | 21.4 MB |
 | 2026-06-12 | Accepted | cpp | - | - |
 | 2026-06-12 | Accepted | cpp | - | - |

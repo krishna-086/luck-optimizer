@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2179221494,
+  "synced_through": 2180056027,
   "problems": {
     "reverse-integer": {
       "id": "7",
@@ -842,10 +842,10 @@
       "topic": "Tree",
       "dir": "Tree/0112-path-sum",
       "first_attempt_at": 1767029923,
-      "last_attempt_at": 1781251887,
+      "last_attempt_at": 1792800287,
       "solved_at": 1767029923,
       "languages": {
-        "cpp": {"file":"solution.cpp","id":2030571103,"status":"Accepted","lang":"cpp","timestamp":1781251887,"runtime":"0 ms","memory":"21.4 MB"}
+        "cpp": {"file":"solution.cpp","id":2180056027,"status":"Accepted","lang":"cpp","timestamp":1792800287,"runtime":"0 ms","memory":"21.4 MB"}
       },
       "submissions": [
         {"id":1868672880,"status":"Accepted","lang":"cpp","timestamp":1767029923,"runtime":null,"memory":null},
@@ -853,7 +853,8 @@
         {"id":1868681675,"status":"Accepted","lang":"cpp","timestamp":1767030485,"runtime":null,"memory":null},
         {"id":2030556317,"status":"Accepted","lang":"cpp","timestamp":1781250830,"runtime":null,"memory":null},
         {"id":2030561726,"status":"Accepted","lang":"cpp","timestamp":1781251225,"runtime":null,"memory":null},
-        {"id":2030571103,"status":"Accepted","lang":"cpp","timestamp":1781251887,"runtime":"0 ms","memory":"21.4 MB"}
+        {"id":2030571103,"status":"Accepted","lang":"cpp","timestamp":1781251887,"runtime":"0 ms","memory":"21.4 MB"},
+        {"id":2180056027,"status":"Accepted","lang":"cpp","timestamp":1792800287,"runtime":"0 ms","memory":"21.4 MB"}
       ]
     },
     "pascals-triangle": {

@@ -14,7 +14,7 @@
 | 104 | [Maximum Depth of Binary Tree](../Tree/0104-maximum-depth-of-binary-tree/README.md) | Easy | Solved | 3 | cpp | 2026-03-07 |
 | 107 | [Binary Tree Level Order Traversal II](../Tree/0107-binary-tree-level-order-traversal-ii/README.md) | Medium | Solved | 1 | cpp | 2026-10-18 |
 | 110 | [Balanced Binary Tree](../Tree/0110-balanced-binary-tree/README.md) | Easy | Solved | 8 | cpp | 2026-03-07 |
-| 112 | [Path Sum](../Tree/0112-path-sum/README.md) | Easy | Solved | 6 | cpp | 2025-12-29 |
+| 112 | [Path Sum](../Tree/0112-path-sum/README.md) | Easy | Solved | 7 | cpp | 2025-12-29 |
 | 199 | [Binary Tree Right Side View](../Tree/0199-binary-tree-right-side-view/README.md) | Medium | Solved | 1 | cpp | 2026-06-11 |
 | 226 | [Invert Binary Tree](../Tree/0226-invert-binary-tree/README.md) | Easy | Solved | 1 | cpp | 2026-06-11 |
 | 230 | [Kth Smallest Element in a BST](../Tree/0230-kth-smallest-element-in-a-bst/README.md) | Medium | Solved | 13 | cpp | 2026-06-16 |

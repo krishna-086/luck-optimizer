@@ -4,7 +4,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 194 | 193 | 1 | 84 | 99 | 10 | 2026-10-23 |
+| 194 | 193 | 1 | 84 | 99 | 10 | 2026-10-24 |
 
 ## Topics
 
@@ -35,6 +35,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-24 | [112. Path Sum](Tree/0112-path-sum/README.md) | Accepted | cpp |
 | 2026-10-23 | [134. Gas Station](Array/0134-gas-station/README.md) | Accepted | cpp |
 | 2026-10-22 | [57. Insert Interval](Array/0057-insert-interval/README.md) | Accepted | cpp |
 | 2026-10-22 | [57. Insert Interval](Array/0057-insert-interval/README.md) | Compile Error | cpp |
@@ -49,13 +50,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-21 | [322. Coin Change](Array/0322-coin-change/README.md) | Accepted | cpp |
 | 2026-10-21 | [410. Split Array Largest Sum](Array/0410-split-array-largest-sum/README.md) | Accepted | cpp |
 | 2026-10-21 | [410. Split Array Largest Sum](Array/0410-split-array-largest-sum/README.md) | Wrong Answer | cpp |
-| 2026-10-21 | [410. Split Array Largest Sum](Array/0410-split-array-largest-sum/README.md) | Accepted | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 34 | 87 |
+| 2026-10 | 34 | 88 |
 | 2026-08 | 0 | 14 |
 | 2026-07 | 8 | 39 |
 | 2026-06 | 32 | 108 |
@@ -127,7 +127,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](Array/0106-construct-binary-tree-from-inorder-and-postorder-traversal/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-06-16 | 2026-06-16 |
 | 107 | [Binary Tree Level Order Traversal II](Tree/0107-binary-tree-level-order-traversal-ii/README.md) | [Tree](Tree/README.md) | Medium | Solved | 1 | 2026-10-18 | 2026-10-18 |
 | 110 | [Balanced Binary Tree](Tree/0110-balanced-binary-tree/README.md) | [Tree](Tree/README.md) | Easy | Solved | 8 | 2026-03-07 | 2026-03-07 |
-| 112 | [Path Sum](Tree/0112-path-sum/README.md) | [Tree](Tree/README.md) | Easy | Solved | 6 | 2025-12-29 | 2025-12-29 |
+| 112 | [Path Sum](Tree/0112-path-sum/README.md) | [Tree](Tree/README.md) | Easy | Solved | 7 | 2025-12-29 | 2025-12-29 |
 | 113 | [Path Sum II](Backtracking/0113-path-sum-ii/README.md) | [Backtracking](Backtracking/README.md) | Medium | Solved | 3 | 2026-06-12 | 2026-06-12 |
 | 116 | [Populating Next Right Pointers in Each Node](Linked-List/0116-populating-next-right-pointers-in-each-node/README.md) | [Linked List](Linked-List/README.md) | Medium | Solved | 3 | 2026-06-12 | 2026-06-12 |
 | 118 | [Pascal's Triangle](Array/0118-pascals-triangle/README.md) | [Array](Array/README.md) | Easy | Solved | 4 | 2025-12-30 | 2025-12-30 |
