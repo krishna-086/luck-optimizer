@@ -1,34 +1,31 @@
 class Solution {
 public:
-    bool dfs(int node, vector<vector<int>>& adj, vector<int>& vis, vector<int>& pvis){
-        vis[node]=1;
-        pvis[node]=1;
-        for(auto& it : adj[node]){
-            if(vis[it]){
-                if(pvis[it]){
-                    return true;
-                }
-            }
-            else{
-                if(dfs(it, adj, vis, pvis) == true) return true;
-            }
-            
-        }
-        pvis[node]=0;
-        return false;
-    }
     bool canFinish(int n, vector<vector<int>>& prerequisites) {
         vector<vector<int>> adj(n);
-        vector<int> vis(n,0);
-        vector<int> pvis(n,0);
-        for(auto it : prerequisites){
-            adj[it[1]].push_back(it[0]);
+        vector<int> in(n, 0);
+        for(int i=0; i<prerequisites.size(); i++){
+            int u=prerequisites[i][1];
+            int v=prerequisites[i][0];
+            adj[u].push_back(v);
+            in[v]++;
         }
-        for(int i=0; i<n; i++){
-            if(!vis[i]){
-                if(dfs(i, adj, vis, pvis)==true) return false;
+        queue<int> q;
+        for(int i=0; i<in.size(); i++){
+            if(in[i]==0) q.push(i);
+        }
+        int count=0;
+        while(!q.empty()){
+            int u=q.front();
+            q.pop();
+            for(auto v : adj[u]){
+                in[v]--;
+                if(in[v]==0){
+                    q.push(v);
+                }
             }
+            count++;
         }
-        return true;
+        return count==n?true:false;
+
     }
 };

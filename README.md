@@ -4,13 +4,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 194 | 193 | 1 | 84 | 99 | 10 | 2026-10-24 |
+| 196 | 195 | 1 | 84 | 101 | 10 | 2026-10-26 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 92 | 92 | 0 | 31 | 57 | 4 |
+| [Array](Array/README.md) | 93 | 93 | 0 | 31 | 58 | 4 |
 | [Linked List](Linked-List/README.md) | 18 | 18 | 0 | 7 | 9 | 2 |
 | [Math](Math/README.md) | 18 | 17 | 1 | 12 | 5 | 1 |
 | [Tree](Tree/README.md) | 18 | 18 | 0 | 5 | 13 | 0 |
@@ -20,7 +20,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | [Dynamic Programming](Dynamic-Programming/README.md) | 4 | 4 | 0 | 2 | 1 | 1 |
 | [Stack](Stack/README.md) | 4 | 4 | 0 | 3 | 1 | 0 |
 | [Database](Database/README.md) | 3 | 3 | 0 | 3 | 0 | 0 |
-| [Depth-First Search](Depth-First-Search/README.md) | 2 | 2 | 0 | 1 | 1 | 0 |
+| [Depth-First Search](Depth-First-Search/README.md) | 3 | 3 | 0 | 1 | 2 | 0 |
 | [Backtracking](Backtracking/README.md) | 1 | 1 | 0 | 0 | 1 | 0 |
 | [Bit Manipulation](Bit-Manipulation/README.md) | 1 | 1 | 0 | 1 | 0 | 0 |
 | [Other](Other/README.md) | 1 | 1 | 0 | 1 | 0 | 0 |
@@ -35,6 +35,9 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-26 | [417. Pacific Atlantic Water Flow](Array/0417-pacific-atlantic-water-flow/README.md) | Accepted | cpp |
+| 2026-10-26 | [210. Course Schedule II](Depth-First-Search/0210-course-schedule-ii/README.md) | Accepted | cpp |
+| 2026-10-26 | [207. Course Schedule](Depth-First-Search/0207-course-schedule/README.md) | Accepted | cpp |
 | 2026-10-24 | [112. Path Sum](Tree/0112-path-sum/README.md) | Accepted | cpp |
 | 2026-10-23 | [134. Gas Station](Array/0134-gas-station/README.md) | Accepted | cpp |
 | 2026-10-22 | [57. Insert Interval](Array/0057-insert-interval/README.md) | Accepted | cpp |
@@ -47,15 +50,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-21 | [300. Longest Increasing Subsequence](Array/0300-longest-increasing-subsequence/README.md) | Wrong Answer | cpp |
 | 2026-10-21 | [518. Coin Change II](Array/0518-coin-change-ii/README.md) | Accepted | cpp |
 | 2026-10-21 | [518. Coin Change II](Array/0518-coin-change-ii/README.md) | Time Limit Exceeded | cpp |
-| 2026-10-21 | [322. Coin Change](Array/0322-coin-change/README.md) | Accepted | cpp |
-| 2026-10-21 | [410. Split Array Largest Sum](Array/0410-split-array-largest-sum/README.md) | Accepted | cpp |
-| 2026-10-21 | [410. Split Array Largest Sum](Array/0410-split-array-largest-sum/README.md) | Wrong Answer | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 34 | 88 |
+| 2026-10 | 36 | 91 |
 | 2026-08 | 0 | 14 |
 | 2026-07 | 8 | 39 |
 | 2026-06 | 32 | 108 |
@@ -160,7 +160,8 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 203 | [Remove Linked List Elements](Linked-List/0203-remove-linked-list-elements/README.md) | [Linked List](Linked-List/README.md) | Easy | Solved | 2 | 2026-02-19 | 2026-02-19 |
 | 205 | [Isomorphic Strings](Hash-Table/0205-isomorphic-strings/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 2 | 2026-02-16 | 2026-02-16 |
 | 206 | [Reverse Linked List](Linked-List/0206-reverse-linked-list/README.md) | [Linked List](Linked-List/README.md) | Easy | Solved | 2 | 2026-02-23 | 2026-02-23 |
-| 207 | [Course Schedule](Depth-First-Search/0207-course-schedule/README.md) | [Depth-First Search](Depth-First-Search/README.md) | Medium | Solved | 5 | 2026-07-05 | 2026-07-05 |
+| 207 | [Course Schedule](Depth-First-Search/0207-course-schedule/README.md) | [Depth-First Search](Depth-First-Search/README.md) | Medium | Solved | 6 | 2026-07-05 | 2026-07-05 |
+| 210 | [Course Schedule II](Depth-First-Search/0210-course-schedule-ii/README.md) | [Depth-First Search](Depth-First-Search/README.md) | Medium | Solved | 1 | 2026-10-26 | 2026-10-26 |
 | 213 | [House Robber II](Array/0213-house-robber-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 5 | 2026-10-16 | 2026-10-16 |
 | 215 | [Kth Largest Element in an Array](Array/0215-kth-largest-element-in-an-array/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-10-19 | 2026-10-19 |
 | 217 | [Contains Duplicate](Array/0217-contains-duplicate/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2024-12-22 | 2024-12-22 |
@@ -194,6 +195,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 383 | [Ransom Note](Hash-Table/0383-ransom-note/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 1 | 2026-02-16 | 2026-02-16 |
 | 389 | [Find the Difference](Hash-Table/0389-find-the-difference/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 2 | 2026-02-10 | 2026-02-10 |
 | 410 | [Split Array Largest Sum](Array/0410-split-array-largest-sum/README.md) | [Array](Array/README.md) | Hard | Solved | 3 | 2026-10-21 | 2026-10-21 |
+| 417 | [Pacific Atlantic Water Flow](Array/0417-pacific-atlantic-water-flow/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-10-26 | 2026-10-26 |
 | 424 | [Longest Repeating Character Replacement](Hash-Table/0424-longest-repeating-character-replacement/README.md) | [Hash Table](Hash-Table/README.md) | Medium | Solved | 4 | 2026-10-15 | 2026-10-15 |
 | 437 | [Path Sum III](Tree/0437-path-sum-iii/README.md) | [Tree](Tree/README.md) | Medium | Solved | 2 | 2026-06-12 | 2026-06-12 |
 | 455 | [Assign Cookies](Array/0455-assign-cookies/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-02-13 | 2026-02-13 |

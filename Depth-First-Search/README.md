@@ -4,11 +4,12 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 2 | 2 | 0 | 1 | 1 | 0 |
+| 3 | 3 | 0 | 1 | 2 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
-| 207 | [Course Schedule](../Depth-First-Search/0207-course-schedule/README.md) | Medium | Solved | 5 | cpp | 2026-07-05 |
+| 207 | [Course Schedule](../Depth-First-Search/0207-course-schedule/README.md) | Medium | Solved | 6 | cpp | 2026-07-05 |
+| 210 | [Course Schedule II](../Depth-First-Search/0210-course-schedule-ii/README.md) | Medium | Solved | 1 | cpp | 2026-10-26 |
 | 1971 | [Find if Path Exists in Graph](../Depth-First-Search/1971-find-if-path-exists-in-graph/README.md) | Easy | Solved | 9 | cpp | 2026-07-05 |
 
 ## Also tagged Depth-First Search
@@ -35,6 +36,7 @@ Filed under their main topic, but they use this one too.
 | 236 | [Lowest Common Ancestor of a Binary Tree](../Tree/0236-lowest-common-ancestor-of-a-binary-tree/README.md) | Tree | Medium | Solved |
 | 297 | [Serialize and Deserialize Binary Tree](../String/0297-serialize-and-deserialize-binary-tree/README.md) | String | Hard | Solved |
 | 337 | [House Robber III](../Dynamic-Programming/0337-house-robber-iii/README.md) | Dynamic Programming | Medium | Solved |
+| 417 | [Pacific Atlantic Water Flow](../Array/0417-pacific-atlantic-water-flow/README.md) | Array | Medium | Solved |
 | 437 | [Path Sum III](../Tree/0437-path-sum-iii/README.md) | Tree | Medium | Solved |
 | 463 | [Island Perimeter](../Array/0463-island-perimeter/README.md) | Array | Easy | Solved |
 | 515 | [Find Largest Value in Each Tree Row](../Tree/0515-find-largest-value-in-each-tree-row/README.md) | Tree | Medium | Solved |

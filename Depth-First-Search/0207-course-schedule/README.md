@@ -4,7 +4,7 @@
 
 | Difficulty | Status | Submissions | First tried | Solved on |
 | --- | --- | --- | --- | --- |
-| Medium | Solved | 5 | 2026-07-05 | 2026-07-05 |
+| Medium | Solved | 6 | 2026-07-05 | 2026-07-05 |
 
 **Topics:** Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph
 
@@ -12,12 +12,13 @@
 
 | Language | Result | Runtime | Memory | Date |
 | --- | --- | --- | --- | --- |
-| [cpp](solution.cpp) | Accepted | 8 ms | 20.4 MB | 2026-07-28 |
+| [cpp](solution.cpp) | Accepted | 5 ms | 19.1 MB | 2026-10-26 |
 
 ## Submission history
 
 | Date | Result | Language | Runtime | Memory |
 | --- | --- | --- | --- | --- |
+| 2026-10-26 | Accepted | cpp | 5 ms | 19.1 MB |
 | 2026-07-28 | Accepted | cpp | 8 ms | 20.4 MB |
 | 2026-07-13 | Accepted | cpp | - | - |
 | 2026-07-05 | Accepted | cpp | - | - |
