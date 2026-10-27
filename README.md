@@ -4,7 +4,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 196 | 195 | 1 | 84 | 101 | 10 | 2026-10-26 |
+| 196 | 195 | 1 | 84 | 101 | 10 | 2026-10-27 |
 
 ## Topics
 
@@ -35,6 +35,8 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-27 | [3. Longest Substring Without Repeating Characters](Hash-Table/0003-longest-substring-without-repeating-characters/README.md) | Accepted | cpp |
+| 2026-10-27 | [3. Longest Substring Without Repeating Characters](Hash-Table/0003-longest-substring-without-repeating-characters/README.md) | Accepted | cpp |
 | 2026-10-26 | [417. Pacific Atlantic Water Flow](Array/0417-pacific-atlantic-water-flow/README.md) | Accepted | cpp |
 | 2026-10-26 | [210. Course Schedule II](Depth-First-Search/0210-course-schedule-ii/README.md) | Accepted | cpp |
 | 2026-10-26 | [207. Course Schedule](Depth-First-Search/0207-course-schedule/README.md) | Accepted | cpp |
@@ -48,14 +50,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-21 | [300. Longest Increasing Subsequence](Array/0300-longest-increasing-subsequence/README.md) | Accepted | cpp |
 | 2026-10-21 | [300. Longest Increasing Subsequence](Array/0300-longest-increasing-subsequence/README.md) | Accepted | cpp |
 | 2026-10-21 | [300. Longest Increasing Subsequence](Array/0300-longest-increasing-subsequence/README.md) | Wrong Answer | cpp |
-| 2026-10-21 | [518. Coin Change II](Array/0518-coin-change-ii/README.md) | Accepted | cpp |
-| 2026-10-21 | [518. Coin Change II](Array/0518-coin-change-ii/README.md) | Time Limit Exceeded | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 36 | 91 |
+| 2026-10 | 36 | 93 |
 | 2026-08 | 0 | 14 |
 | 2026-07 | 8 | 39 |
 | 2026-06 | 32 | 108 |
@@ -75,7 +75,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [Two Sum](Array/0001-two-sum/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-01-27 | 2026-01-27 |
 | 2 | [Add Two Numbers](Linked-List/0002-add-two-numbers/README.md) | [Linked List](Linked-List/README.md) | Medium | Solved | 1 | 2026-02-20 | 2026-02-20 |
-| 3 | [Longest Substring Without Repeating Characters](Hash-Table/0003-longest-substring-without-repeating-characters/README.md) | [Hash Table](Hash-Table/README.md) | Medium | Solved | 6 | 2026-02-16 | 2026-02-16 |
+| 3 | [Longest Substring Without Repeating Characters](Hash-Table/0003-longest-substring-without-repeating-characters/README.md) | [Hash Table](Hash-Table/README.md) | Medium | Solved | 8 | 2026-02-16 | 2026-02-16 |
 | 7 | [Reverse Integer](Math/0007-reverse-integer/README.md) | [Math](Math/README.md) | Medium | Solved | 11 | 2024-05-31 | 2024-05-31 |
 | 9 | [Palindrome Number](Math/0009-palindrome-number/README.md) | [Math](Math/README.md) | Easy | Solved | 4 | 2024-05-31 | 2024-05-31 |
 | 13 | [Roman to Integer](Hash-Table/0013-roman-to-integer/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 1 | 2024-12-15 | 2024-12-15 |

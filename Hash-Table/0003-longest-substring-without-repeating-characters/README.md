@@ -4,7 +4,7 @@
 
 | Difficulty | Status | Submissions | First tried | Solved on |
 | --- | --- | --- | --- | --- |
-| Medium | Solved | 6 | 2026-02-16 | 2026-02-16 |
+| Medium | Solved | 8 | 2026-02-16 | 2026-02-16 |
 
 **Topics:** Hash Table, String, Sliding Window
 
@@ -12,12 +12,14 @@
 
 | Language | Result | Runtime | Memory | Date |
 | --- | --- | --- | --- | --- |
-| [cpp](solution.cpp) | Accepted | 346 ms | 81.1 MB | 2026-10-14 |
+| [cpp](solution.cpp) | Accepted | 335 ms | 81.3 MB | 2026-10-27 |
 
 ## Submission history
 
 | Date | Result | Language | Runtime | Memory |
 | --- | --- | --- | --- | --- |
+| 2026-10-27 | Accepted | cpp | 335 ms | 81.3 MB |
+| 2026-10-27 | Accepted | cpp | - | - |
 | 2026-10-14 | Accepted | cpp | 346 ms | 81.1 MB |
 | 2026-10-14 | Accepted | cpp | - | - |
 | 2026-10-14 | Wrong Answer | cpp | - | - |
