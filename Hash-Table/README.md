@@ -8,7 +8,7 @@
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
-| 3 | [Longest Substring Without Repeating Characters](../Hash-Table/0003-longest-substring-without-repeating-characters/README.md) | Medium | Solved | 8 | cpp | 2026-02-16 |
+| 3 | [Longest Substring Without Repeating Characters](../Hash-Table/0003-longest-substring-without-repeating-characters/README.md) | Medium | Solved | 9 | cpp | 2026-02-16 |
 | 13 | [Roman to Integer](../Hash-Table/0013-roman-to-integer/README.md) | Easy | Solved | 1 | cpp | 2024-12-15 |
 | 76 | [Minimum Window Substring](../Hash-Table/0076-minimum-window-substring/README.md) | Hard | Solved | 1 | cpp | 2026-10-15 |
 | 138 | [Copy List with Random Pointer](../Hash-Table/0138-copy-list-with-random-pointer/README.md) | Medium | Solved | 2 | cpp | 2026-03-01 |
